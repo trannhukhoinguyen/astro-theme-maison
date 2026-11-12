@@ -402,11 +402,13 @@ const clientData = JSON.stringify({
               ${[['Detail page', p.detail_page_url], ['Source', p.get_started_url], ['Era', p.epoch], ['Demo', p.live_demo_url], ['Specification', p.spec], ['Availability', avail], ['Patron rating', p.rating.toFixed(1) + '★']].map(([k, v]) => `
                 <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
                   <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">${k}</span>
-                  <span class="min-w-0 flex-1 text-[13.5px] text-ink">
                   {
-                      ${v}.includes('http') ? <a href={${v}} target={"_blank"}>${v}</a> : ${v}
+                      ${v}.includes('http') 
+                        ? <a href={${v}} target={"_blank"}>
+                            <span class="min-w-0 flex-1 text-[13.5px] text-ink">${v}</span>
+                          </a> 
+                        : <span className="min-w-0 flex-1 text-[13.5px] text-ink">${v}</span>
                   }
-                  </span>
                 </div>`).join('')}
             </div>
             <a href="/products/${p.handle}" class="eti text-acc" style="font-size:10.5px">Open the full record →</a>
