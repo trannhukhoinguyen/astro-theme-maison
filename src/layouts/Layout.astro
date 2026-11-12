@@ -378,14 +378,6 @@ const clientData = JSON.stringify({
       }
       function openPiece(handle: string) {
         const p = pieceBy(handle);
-        const avail = p.bespoke ? 'Bespoke commission only' : (p.stock ? 'Held in the vault' : 'On request from the keeper');
-        const specs: [string, string][] = [
-          ['Detail page', p.detail_page_url],
-          ['Source', p.get_started_url],
-          ['Demo', p.live_demo_url],
-          ['Specification', p.spec],
-          ['Availability', avail],
-        ];
         if (!p) return;
         closeAll();
         const inVault = vault.get().includes(p.handle);
@@ -406,24 +398,16 @@ const clientData = JSON.stringify({
               <p class="m-0 mt-1.5 text-[14.5px] leading-[1.75] text-soft">${p.note}</p>
             </div>
             <div class="flex flex-col">
-              ${specs.map(([k, v]) => `
-                    <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
-                        <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">${k}</span>
-                        {String(${v} || '').includes('http') ? (
-                            <a href={String(${v} || '')} target="_blank" class="min-w-0 flex-1 text-[13.5px] text-ink underline">
-                            {String(${v} || '')}
-                            </a>
-                        ) : (
-                            <span class="min-w-0 flex-1 text-[13.5px] text-ink">{String(v || '')}</span>
-                        `)}
-                    </div>
-                  );
-              })}
-            </div>
             <div class="flex flex-col">
-              {specs.map(([k, v]) => {
+              {[
+                ['Detail page', p.detail_page_url],
+                ['Source', p.get_started_url],
+                ['Demo', p.live_demo_url],
+                ['Specification', p.spec],
+                ['Availability', p.bespoke ? 'Bespoke commission only' : (p.stock ? 'Held in the vault' : 'On request from the keeper')],
+              ].map(([k, v]) => {
                 // Chuyển v thành string để kiểm tra an toàn (tránh lỗi nếu v là số hoặc null/undefined)
-                      const stringValue = String(v || '');
+                const stringValue = String(v || '');
                 const isUrl = stringValue.includes('http');
     
                 return (
