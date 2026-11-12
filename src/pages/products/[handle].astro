@@ -71,6 +71,11 @@ const specs: [string, string][] = [
               <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
                 <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">{k}</span>
                 <span class="min-w-0 flex-1 text-[13.5px] text-ink">{v}</span>
+                {v.includes('http')? <a href={v} target={"_blank"}>
+                      <span class="min-w-0 flex-1 text-[13.5px] text-ink">{v}</span>
+                    </a>
+                    : <span class="min-w-0 flex-1 text-[13.5px] text-ink">{v}</span>
+                }
               </div>
           ))}
         </div>
