@@ -3,9 +3,9 @@
 // top bar, serif masthead, Collections mega with a house manifesto, ⌘K
 // search over every house, piece drawer, private vault + acquisition bag
 // (no checkout — "Request the keeper"), patron auth and live currency.
-import '@/styles/global.css';
-import { commerce, providerName } from '@/lib/commerce';
-import catalog from '@/data/astro-free-themes.json';
+import '../styles/global.css';
+import { commerce, providerName } from '../lib/commerce';
+import catalog from '../data/mock-catalog.json';
 
 interface Props {
   title?: string;
@@ -13,12 +13,12 @@ interface Props {
   ogImage?: string;
 }
 const {
-  title = 'Astro themes Maison',
-  description = 'Astro themes archive',
+  title = 'Maison — classic archive storefront theme for Astro',
+  description = 'A printed, editorial light theme: three archive houses, faceted catalogue, patron cabinet, private vault and live currency switching. Astro + Tailwind v4, Shopify-ready.',
   ogImage,
 } = Astro.props;
 
-const siteOrigin = (Astro.site ?? new URL('https://astro-themes-maison.vercel.app')).origin;
+const siteOrigin = (Astro.site ?? new URL('https://astro-njx-maison.pages.dev')).origin;
 const canonicalURL = new URL(Astro.url.pathname, siteOrigin).href;
 const ogImageURL = new URL(ogImage ?? '/logo/maison-og.png', siteOrigin).href;
 const ga4Id = import.meta.env.PUBLIC_GA4_ID;
