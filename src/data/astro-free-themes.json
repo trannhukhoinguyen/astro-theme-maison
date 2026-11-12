@@ -1,4 +1,270 @@
 {
+    "collections": [
+        {
+            "handle": "Blog",
+            "name": "Maison de Haute Horlogerie",
+            "short": "Haute Horlogerie",
+            "meta": "Est. 1888 · Genève",
+            "brandLabel": "House",
+            "title": "Swiss complications and pocket chronometers",
+            "blurb": "Tourbillons, perpetual calendars and Grand Feu enamel bearing the Geneva Seal. Every piece is attested by the workshop archive before it enters the register.",
+            "megaImage": "workshop bench, wide",
+            "megaTitle": "The 1888 Register",
+            "manifesto": "Four watchmakers, one bench, no series production. Pieces leave Geneva only once the archive can account for every component.",
+            "mega": [
+                {
+                    "title": "Complications",
+                    "links": [
+                        [
+                            "Tourbillons",
+                            "One-minute carriages, hand-engraved bridges"
+                        ],
+                        [
+                            "Perpetual calendars",
+                            "Leap-year cycles in Grand Feu enamel"
+                        ],
+                        [
+                            "Minute repeaters",
+                            "Cathedral gongs, cased to order"
+                        ]
+                    ]
+                },
+                {
+                    "title": "Pocket & desk",
+                    "links": [
+                        [
+                            "Pocket chronometers",
+                            "Observatory-certified movements"
+                        ],
+                        [
+                            "Table regulators",
+                            "Seconds pendulum, eight-day run"
+                        ],
+                        [
+                            "Travel clocks",
+                            "Rosewood and brass"
+                        ]
+                    ]
+                },
+                {
+                    "title": "By era",
+                    "links": [
+                        [
+                            "Victorian 1890s",
+                            "Hunter cases and enamel dials"
+                        ],
+                        [
+                            "Art Deco 1930s",
+                            "Applied indices, column wheels"
+                        ],
+                        [
+                            "Belle Époque",
+                            "Guilloché centres, breguet numerals"
+                        ]
+                    ]
+                }
+            ],
+            "suggestions": [
+                "Tourbillon",
+                "Grand Feu",
+                "Platinum 950",
+                "Chronometer"
+            ],
+            "count": 12,
+            "heroImage": "/products/mhh-0398.jpg",
+            "megaImageSrc": "/products/mhh-1888.jpg",
+            "heroTiles": [
+                {
+                    "label": "Belle Époque",
+                    "img": "/products/mhh-0398.jpg"
+                },
+                {
+                    "label": "Art Deco 1930s",
+                    "img": "/products/mhh-0611.jpg"
+                },
+                {
+                    "label": "Victorian 1890s",
+                    "img": "/products/mhh-1888.jpg"
+                }
+            ]
+        },
+        {
+            "handle": "Docs",
+            "name": "Kingsman & Sterling Bespoke",
+            "short": "Kingsman & Sterling",
+            "meta": "Est. 1904 · Savile Row",
+            "brandLabel": "Atelier",
+            "title": "Hand tailoring on a floating canvas",
+            "blurb": "Floating-canvas suits, cashmere ulsters and Goodyear-welted oxfords. Measurements stay in the atelier archive for the patron's lifetime.",
+            "megaImage": "cutting room, wide",
+            "megaTitle": "The Row Ledger",
+            "manifesto": "Every pattern is cut by hand and kept on the shelf. A patron's block is never retired, only amended.",
+            "mega": [
+                {
+                    "title": "Tailoring",
+                    "links": [
+                        [
+                            "Bespoke suits",
+                            "Floating canvas, four fittings"
+                        ],
+                        [
+                            "Dinner tailoring",
+                            "Shawl collars and barathea"
+                        ],
+                        [
+                            "Country jackets",
+                            "Handwoven tweeds"
+                        ]
+                    ]
+                },
+                {
+                    "title": "Outerwear",
+                    "links": [
+                        [
+                            "Cashmere ulsters",
+                            "Double-faced, 780 g"
+                        ],
+                        [
+                            "Covert coats",
+                            "Four rows of stitching"
+                        ],
+                        [
+                            "Travel capes",
+                            "Waxed cotton lining"
+                        ]
+                    ]
+                },
+                {
+                    "title": "Accoutrements",
+                    "links": [
+                        [
+                            "Goodyear oxfords",
+                            "Oak-bark double soles"
+                        ],
+                        [
+                            "Seven-fold ties",
+                            "Unlined Como silk"
+                        ],
+                        [
+                            "Sea Island shirts",
+                            "Detachable collars"
+                        ]
+                    ]
+                }
+            ],
+            "suggestions": [
+                "Cashmere",
+                "Goodyear",
+                "Super 160s",
+                "Seven-fold"
+            ],
+            "count": 12,
+            "heroImage": "/products/ks-3311.jpg",
+            "megaImageSrc": "/products/ks-3520.jpg",
+            "heroTiles": [
+                {
+                    "label": "Belle Époque",
+                    "img": "/products/ks-2455.jpg"
+                },
+                {
+                    "label": "Art Deco 1930s",
+                    "img": "/products/ks-2712.jpg"
+                },
+                {
+                    "label": "Victorian 1890s",
+                    "img": "/products/ks-3520.jpg"
+                }
+            ]
+        },
+        {
+            "handle": "E-commerce",
+            "name": "L'Atelier des Bibliophiles",
+            "short": "Bibliophiles",
+            "meta": "Est. 1792 · Paris",
+            "brandLabel": "Imprint",
+            "title": "First editions, astrolabes and writing instruments",
+            "blurb": "1751 editions in morocco, brass astrolabes and 14K nibs. Every lot carries a condition report and a documented provenance.",
+            "megaImage": "bindery table, wide",
+            "megaTitle": "The 1792 Cabinet",
+            "manifesto": "Nothing enters the cabinet without a provenance a scholar could follow. Condition reports are written by hand and kept with the lot.",
+            "mega": [
+                {
+                    "title": "Books",
+                    "links": [
+                        [
+                            "First editions",
+                            "Morocco bindings, complete plates"
+                        ],
+                        [
+                            "Bespoke binding",
+                            "Six-pass armorial tooling"
+                        ],
+                        [
+                            "Atlases",
+                            "Engraved and hand-coloured"
+                        ]
+                    ]
+                },
+                {
+                    "title": "Instruments",
+                    "links": [
+                        [
+                            "Astrolabes",
+                            "Engraved latitude tympans"
+                        ],
+                        [
+                            "Celestial globes",
+                            "Hevelius constellations"
+                        ],
+                        [
+                            "Sextants",
+                            "Vernier, original cases"
+                        ]
+                    ]
+                },
+                {
+                    "title": "Desk",
+                    "links": [
+                        [
+                            "Fountain pens",
+                            "14K nibs set by hand"
+                        ],
+                        [
+                            "Blotters",
+                            "Morocco with gilt rule"
+                        ],
+                        [
+                            "Russia-leather cases",
+                            "Birch-tanned, saddle-stitched"
+                        ]
+                    ]
+                }
+            ],
+            "suggestions": [
+                "First edition",
+                "Astrolabe",
+                "14K nib",
+                "Morocco"
+            ],
+            "count": 12,
+            "heroImage": "/products/ab-0899.jpg",
+            "megaImageSrc": "/products/ab-1234.jpg",
+            "heroTiles": [
+                {
+                    "label": "Enlightenment",
+                    "img": "/products/ab-0899.jpg"
+                },
+                {
+                    "label": "Belle Époque",
+                    "img": "/products/ab-2010.jpg"
+                },
+                {
+                    "label": "Victorian 1890s",
+                    "img": "/products/ab-1234.jpg"
+                }
+            ]
+        }
+    ],
     "products":[
         {
             "title": "Astara",
