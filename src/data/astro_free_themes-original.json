@@ -6,6 +6,23 @@
         "get_started_url": "https://github.com/withastro/astro",
         "live_demo_url": "https://astara-three.vercel.app",
         "page_source": 1,
+        "tags": [
+            "React",
+            "Tailwind",
+            "Astro 5.0+",
+            "No Search",
+            "Docs type"
+        ],
+        "collectionHandles": [
+            "Blog",
+            "Docs",
+            "E-commerce",
+            "Landing Page",
+            "Minimal",
+            "Official",
+            "Other",
+            "Portfolio"
+        ],
         "detail_page_url": "https://astro.build/themes/details/astara/"
     },
     {
