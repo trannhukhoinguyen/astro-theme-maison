@@ -309,6 +309,7 @@
                 "Portfolio"
             ],
             "detail_page_url": "https://astro.build/themes/details/astara/",
+            "download": "public/download/astara.zip",
             "spec": "React - Tailwind",
             "handle": "astara",
             "id": "astara"
@@ -349,6 +350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/gloss/",
+            "download": "public/download/gloss.zip",
             "spec": "",
             "handle": "gloss",
             "id": "gloss"
@@ -389,6 +391,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blog-hishaku/",
+            "download": "public/download/blog-hishaku.zip",
             "spec": "",
             "handle": "blog-hishaku",
             "id": "blog-hishaku"
@@ -429,6 +432,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/towardslight/",
+            "download": "public/download/towardslight.zip",
             "spec": "",
             "handle": "towardslight",
             "id": "towardslight"
@@ -469,6 +473,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/payday/",
+            "download": "public/download/payday.zip",
             "spec": "",
             "handle": "payday",
             "id": "payday"
@@ -509,6 +514,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stratus/",
+            "download": "public/download/stratus.zip",
             "spec": "",
             "handle": "stratus",
             "id": "stratus"
@@ -549,6 +555,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bloggpt/",
+            "download": "public/download/bloggpt.zip",
             "spec": "",
             "handle": "bloggpt",
             "id": "bloggpt"
@@ -589,6 +596,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrowebtheme-free/",
+            "download": "public/download/astrowebtheme-free.zip",
             "spec": "",
             "handle": "astrowebtheme-free",
             "id": "astrowebtheme-free"
@@ -629,6 +637,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tearsheet/",
+            "download": "public/download/tearsheet.zip",
             "spec": "",
             "handle": "tearsheet",
             "id": "tearsheet"
@@ -669,6 +678,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrosage/",
+            "download": "public/download/astrosage.zip",
             "spec": "",
             "handle": "astrosage",
             "id": "astrosage"
@@ -709,6 +719,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/seasons/",
+            "download": "public/download/seasons.zip",
             "spec": "",
             "handle": "seasons",
             "id": "seasons"
@@ -749,6 +760,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/inkline/",
+            "download": "public/download/inkline.zip",
             "spec": "",
             "handle": "inkline",
             "id": "inkline"
@@ -789,6 +801,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/terminal-noir/",
+            "download": "public/download/terminal-noir.zip",
             "spec": "",
             "handle": "terminal-noir",
             "id": "terminal-noir"
@@ -829,6 +842,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kavelle/",
+            "download": "public/download/kavelle.zip",
             "spec": "",
             "handle": "kavelle",
             "id": "kavelle"
@@ -869,6 +883,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/forma-construction-and-renovation/",
+            "download": "public/download/forma-construction-and-renovation.zip",
             "spec": "",
             "handle": "forma-construction-and-renovation",
             "id": "forma-construction-and-renovation"
@@ -909,6 +924,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/daybook/",
+            "download": "public/download/daybook.zip",
             "spec": "",
             "handle": "daybook",
             "id": "daybook"
@@ -950,6 +966,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/the-navigator/",
+            "download": "public/download/the-navigator.zip",
             "spec": "",
             "handle": "the-navigator",
             "id": "the-navigator"
@@ -990,6 +1007,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/riviera-villa-lite/",
+            "download": "public/download/riviera-villa-lite.zip",
             "spec": "",
             "handle": "riviera-villa-lite",
             "id": "riviera-villa-lite"
@@ -1030,6 +1048,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shoal/",
+            "download": "public/download/shoal.zip",
             "spec": "",
             "handle": "shoal",
             "id": "shoal"
@@ -1070,6 +1089,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boutique/",
+            "download": "public/download/boutique.zip",
             "spec": "",
             "handle": "boutique",
             "id": "boutique"
@@ -1110,6 +1130,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kairo-saas-landing-page-theme/",
+            "download": "public/download/kairo-saas-landing-page-theme.zip",
             "spec": "",
             "handle": "kairo-saas-landing-page-theme",
             "id": "kairo-saas-landing-page-theme"
@@ -1150,6 +1171,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-wellness/",
+            "download": "public/download/astro-wellness.zip",
             "spec": "",
             "handle": "astro-wellness",
             "id": "astro-wellness"
@@ -1190,6 +1212,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/print/",
+            "download": "public/download/print.zip",
             "spec": "",
             "handle": "print",
             "id": "print"
@@ -1230,6 +1253,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blogcordv2/",
+            "download": "public/download/blogcordv2.zip",
             "spec": "",
             "handle": "blogcordv2",
             "id": "blogcordv2"
@@ -1270,6 +1294,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-awesome-cv/",
+            "download": "public/download/astro-awesome-cv.zip",
             "spec": "",
             "handle": "astro-awesome-cv",
             "id": "astro-awesome-cv"
@@ -1310,6 +1335,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/growing-galaxy/",
+            "download": "public/download/growing-galaxy.zip",
             "spec": "",
             "handle": "growing-galaxy",
             "id": "growing-galaxy"
@@ -1350,6 +1376,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/craftline/",
+            "download": "public/download/craftline.zip",
             "spec": "",
             "handle": "craftline",
             "id": "craftline"
@@ -1390,6 +1417,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quell/",
+            "download": "public/download/quell.zip",
             "spec": "",
             "handle": "quell",
             "id": "quell"
@@ -1430,6 +1458,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/grimorio/",
+            "download": "public/download/grimorio.zip",
             "spec": "",
             "handle": "grimorio",
             "id": "grimorio"
@@ -1470,6 +1499,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tomoshibi/",
+            "download": "public/download/tomoshibi.zip",
             "spec": "",
             "handle": "tomoshibi",
             "id": "tomoshibi"
@@ -1510,6 +1540,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/runlog-lite-free-ai-agent-landing-page-theme/",
+            "download": "public/download/runlog-lite-free-ai-agent-landing-page-theme.zip",
             "spec": "",
             "handle": "runlog-lite-free-ai-agent-landing-page-theme",
             "id": "runlog-lite-free-ai-agent-landing-page-theme"
@@ -1550,6 +1581,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/memory-atlas/",
+            "download": "public/download/memory-atlas.zip",
             "spec": "",
             "handle": "memory-atlas",
             "id": "memory-atlas"
@@ -1590,6 +1622,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/st-ai-agency/",
+            "download": "public/download/st-ai-agency.zip",
             "spec": "",
             "handle": "st-ai-agency",
             "id": "st-ai-agency"
@@ -1630,6 +1663,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lattice/",
+            "download": "public/download/lattice.zip",
             "spec": "",
             "handle": "lattice",
             "id": "lattice"
@@ -1670,6 +1704,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/larkin/",
+            "download": "public/download/larkin.zip",
             "spec": "",
             "handle": "larkin",
             "id": "larkin"
@@ -1710,6 +1745,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/orrery/",
+            "download": "public/download/orrery.zip",
             "spec": "",
             "handle": "orrery",
             "id": "orrery"
@@ -1750,6 +1786,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/solenne/",
+            "download": "public/download/solenne.zip",
             "spec": "",
             "handle": "solenne",
             "id": "solenne"
@@ -1790,6 +1827,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-seo/",
+            "download": "public/download/astro-seo.zip",
             "spec": "",
             "handle": "astro-seo",
             "id": "astro-seo"
@@ -1830,6 +1868,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/maison-classic-luxury-storefront/",
+            "download": "public/download/maison-classic-luxury-storefront.zip",
             "spec": "",
             "handle": "maison-classic-luxury-storefront",
             "id": "maison-classic-luxury-storefront"
@@ -1870,6 +1909,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-jing/",
+            "download": "public/download/astro-jing.zip",
             "spec": "",
             "handle": "astro-jing",
             "id": "astro-jing"
@@ -1910,6 +1950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/leader/",
+            "download": "public/download/leader.zip",
             "spec": "",
             "handle": "leader",
             "id": "leader"
@@ -1950,6 +1991,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/marby-real-estate-template/",
+            "download": "public/download/marby-real-estate-template.zip",
             "spec": "",
             "handle": "marby-real-estate-template",
             "id": "marby-real-estate-template"
@@ -1990,6 +2032,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lapse-ai-saas-template/",
+            "download": "public/download/lapse-ai-saas-template.zip",
             "spec": "",
             "handle": "lapse-ai-saas-template",
             "id": "lapse-ai-saas-template"
@@ -2030,6 +2073,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/plainblog/",
+            "download": "public/download/plainblog.zip",
             "spec": "",
             "handle": "plainblog",
             "id": "plainblog"
@@ -2070,6 +2114,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/amazing-mare-blog/",
+            "download": "public/download/amazing-mare-blog.zip",
             "spec": "",
             "handle": "amazing-mare-blog",
             "id": "amazing-mare-blog"
@@ -2110,6 +2155,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minrock/",
+            "download": "public/download/minrock.zip",
             "spec": "",
             "handle": "minrock",
             "id": "minrock"
@@ -2150,6 +2196,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-monorepo-starter-landing-page-blog/",
+            "download": "public/download/astro-monorepo-starter-landing-page-blog.zip",
             "spec": "",
             "handle": "astro-monorepo-starter-landing-page-blog",
             "id": "astro-monorepo-starter-landing-page-blog"
@@ -2190,6 +2237,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/elias-vent-portfolio-template/",
+            "download": "public/download/elias-vent-portfolio-template.zip",
             "spec": "",
             "handle": "elias-vent-portfolio-template",
             "id": "elias-vent-portfolio-template"
@@ -2230,6 +2278,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/yoga-fitness/",
+            "download": "public/download/yoga-fitness.zip",
             "spec": "",
             "handle": "yoga-fitness",
             "id": "yoga-fitness"
@@ -2270,6 +2319,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/handspark/",
+            "download": "public/download/handspark.zip",
             "spec": "",
             "handle": "handspark",
             "id": "handspark"
@@ -2310,6 +2360,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ink/",
+            "download": "public/download/ink.zip",
             "spec": "",
             "handle": "ink",
             "id": "ink"
@@ -2350,6 +2401,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/noble-muse-editorial-fashion-storefront/",
+            "download": "public/download/noble-muse-editorial-fashion-storefront.zip",
             "spec": "",
             "handle": "noble-muse-editorial-fashion-storefront",
             "id": "noble-muse-editorial-fashion-storefront"
@@ -2390,6 +2442,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pudding/",
+            "download": "public/download/pudding.zip",
             "spec": "",
             "handle": "pudding",
             "id": "pudding"
@@ -2430,6 +2483,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/varsha/",
+            "download": "public/download/varsha.zip",
             "spec": "",
             "handle": "varsha",
             "id": "varsha"
@@ -2470,6 +2524,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-plain/",
+            "download": "public/download/astro-plain.zip",
             "spec": "",
             "handle": "astro-plain",
             "id": "astro-plain"
@@ -2510,6 +2565,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/swp-freelancer-portfolio/",
+            "download": "public/download/swp-freelancer-portfolio.zip",
             "spec": "",
             "handle": "swp-freelancer-portfolio",
             "id": "swp-freelancer-portfolio"
@@ -2550,6 +2606,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/halftone/",
+            "download": "public/download/halftone.zip",
             "spec": "",
             "handle": "halftone",
             "id": "halftone"
@@ -2590,6 +2647,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mailer/",
+            "download": "public/download/mailer.zip",
             "spec": "",
             "handle": "mailer",
             "id": "mailer"
@@ -2630,6 +2688,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/domuspicturae/",
+            "download": "public/download/domuspicturae.zip",
             "spec": "",
             "handle": "domuspicturae",
             "id": "domuspicturae"
@@ -2670,6 +2729,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/masthead/",
+            "download": "public/download/masthead.zip",
             "spec": "",
             "handle": "masthead",
             "id": "masthead"
@@ -2710,6 +2770,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-blog-wiki-template-editorial-website-starter/",
+            "download": "public/download/astro-portfolio-blog-wiki-template-editorial-website-starter.zip",
             "spec": "",
             "handle": "astro-portfolio-blog-wiki-template-editorial-website-starter",
             "id": "astro-portfolio-blog-wiki-template-editorial-website-starter"
@@ -2750,6 +2811,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/parley-ai-agent-saas-template/",
+            "download": "public/download/parley-ai-agent-saas-template.zip",
             "spec": "",
             "handle": "parley-ai-agent-saas-template",
             "id": "parley-ai-agent-saas-template"
@@ -2790,6 +2852,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/gazette/",
+            "download": "public/download/gazette.zip",
             "spec": "",
             "handle": "gazette",
             "id": "gazette"
@@ -2830,6 +2893,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/landpack/",
+            "download": "public/download/landpack.zip",
             "spec": "",
             "handle": "landpack",
             "id": "landpack"
@@ -2870,6 +2934,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dong/",
+            "download": "public/download/dong.zip",
             "spec": "",
             "handle": "dong",
             "id": "dong"
@@ -2910,6 +2975,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quarry/",
+            "download": "public/download/quarry.zip",
             "spec": "",
             "handle": "quarry",
             "id": "quarry"
@@ -2950,6 +3016,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-njx-store/",
+            "download": "public/download/astro-njx-store.zip",
             "spec": "",
             "handle": "astro-njx-store",
             "id": "astro-njx-store"
@@ -2990,6 +3057,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/operstack-astro-starter/",
+            "download": "public/download/operstack-astro-starter.zip",
             "spec": "",
             "handle": "operstack-astro-starter",
             "id": "operstack-astro-starter"
@@ -3030,6 +3098,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/vitrine/",
+            "download": "public/download/vitrine.zip",
             "spec": "",
             "handle": "vitrine",
             "id": "vitrine"
@@ -3070,6 +3139,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/wqqzdev/",
+            "download": "public/download/wqqzdev.zip",
             "spec": "",
             "handle": "wqqzdev",
             "id": "wqqzdev"
@@ -3110,6 +3180,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fumika/",
+            "download": "public/download/fumika.zip",
             "spec": "",
             "handle": "fumika",
             "id": "fumika"
@@ -3150,6 +3221,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kanade/",
+            "download": "public/download/kanade.zip",
             "spec": "",
             "handle": "kanade",
             "id": "kanade"
@@ -3190,6 +3262,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sumi/",
+            "download": "public/download/sumi.zip",
             "spec": "",
             "handle": "sumi",
             "id": "sumi"
@@ -3230,6 +3303,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zolt-shadcn-ui-portfolio-landing-page-template/",
+            "download": "public/download/zolt-shadcn-ui-portfolio-landing-page-template.zip",
             "spec": "",
             "handle": "zolt-shadcn-ui-portfolio-landing-page-template",
             "id": "zolt-shadcn-ui-portfolio-landing-page-template"
@@ -3270,6 +3344,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/latentfolio/",
+            "download": "public/download/latentfolio.zip",
             "spec": "",
             "handle": "latentfolio",
             "id": "latentfolio"
@@ -3310,6 +3385,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/small-business-starter-version-2/",
+            "download": "public/download/small-business-starter-version-2.zip",
             "spec": "",
             "handle": "small-business-starter-version-2",
             "id": "small-business-starter-version-2"
@@ -3350,6 +3426,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cloomba-conference/",
+            "download": "public/download/cloomba-conference.zip",
             "spec": "",
             "handle": "cloomba-conference",
             "id": "cloomba-conference"
@@ -3390,6 +3467,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shirone/",
+            "download": "public/download/shirone.zip",
             "spec": "",
             "handle": "shirone",
             "id": "shirone"
@@ -3430,6 +3508,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/liquid-glass-blog/",
+            "download": "public/download/liquid-glass-blog.zip",
             "spec": "",
             "handle": "liquid-glass-blog",
             "id": "liquid-glass-blog"
@@ -3470,6 +3549,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ai-ready-premium-creative-agency-template/",
+            "download": "public/download/ai-ready-premium-creative-agency-template.zip",
             "spec": "",
             "handle": "ai-ready-premium-creative-agency-template",
             "id": "ai-ready-premium-creative-agency-template"
@@ -3510,6 +3590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pilcrow/",
+            "download": "public/download/pilcrow.zip",
             "spec": "",
             "handle": "pilcrow",
             "id": "pilcrow"
@@ -3550,6 +3631,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ermaozi/",
+            "download": "public/download/ermaozi.zip",
             "spec": "",
             "handle": "ermaozi",
             "id": "ermaozi"
@@ -3590,6 +3672,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/studio-pulse/",
+            "download": "public/download/studio-pulse.zip",
             "spec": "",
             "handle": "studio-pulse",
             "id": "studio-pulse"
@@ -3630,6 +3713,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-art-portfolio/",
+            "download": "public/download/astro-art-portfolio.zip",
             "spec": "",
             "handle": "astro-art-portfolio",
             "id": "astro-art-portfolio"
@@ -3670,6 +3754,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroarabia/",
+            "download": "public/download/astroarabia.zip",
             "spec": "",
             "handle": "astroarabia",
             "id": "astroarabia"
@@ -3710,6 +3795,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/space/",
+            "download": "public/download/space.zip",
             "spec": "",
             "handle": "space",
             "id": "space"
@@ -3750,6 +3836,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/citrusgrid/",
+            "download": "public/download/citrusgrid.zip",
             "spec": "",
             "handle": "citrusgrid",
             "id": "citrusgrid"
@@ -3790,6 +3877,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-frame-shift/",
+            "download": "public/download/astro-frame-shift.zip",
             "spec": "",
             "handle": "astro-frame-shift",
             "id": "astro-frame-shift"
@@ -3830,6 +3918,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/darkminimal/",
+            "download": "public/download/darkminimal.zip",
             "spec": "",
             "handle": "darkminimal",
             "id": "darkminimal"
@@ -3870,6 +3959,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/solitude/",
+            "download": "public/download/solitude.zip",
             "spec": "",
             "handle": "solitude",
             "id": "solitude"
@@ -3910,6 +4000,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/8-bitquest/",
+            "download": "public/download/8-bitquest.zip",
             "spec": "",
             "handle": "8-bitquest",
             "id": "8-bitquest"
@@ -3950,6 +4041,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/scholarly/",
+            "download": "public/download/scholarly.zip",
             "spec": "",
             "handle": "scholarly",
             "id": "scholarly"
@@ -3990,6 +4082,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/notion-like-bento-blog/",
+            "download": "public/download/notion-like-bento-blog.zip",
             "spec": "",
             "handle": "notion-like-bento-blog",
             "id": "notion-like-bento-blog"
@@ -4030,6 +4123,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/retro-tui-portfolio/",
+            "download": "public/download/retro-tui-portfolio.zip",
             "spec": "",
             "handle": "retro-tui-portfolio",
             "id": "retro-tui-portfolio"
@@ -4070,6 +4164,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-resume-minimal-template/",
+            "download": "public/download/astro-resume-minimal-template.zip",
             "spec": "",
             "handle": "astro-resume-minimal-template",
             "id": "astro-resume-minimal-template"
@@ -4110,6 +4205,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dotcv/",
+            "download": "public/download/dotcv.zip",
             "spec": "",
             "handle": "dotcv",
             "id": "dotcv"
@@ -4150,6 +4246,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/good-looking-basics-blog/",
+            "download": "public/download/good-looking-basics-blog.zip",
             "spec": "",
             "handle": "good-looking-basics-blog",
             "id": "good-looking-basics-blog"
@@ -4190,6 +4287,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/monograph/",
+            "download": "public/download/monograph.zip",
             "spec": "",
             "handle": "monograph",
             "id": "monograph"
@@ -4230,6 +4328,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-distro/",
+            "download": "public/download/astro-distro.zip",
             "spec": "",
             "handle": "astro-distro",
             "id": "astro-distro"
@@ -4270,6 +4369,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-wanderer/",
+            "download": "public/download/astro-wanderer.zip",
             "spec": "",
             "handle": "astro-wanderer",
             "id": "astro-wanderer"
@@ -4310,6 +4410,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/popular/",
+            "download": "public/download/popular.zip",
             "spec": "",
             "handle": "popular",
             "id": "popular"
@@ -4350,6 +4451,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/misthaven/",
+            "download": "public/download/misthaven.zip",
             "spec": "",
             "handle": "misthaven",
             "id": "misthaven"
@@ -4390,6 +4492,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/healthcore-medical-healthcare-template/",
+            "download": "public/download/healthcore-medical-healthcare-template.zip",
             "spec": "",
             "handle": "healthcore-medical-healthcare-template",
             "id": "healthcore-medical-healthcare-template"
@@ -4430,6 +4533,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/biluo/",
+            "download": "public/download/biluo.zip",
             "spec": "",
             "handle": "biluo",
             "id": "biluo"
@@ -4470,6 +4574,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/reef/",
+            "download": "public/download/reef.zip",
             "spec": "",
             "handle": "reef",
             "id": "reef"
@@ -4510,6 +4615,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lotus/",
+            "download": "public/download/lotus.zip",
             "spec": "",
             "handle": "lotus",
             "id": "lotus"
@@ -4550,6 +4656,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/a-quiet-publication/",
+            "download": "public/download/a-quiet-publication.zip",
             "spec": "",
             "handle": "a-quiet-publication",
             "id": "a-quiet-publication"
@@ -4590,6 +4697,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/logflow/",
+            "download": "public/download/logflow.zip",
             "spec": "",
             "handle": "logflow",
             "id": "logflow"
@@ -4630,6 +4738,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-theme-black/",
+            "download": "public/download/starlight-theme-black.zip",
             "spec": "",
             "handle": "starlight-theme-black",
             "id": "starlight-theme-black"
@@ -4670,6 +4779,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/viva-medical-healthcare-astro-theme/",
+            "download": "public/download/viva-medical-healthcare-astro-theme.zip",
             "spec": "",
             "handle": "viva-medical-healthcare-astro-theme",
             "id": "viva-medical-healthcare-astro-theme"
@@ -4710,6 +4820,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-palette/",
+            "download": "public/download/astro-palette.zip",
             "spec": "",
             "handle": "astro-palette",
             "id": "astro-palette"
@@ -4750,6 +4861,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-by-siteplayai/",
+            "download": "public/download/minimal-by-siteplayai.zip",
             "spec": "",
             "handle": "minimal-by-siteplayai",
             "id": "minimal-by-siteplayai"
@@ -4790,6 +4902,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/c00d-astro-directory/",
+            "download": "public/download/c00d-astro-directory.zip",
             "spec": "",
             "handle": "c00d-astro-directory",
             "id": "c00d-astro-directory"
@@ -4830,6 +4943,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-star-scholar/",
+            "download": "public/download/astro-star-scholar.zip",
             "spec": "",
             "handle": "astro-star-scholar",
             "id": "astro-star-scholar"
@@ -4870,6 +4984,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/recruit/",
+            "download": "public/download/recruit.zip",
             "spec": "",
             "handle": "recruit",
             "id": "recruit"
@@ -4910,6 +5025,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/refined-x/",
+            "download": "public/download/refined-x.zip",
             "spec": "",
             "handle": "refined-x",
             "id": "refined-x"
@@ -4950,6 +5066,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/exquisitus-for-starlight/",
+            "download": "public/download/exquisitus-for-starlight.zip",
             "spec": "",
             "handle": "exquisitus-for-starlight",
             "id": "exquisitus-for-starlight"
@@ -4990,6 +5107,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chalet/",
+            "download": "public/download/chalet.zip",
             "spec": "",
             "handle": "chalet",
             "id": "chalet"
@@ -5030,6 +5148,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/3dinterior/",
+            "download": "public/download/3dinterior.zip",
             "spec": "",
             "handle": "3dinterior",
             "id": "3dinterior"
@@ -5070,6 +5189,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ulbo/",
+            "download": "public/download/ulbo.zip",
             "spec": "",
             "handle": "ulbo",
             "id": "ulbo"
@@ -5110,6 +5230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stardrive/",
+            "download": "public/download/stardrive.zip",
             "spec": "",
             "handle": "stardrive",
             "id": "stardrive"
@@ -5150,6 +5271,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/terminal-astro/",
+            "download": "public/download/terminal-astro.zip",
             "spec": "",
             "handle": "terminal-astro",
             "id": "terminal-astro"
@@ -5190,6 +5312,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kepler/",
+            "download": "public/download/kepler.zip",
             "spec": "",
             "handle": "kepler",
             "id": "kepler"
@@ -5230,6 +5353,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-starter/",
+            "download": "public/download/ricoui-starter.zip",
             "spec": "",
             "handle": "ricoui-starter",
             "id": "ricoui-starter"
@@ -5270,6 +5394,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/patrika/",
+            "download": "public/download/patrika.zip",
             "spec": "",
             "handle": "patrika",
             "id": "patrika"
@@ -5310,6 +5435,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/intermediate-astro-decap-cms/",
+            "download": "public/download/intermediate-astro-decap-cms.zip",
             "spec": "",
             "handle": "intermediate-astro-decap-cms",
             "id": "intermediate-astro-decap-cms"
@@ -5350,6 +5476,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/atelier-k/",
+            "download": "public/download/atelier-k.zip",
             "spec": "",
             "handle": "atelier-k",
             "id": "atelier-k"
@@ -5390,6 +5517,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-narrow/",
+            "download": "public/download/astro-narrow.zip",
             "spec": "",
             "handle": "astro-narrow",
             "id": "astro-narrow"
@@ -5430,6 +5558,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-cloudflare-starter/",
+            "download": "public/download/astro-cloudflare-starter.zip",
             "spec": "",
             "handle": "astro-cloudflare-starter",
             "id": "astro-cloudflare-starter"
@@ -5470,6 +5599,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/capsulex/",
+            "download": "public/download/capsulex.zip",
             "spec": "",
             "handle": "capsulex",
             "id": "capsulex"
@@ -5510,6 +5640,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/techlo-lite-it-software-agencies-astro-theme/",
+            "download": "public/download/techlo-lite-it-software-agencies-astro-theme.zip",
             "spec": "",
             "handle": "techlo-lite-it-software-agencies-astro-theme",
             "id": "techlo-lite-it-software-agencies-astro-theme"
@@ -5550,6 +5681,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-portfolio/",
+            "download": "public/download/astro-starter-portfolio.zip",
             "spec": "",
             "handle": "astro-starter-portfolio",
             "id": "astro-starter-portfolio"
@@ -5590,6 +5722,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/healnet/",
+            "download": "public/download/healnet.zip",
             "spec": "",
             "handle": "healnet",
             "id": "healnet"
@@ -5630,6 +5763,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-photo-folio/",
+            "download": "public/download/astro-photo-folio.zip",
             "spec": "",
             "handle": "astro-photo-folio",
             "id": "astro-photo-folio"
@@ -5670,6 +5804,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lipi/",
+            "download": "public/download/lipi.zip",
             "spec": "",
             "handle": "lipi",
             "id": "lipi"
@@ -5710,6 +5845,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/travellian-travel-agency-landing-page/",
+            "download": "public/download/travellian-travel-agency-landing-page.zip",
             "spec": "",
             "handle": "travellian-travel-agency-landing-page",
             "id": "travellian-travel-agency-landing-page"
@@ -5750,6 +5886,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/veka/",
+            "download": "public/download/veka.zip",
             "spec": "",
             "handle": "veka",
             "id": "veka"
@@ -5790,6 +5927,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-keel/",
+            "download": "public/download/astro-keel.zip",
             "spec": "",
             "handle": "astro-keel",
             "id": "astro-keel"
@@ -5830,6 +5968,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-emdash-starter/",
+            "download": "public/download/astro-emdash-starter.zip",
             "spec": "",
             "handle": "astro-emdash-starter",
             "id": "astro-emdash-starter"
@@ -5870,6 +6009,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quietpages/",
+            "download": "public/download/quietpages.zip",
             "spec": "",
             "handle": "quietpages",
             "id": "quietpages"
@@ -5910,6 +6050,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blast-blue-astro-theme/",
+            "download": "public/download/blast-blue-astro-theme.zip",
             "spec": "",
             "handle": "blast-blue-astro-theme",
             "id": "blast-blue-astro-theme"
@@ -5950,6 +6091,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-haze/",
+            "download": "public/download/astro-haze.zip",
             "spec": "",
             "handle": "astro-haze",
             "id": "astro-haze"
@@ -5990,6 +6132,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ombra/",
+            "download": "public/download/ombra.zip",
             "spec": "",
             "handle": "ombra",
             "id": "ombra"
@@ -6030,6 +6173,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-sidey/",
+            "download": "public/download/astro-sidey.zip",
             "spec": "",
             "handle": "astro-sidey",
             "id": "astro-sidey"
@@ -6070,6 +6214,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-blog/",
+            "download": "public/download/ricoui-blog.zip",
             "spec": "",
             "handle": "ricoui-blog",
             "id": "ricoui-blog"
@@ -6110,6 +6255,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-saas-template/",
+            "download": "public/download/ricoui-saas-template.zip",
             "spec": "",
             "handle": "ricoui-saas-template",
             "id": "ricoui-saas-template"
@@ -6150,6 +6296,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sify/",
+            "download": "public/download/sify.zip",
             "spec": "",
             "handle": "sify",
             "id": "sify"
@@ -6190,6 +6337,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/compass/",
+            "download": "public/download/compass.zip",
             "spec": "",
             "handle": "compass",
             "id": "compass"
@@ -6230,6 +6378,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/casper/",
+            "download": "public/download/casper.zip",
             "spec": "",
             "handle": "casper",
             "id": "casper"
@@ -6270,6 +6419,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/alba/",
+            "download": "public/download/alba.zip",
             "spec": "",
             "handle": "alba",
             "id": "alba"
@@ -6310,6 +6460,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/manduca/",
+            "download": "public/download/manduca.zip",
             "spec": "",
             "handle": "manduca",
             "id": "manduca"
@@ -6350,6 +6501,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tone/",
+            "download": "public/download/tone.zip",
             "spec": "",
             "handle": "tone",
             "id": "tone"
@@ -6390,6 +6542,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aonote/",
+            "download": "public/download/aonote.zip",
             "spec": "",
             "handle": "aonote",
             "id": "aonote"
@@ -6430,6 +6583,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pulsar-lite/",
+            "download": "public/download/pulsar-lite.zip",
             "spec": "",
             "handle": "pulsar-lite",
             "id": "pulsar-lite"
@@ -6470,6 +6624,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/procleaning/",
+            "download": "public/download/procleaning.zip",
             "spec": "",
             "handle": "procleaning",
             "id": "procleaning"
@@ -6510,6 +6665,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-i18n/",
+            "download": "public/download/astro-i18n.zip",
             "spec": "",
             "handle": "astro-i18n",
             "id": "astro-i18n"
@@ -6550,6 +6706,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/catppuccin-for-starlight/",
+            "download": "public/download/catppuccin-for-starlight.zip",
             "spec": "",
             "handle": "catppuccin-for-starlight",
             "id": "catppuccin-for-starlight"
@@ -6590,6 +6747,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/entropic/",
+            "download": "public/download/entropic.zip",
             "spec": "",
             "handle": "entropic",
             "id": "entropic"
@@ -6630,6 +6788,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pulsar/",
+            "download": "public/download/pulsar.zip",
             "spec": "",
             "handle": "pulsar",
             "id": "pulsar"
@@ -6670,6 +6829,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fyrre/",
+            "download": "public/download/fyrre.zip",
             "spec": "",
             "handle": "fyrre",
             "id": "fyrre"
@@ -6710,6 +6870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lonetrail/",
+            "download": "public/download/lonetrail.zip",
             "spec": "",
             "handle": "lonetrail",
             "id": "lonetrail"
@@ -6750,6 +6911,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zenix/",
+            "download": "public/download/zenix.zip",
             "spec": "",
             "handle": "zenix",
             "id": "zenix"
@@ -6790,6 +6952,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/navfolio/",
+            "download": "public/download/navfolio.zip",
             "spec": "",
             "handle": "navfolio",
             "id": "navfolio"
@@ -6830,6 +6993,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-services-marketing-sidebar-apex-theme/",
+            "download": "public/download/astro-services-marketing-sidebar-apex-theme.zip",
             "spec": "",
             "handle": "astro-services-marketing-sidebar-apex-theme",
             "id": "astro-services-marketing-sidebar-apex-theme"
@@ -6870,6 +7034,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aeon-space/",
+            "download": "public/download/aeon-space.zip",
             "spec": "",
             "handle": "aeon-space",
             "id": "aeon-space"
@@ -6910,6 +7075,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/academic-portfolio-astro/",
+            "download": "public/download/academic-portfolio-astro.zip",
             "spec": "",
             "handle": "academic-portfolio-astro",
             "id": "academic-portfolio-astro"
@@ -6950,6 +7116,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lucode-starlight-theme/",
+            "download": "public/download/lucode-starlight-theme.zip",
             "spec": "",
             "handle": "lucode-starlight-theme",
             "id": "lucode-starlight-theme"
@@ -6990,6 +7157,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zen/",
+            "download": "public/download/zen.zip",
             "spec": "",
             "handle": "zen",
             "id": "zen"
@@ -7030,6 +7198,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/powerai-astro/",
+            "download": "public/download/powerai-astro.zip",
             "spec": "",
             "handle": "powerai-astro",
             "id": "powerai-astro"
@@ -7070,6 +7239,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/as-folio/",
+            "download": "public/download/as-folio.zip",
             "spec": "",
             "handle": "as-folio",
             "id": "as-folio"
@@ -7110,6 +7280,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/projects-portfolio/",
+            "download": "public/download/projects-portfolio.zip",
             "spec": "",
             "handle": "projects-portfolio",
             "id": "projects-portfolio"
@@ -7150,6 +7321,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-sienna/",
+            "download": "public/download/astro-sienna.zip",
             "spec": "",
             "handle": "astro-sienna",
             "id": "astro-sienna"
@@ -7190,6 +7362,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zeepay/",
+            "download": "public/download/zeepay.zip",
             "spec": "",
             "handle": "zeepay",
             "id": "zeepay"
@@ -7230,6 +7403,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zahit/",
+            "download": "public/download/zahit.zip",
             "spec": "",
             "handle": "zahit",
             "id": "zahit"
@@ -7270,6 +7444,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/jetstream/",
+            "download": "public/download/jetstream.zip",
             "spec": "",
             "handle": "jetstream",
             "id": "jetstream"
@@ -7310,6 +7485,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sr-stodio-movie-theme/",
+            "download": "public/download/sr-stodio-movie-theme.zip",
             "spec": "",
             "handle": "sr-stodio-movie-theme",
             "id": "sr-stodio-movie-theme"
@@ -7350,6 +7526,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chirping-astro/",
+            "download": "public/download/chirping-astro.zip",
             "spec": "",
             "handle": "chirping-astro",
             "id": "chirping-astro"
@@ -7390,6 +7567,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/self-esteem/",
+            "download": "public/download/self-esteem.zip",
             "spec": "",
             "handle": "self-esteem",
             "id": "self-esteem"
@@ -7430,6 +7608,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofly/",
+            "download": "public/download/astrofly.zip",
             "spec": "",
             "handle": "astrofly",
             "id": "astrofly"
@@ -7470,6 +7649,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lumio-lite-free-astro-theme-for-agencies-startups-it-services/",
+            "download": "public/download/lumio-lite-free-astro-theme-for-agencies-startups-it-services.zip",
             "spec": "",
             "handle": "lumio-lite-free-astro-theme-for-agencies-startups-it-services",
             "id": "lumio-lite-free-astro-theme-for-agencies-startups-it-services"
@@ -7510,6 +7690,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/horizon/",
+            "download": "public/download/horizon.zip",
             "spec": "",
             "handle": "horizon",
             "id": "horizon"
@@ -7550,6 +7731,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/polyglow/",
+            "download": "public/download/polyglow.zip",
             "spec": "",
             "handle": "polyglow",
             "id": "polyglow"
@@ -7590,6 +7772,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/us-government-uswds-starter-template/",
+            "download": "public/download/us-government-uswds-starter-template.zip",
             "spec": "",
             "handle": "us-government-uswds-starter-template",
             "id": "us-government-uswds-starter-template"
@@ -7630,6 +7813,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroflareog-clean-starter-for-cloudflare-workers/",
+            "download": "public/download/astroflareog-clean-starter-for-cloudflare-workers.zip",
             "spec": "",
             "handle": "astroflareog-clean-starter-for-cloudflare-workers",
             "id": "astroflareog-clean-starter-for-cloudflare-workers"
@@ -7670,6 +7854,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/y-astro-scholar/",
+            "download": "public/download/y-astro-scholar.zip",
             "spec": "",
             "handle": "y-astro-scholar",
             "id": "y-astro-scholar"
@@ -7710,6 +7895,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/basic-blog/",
+            "download": "public/download/basic-blog.zip",
             "spec": "",
             "handle": "basic-blog",
             "id": "basic-blog"
@@ -7750,6 +7936,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-landing-page-theme/",
+            "download": "public/download/astro-portfolio-landing-page-theme.zip",
             "spec": "",
             "handle": "astro-portfolio-landing-page-theme",
             "id": "astro-portfolio-landing-page-theme"
@@ -7790,6 +7977,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolify-premium-saas-landing-page-template/",
+            "download": "public/download/astrolify-premium-saas-landing-page-template.zip",
             "spec": "",
             "handle": "astrolify-premium-saas-landing-page-template",
             "id": "astrolify-premium-saas-landing-page-template"
@@ -7830,6 +8018,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/automark-astro/",
+            "download": "public/download/automark-astro.zip",
             "spec": "",
             "handle": "automark-astro",
             "id": "automark-astro"
@@ -7870,6 +8059,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio-letter/",
+            "download": "public/download/portfolio-letter.zip",
             "spec": "",
             "handle": "portfolio-letter",
             "id": "portfolio-letter"
@@ -7910,6 +8100,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-scifi-ui/",
+            "download": "public/download/astro-scifi-ui.zip",
             "spec": "",
             "handle": "astro-scifi-ui",
             "id": "astro-scifi-ui"
@@ -7950,6 +8141,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/alexanders-astro-tailwind-daisyui-starter/",
+            "download": "public/download/alexanders-astro-tailwind-daisyui-starter.zip",
             "spec": "",
             "handle": "alexanders-astro-tailwind-daisyui-starter",
             "id": "alexanders-astro-tailwind-daisyui-starter"
@@ -7990,6 +8182,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-astro-v6/",
+            "download": "public/download/astro-astro-v6.zip",
             "spec": "",
             "handle": "astro-astro-v6",
             "id": "astro-astro-v6"
@@ -8030,6 +8223,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-validation-landing/",
+            "download": "public/download/astro-validation-landing.zip",
             "spec": "",
             "handle": "astro-validation-landing",
             "id": "astro-validation-landing"
@@ -8070,6 +8264,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starfolio/",
+            "download": "public/download/starfolio.zip",
             "spec": "",
             "handle": "starfolio",
             "id": "starfolio"
@@ -8110,6 +8305,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/elementary/",
+            "download": "public/download/elementary.zip",
             "spec": "",
             "handle": "elementary",
             "id": "elementary"
@@ -8150,6 +8346,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/serene-ink/",
+            "download": "public/download/serene-ink.zip",
             "spec": "",
             "handle": "serene-ink",
             "id": "serene-ink"
@@ -8190,6 +8387,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-medusa-storefront/",
+            "download": "public/download/astro-medusa-storefront.zip",
             "spec": "",
             "handle": "astro-medusa-storefront",
             "id": "astro-medusa-storefront"
@@ -8230,6 +8428,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/anglefeint/",
+            "download": "public/download/anglefeint.zip",
             "spec": "",
             "handle": "anglefeint",
             "id": "anglefeint"
@@ -8270,6 +8469,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/polaris/",
+            "download": "public/download/polaris.zip",
             "spec": "",
             "handle": "polaris",
             "id": "polaris"
@@ -8310,6 +8510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/brook-2-minimal-astro-6-blog-template/",
+            "download": "public/download/brook-2-minimal-astro-6-blog-template.zip",
             "spec": "",
             "handle": "brook-2-minimal-astro-6-blog-template",
             "id": "brook-2-minimal-astro-6-blog-template"
@@ -8350,6 +8551,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chapterlog/",
+            "download": "public/download/chapterlog.zip",
             "spec": "",
             "handle": "chapterlog",
             "id": "chapterlog"
@@ -8390,6 +8592,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/crypgo-shadcn-ui-crypto-landing-page-template-free/",
+            "download": "public/download/crypgo-shadcn-ui-crypto-landing-page-template-free.zip",
             "spec": "",
             "handle": "crypgo-shadcn-ui-crypto-landing-page-template-free",
             "id": "crypgo-shadcn-ui-crypto-landing-page-template-free"
@@ -8430,6 +8633,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+            "download": "public/download/career-portfolio-data-driven-astro-ssg.zip",
             "spec": "",
             "handle": "career-portfolio-data-driven-astro-ssg",
             "id": "career-portfolio-data-driven-astro-ssg"
@@ -8470,6 +8674,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/the-artham-summit/",
+            "download": "public/download/the-artham-summit.zip",
             "spec": "",
             "handle": "the-artham-summit",
             "id": "the-artham-summit"
@@ -8510,6 +8715,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-rocket/",
+            "download": "public/download/astro-rocket.zip",
             "spec": "",
             "handle": "astro-rocket",
             "id": "astro-rocket"
@@ -8550,6 +8756,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fm-solo-starter/",
+            "download": "public/download/fm-solo-starter.zip",
             "spec": "",
             "handle": "fm-solo-starter",
             "id": "fm-solo-starter"
@@ -8590,6 +8797,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-component-starter/",
+            "download": "public/download/astro-component-starter.zip",
             "spec": "",
             "handle": "astro-component-starter",
             "id": "astro-component-starter"
@@ -8630,6 +8838,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/decker/",
+            "download": "public/download/decker.zip",
             "spec": "",
             "handle": "decker",
             "id": "decker"
@@ -8670,6 +8879,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-fleet/",
+            "download": "public/download/astro-fleet.zip",
             "spec": "",
             "handle": "astro-fleet",
             "id": "astro-fleet"
@@ -8710,6 +8920,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mainline/",
+            "download": "public/download/mainline.zip",
             "spec": "",
             "handle": "mainline",
             "id": "mainline"
@@ -8750,6 +8961,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/one-space-away/",
+            "download": "public/download/one-space-away.zip",
             "spec": "",
             "handle": "one-space-away",
             "id": "one-space-away"
@@ -8790,6 +9002,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-scholar/",
+            "download": "public/download/astro-scholar.zip",
             "spec": "",
             "handle": "astro-scholar",
             "id": "astro-scholar"
@@ -8830,6 +9043,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/free-small-business-starter/",
+            "download": "public/download/free-small-business-starter.zip",
             "spec": "",
             "handle": "free-small-business-starter",
             "id": "free-small-business-starter"
@@ -8870,6 +9084,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ataraxia-astro-theme/",
+            "download": "public/download/ataraxia-astro-theme.zip",
             "spec": "",
             "handle": "ataraxia-astro-theme",
             "id": "ataraxia-astro-theme"
@@ -8910,6 +9125,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zaggonaut/",
+            "download": "public/download/zaggonaut.zip",
             "spec": "",
             "handle": "zaggonaut",
             "id": "zaggonaut"
@@ -8950,6 +9166,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blackspike-astro-landing-page/",
+            "download": "public/download/blackspike-astro-landing-page.zip",
             "spec": "",
             "handle": "blackspike-astro-landing-page",
             "id": "blackspike-astro-landing-page"
@@ -8990,6 +9207,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/monolume/",
+            "download": "public/download/monolume.zip",
             "spec": "",
             "handle": "monolume",
             "id": "monolume"
@@ -9030,6 +9248,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astropie/",
+            "download": "public/download/astropie.zip",
             "spec": "",
             "handle": "astropie",
             "id": "astropie"
@@ -9070,6 +9289,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/foxi/",
+            "download": "public/download/foxi.zip",
             "spec": "",
             "handle": "foxi",
             "id": "foxi"
@@ -9110,6 +9330,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/grunge/",
+            "download": "public/download/grunge.zip",
             "spec": "",
             "handle": "grunge",
             "id": "grunge"
@@ -9150,6 +9371,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/space-ahead/",
+            "download": "public/download/space-ahead.zip",
             "spec": "",
             "handle": "space-ahead",
             "id": "space-ahead"
@@ -9190,6 +9412,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dyson-inspired/",
+            "download": "public/download/dyson-inspired.zip",
             "spec": "",
             "handle": "dyson-inspired",
             "id": "dyson-inspired"
@@ -9230,6 +9453,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/hyperdrive/",
+            "download": "public/download/hyperdrive.zip",
             "spec": "",
             "handle": "hyperdrive",
             "id": "hyperdrive"
@@ -9270,6 +9494,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starwind-ui/",
+            "download": "public/download/starwind-ui.zip",
             "spec": "",
             "handle": "starwind-ui",
             "id": "starwind-ui"
@@ -9310,6 +9535,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mizu-light/",
+            "download": "public/download/mizu-light.zip",
             "spec": "",
             "handle": "mizu-light",
             "id": "mizu-light"
@@ -9350,6 +9576,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/smallworld/",
+            "download": "public/download/smallworld.zip",
             "spec": "",
             "handle": "smallworld",
             "id": "smallworld"
@@ -9390,6 +9617,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/project-board/",
+            "download": "public/download/project-board.zip",
             "spec": "",
             "handle": "project-board",
             "id": "project-board"
@@ -9430,6 +9658,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/folex-lite-digital-agency-theme/",
+            "download": "public/download/folex-lite-digital-agency-theme.zip",
             "spec": "",
             "handle": "folex-lite-digital-agency-theme",
             "id": "folex-lite-digital-agency-theme"
@@ -9470,6 +9699,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pawstronaut/",
+            "download": "public/download/pawstronaut.zip",
             "spec": "",
             "handle": "pawstronaut",
             "id": "pawstronaut"
@@ -9510,6 +9740,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-stron/",
+            "download": "public/download/astro-portfolio-stron.zip",
             "spec": "",
             "handle": "astro-portfolio-stron",
             "id": "astro-portfolio-stron"
@@ -9550,6 +9781,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mindful-auth-cloudflare-d1-astro-authentication-starter/",
+            "download": "public/download/mindful-auth-cloudflare-d1-astro-authentication-starter.zip",
             "spec": "",
             "handle": "mindful-auth-cloudflare-d1-astro-authentication-starter",
             "id": "mindful-auth-cloudflare-d1-astro-authentication-starter"
@@ -9590,6 +9822,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astromax/",
+            "download": "public/download/astromax.zip",
             "spec": "",
             "handle": "astromax",
             "id": "astromax"
@@ -9630,6 +9863,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/microblog/",
+            "download": "public/download/microblog.zip",
             "spec": "",
             "handle": "microblog",
             "id": "microblog"
@@ -9670,6 +9904,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/northendlab-light-astro/",
+            "download": "public/download/northendlab-light-astro.zip",
             "spec": "",
             "handle": "northendlab-light-astro",
             "id": "northendlab-light-astro"
@@ -9710,6 +9945,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dockit-astro/",
+            "download": "public/download/dockit-astro.zip",
             "spec": "",
             "handle": "dockit-astro",
             "id": "dockit-astro"
@@ -9750,6 +9986,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrosaas/",
+            "download": "public/download/astrosaas.zip",
             "spec": "",
             "handle": "astrosaas",
             "id": "astrosaas"
@@ -9790,6 +10027,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bearnie/",
+            "download": "public/download/bearnie.zip",
             "spec": "",
             "handle": "bearnie",
             "id": "bearnie"
@@ -9830,6 +10068,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pinwheel/",
+            "download": "public/download/pinwheel.zip",
             "spec": "",
             "handle": "pinwheel",
             "id": "pinwheel"
@@ -9870,6 +10109,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/prima-persona/",
+            "download": "public/download/prima-persona.zip",
             "spec": "",
             "handle": "prima-persona",
             "id": "prima-persona"
@@ -9910,6 +10150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quick-store/",
+            "download": "public/download/quick-store.zip",
             "spec": "",
             "handle": "quick-store",
             "id": "quick-store"
@@ -9950,6 +10191,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofront/",
+            "download": "public/download/astrofront.zip",
             "spec": "",
             "handle": "astrofront",
             "id": "astrofront"
@@ -9990,6 +10232,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/spectre/",
+            "download": "public/download/spectre.zip",
             "spec": "",
             "handle": "spectre",
             "id": "spectre"
@@ -10030,6 +10273,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bigspring-light-astro/",
+            "download": "public/download/bigspring-light-astro.zip",
             "spec": "",
             "handle": "bigspring-light-astro",
             "id": "bigspring-light-astro"
@@ -10070,6 +10314,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-vintage/",
+            "download": "public/download/starlight-vintage.zip",
             "spec": "",
             "handle": "starlight-vintage",
             "id": "starlight-vintage"
@@ -10110,6 +10355,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bookworm-light-astro/",
+            "download": "public/download/bookworm-light-astro.zip",
             "spec": "",
             "handle": "bookworm-light-astro",
             "id": "bookworm-light-astro"
@@ -10150,6 +10396,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal/",
+            "download": "public/download/minimal.zip",
             "spec": "",
             "handle": "minimal",
             "id": "minimal"
@@ -10190,6 +10437,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/swissfolio/",
+            "download": "public/download/swissfolio.zip",
             "spec": "",
             "handle": "swissfolio",
             "id": "swissfolio"
@@ -10230,6 +10478,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blogsmith-free/",
+            "download": "public/download/blogsmith-free.zip",
             "spec": "",
             "handle": "blogsmith-free",
             "id": "blogsmith-free"
@@ -10270,6 +10519,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/landing-pad/",
+            "download": "public/download/landing-pad.zip",
             "spec": "",
             "handle": "landing-pad",
             "id": "landing-pad"
@@ -10310,6 +10560,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/velocity/",
+            "download": "public/download/velocity.zip",
             "spec": "",
             "handle": "velocity",
             "id": "velocity"
@@ -10350,6 +10601,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/generative-ai-company-theme/",
+            "download": "public/download/generative-ai-company-theme.zip",
             "spec": "",
             "handle": "generative-ai-company-theme",
             "id": "generative-ai-company-theme"
@@ -10390,6 +10642,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/uinux-blog/",
+            "download": "public/download/uinux-blog.zip",
             "spec": "",
             "handle": "uinux-blog",
             "id": "uinux-blog"
@@ -10430,6 +10683,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/buildmart-building-materials-e-commerce-theme/",
+            "download": "public/download/buildmart-building-materials-e-commerce-theme.zip",
             "spec": "",
             "handle": "buildmart-building-materials-e-commerce-theme",
             "id": "buildmart-building-materials-e-commerce-theme"
@@ -10470,6 +10724,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-whono/",
+            "download": "public/download/astro-whono.zip",
             "spec": "",
             "handle": "astro-whono",
             "id": "astro-whono"
@@ -10510,6 +10765,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-i18n-starter-pro/",
+            "download": "public/download/astro-i18n-starter-pro.zip",
             "spec": "",
             "handle": "astro-i18n-starter-pro",
             "id": "astro-i18n-starter-pro"
@@ -10550,6 +10806,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/devosfera/",
+            "download": "public/download/devosfera.zip",
             "spec": "",
             "handle": "devosfera",
             "id": "devosfera"
@@ -10590,6 +10847,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/techstore-ecommers/",
+            "download": "public/download/techstore-ecommers.zip",
             "spec": "",
             "handle": "techstore-ecommers",
             "id": "techstore-ecommers"
@@ -10630,6 +10888,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bistro-shadcn-ui-restaurant-landing-page-template-free/",
+            "download": "public/download/bistro-shadcn-ui-restaurant-landing-page-template-free.zip",
             "spec": "",
             "handle": "bistro-shadcn-ui-restaurant-landing-page-template-free",
             "id": "bistro-shadcn-ui-restaurant-landing-page-template-free"
@@ -10670,6 +10929,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/jd-blog-astro/",
+            "download": "public/download/jd-blog-astro.zip",
             "spec": "",
             "handle": "jd-blog-astro",
             "id": "jd-blog-astro"
@@ -10710,6 +10970,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ink-shadcn-ui-blog-landing-page-template-free/",
+            "download": "public/download/ink-shadcn-ui-blog-landing-page-template-free.zip",
             "spec": "",
             "handle": "ink-shadcn-ui-blog-landing-page-template-free",
             "id": "ink-shadcn-ui-blog-landing-page-template-free"
@@ -10750,6 +11011,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-pro/",
+            "download": "public/download/astro-starter-pro.zip",
             "spec": "",
             "handle": "astro-starter-pro",
             "id": "astro-starter-pro"
@@ -10790,6 +11052,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/vanguard-zen-military-security-template/",
+            "download": "public/download/vanguard-zen-military-security-template.zip",
             "spec": "",
             "handle": "vanguard-zen-military-security-template",
             "id": "vanguard-zen-military-security-template"
@@ -10830,6 +11093,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/paperastro/",
+            "download": "public/download/paperastro.zip",
             "spec": "",
             "handle": "paperastro",
             "id": "paperastro"
@@ -10870,6 +11134,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/breeze/",
+            "download": "public/download/breeze.zip",
             "spec": "",
             "handle": "breeze",
             "id": "breeze"
@@ -10910,6 +11175,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/spaceship/",
+            "download": "public/download/spaceship.zip",
             "spec": "",
             "handle": "spaceship",
             "id": "spaceship"
@@ -10950,6 +11216,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/void/",
+            "download": "public/download/void.zip",
             "spec": "",
             "handle": "void",
             "id": "void"
@@ -10990,6 +11257,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shokax/",
+            "download": "public/download/shokax.zip",
             "spec": "",
             "handle": "shokax",
             "id": "shokax"
@@ -11030,6 +11298,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/clay/",
+            "download": "public/download/clay.zip",
             "spec": "",
             "handle": "clay",
             "id": "clay"
@@ -11070,6 +11339,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-base/",
+            "download": "public/download/astro-base.zip",
             "spec": "",
             "handle": "astro-base",
             "id": "astro-base"
@@ -11110,6 +11380,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-cartoon-portfolio/",
+            "download": "public/download/astro-cartoon-portfolio.zip",
             "spec": "",
             "handle": "astro-cartoon-portfolio",
             "id": "astro-cartoon-portfolio"
@@ -11150,6 +11421,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-baseline/",
+            "download": "public/download/astro-baseline.zip",
             "spec": "",
             "handle": "astro-baseline",
             "id": "astro-baseline"
@@ -11190,6 +11462,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dasein/",
+            "download": "public/download/dasein.zip",
             "spec": "",
             "handle": "dasein",
             "id": "dasein"
@@ -11230,6 +11503,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-church/",
+            "download": "public/download/astro-church.zip",
             "spec": "",
             "handle": "astro-church",
             "id": "astro-church"
@@ -11270,6 +11544,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/viio/",
+            "download": "public/download/viio.zip",
             "spec": "",
             "handle": "viio",
             "id": "viio"
@@ -11310,6 +11585,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/koharu/",
+            "download": "public/download/koharu.zip",
             "spec": "",
             "handle": "koharu",
             "id": "koharu"
@@ -11350,6 +11626,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/skyscript/",
+            "download": "public/download/skyscript.zip",
             "spec": "",
             "handle": "skyscript",
             "id": "skyscript"
@@ -11390,6 +11667,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroplate-multilingual-astro-boilerplate/",
+            "download": "public/download/astroplate-multilingual-astro-boilerplate.zip",
             "spec": "",
             "handle": "astroplate-multilingual-astro-boilerplate",
             "id": "astroplate-multilingual-astro-boilerplate"
@@ -11430,6 +11708,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/virex-saas-landing-page-theme/",
+            "download": "public/download/virex-saas-landing-page-theme.zip",
             "spec": "",
             "handle": "virex-saas-landing-page-theme",
             "id": "virex-saas-landing-page-theme"
@@ -11470,6 +11749,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/a-static-photo-gallery-template-built-with-astro/",
+            "download": "public/download/a-static-photo-gallery-template-built-with-astro.zip",
             "spec": "",
             "handle": "a-static-photo-gallery-template-built-with-astro",
             "id": "a-static-photo-gallery-template-built-with-astro"
@@ -11510,6 +11790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ryze/",
+            "download": "public/download/ryze.zip",
             "spec": "",
             "handle": "ryze",
             "id": "ryze"
@@ -11550,6 +11831,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-theme-switcher/",
+            "download": "public/download/astro-theme-switcher.zip",
             "spec": "",
             "handle": "astro-theme-switcher",
             "id": "astro-theme-switcher"
@@ -11590,6 +11872,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/reimu/",
+            "download": "public/download/reimu.zip",
             "spec": "",
             "handle": "reimu",
             "id": "reimu"
@@ -11630,6 +11913,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/case-portfolio-theme-for-astro/",
+            "download": "public/download/case-portfolio-theme-for-astro.zip",
             "spec": "",
             "handle": "case-portfolio-theme-for-astro",
             "id": "case-portfolio-theme-for-astro"
@@ -11670,6 +11954,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/merox-erudite/",
+            "download": "public/download/merox-erudite.zip",
             "spec": "",
             "handle": "merox-erudite",
             "id": "merox-erudite"
@@ -11710,6 +11995,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/purfectly-zen/",
+            "download": "public/download/purfectly-zen.zip",
             "spec": "",
             "handle": "purfectly-zen",
             "id": "purfectly-zen"
@@ -11750,6 +12036,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/storeplate-astro/",
+            "download": "public/download/storeplate-astro.zip",
             "spec": "",
             "handle": "storeplate-astro",
             "id": "storeplate-astro"
@@ -11790,6 +12077,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-portfilio/",
+            "download": "public/download/ricoui-portfilio.zip",
             "spec": "",
             "handle": "ricoui-portfilio",
             "id": "ricoui-portfilio"
@@ -11830,6 +12118,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quiet-bar/",
+            "download": "public/download/quiet-bar.zip",
             "spec": "",
             "handle": "quiet-bar",
             "id": "quiet-bar"
@@ -11870,6 +12159,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/directus-cms-template/",
+            "download": "public/download/directus-cms-template.zip",
             "spec": "",
             "handle": "directus-cms-template",
             "id": "directus-cms-template"
@@ -11910,6 +12200,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio-dev/",
+            "download": "public/download/portfolio-dev.zip",
             "spec": "",
             "handle": "portfolio-dev",
             "id": "portfolio-dev"
@@ -11950,6 +12241,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/scholar-lite/",
+            "download": "public/download/scholar-lite.zip",
             "spec": "",
             "handle": "scholar-lite",
             "id": "scholar-lite"
@@ -11990,6 +12282,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroflow-astrojs-logistics-manufacturing-website-template/",
+            "download": "public/download/astroflow-astrojs-logistics-manufacturing-website-template.zip",
             "spec": "",
             "handle": "astroflow-astrojs-logistics-manufacturing-website-template",
             "id": "astroflow-astrojs-logistics-manufacturing-website-template"
@@ -12030,6 +12323,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bloomfolio/",
+            "download": "public/download/bloomfolio.zip",
             "spec": "",
             "handle": "bloomfolio",
             "id": "bloomfolio"
@@ -12070,6 +12364,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/whisper/",
+            "download": "public/download/whisper.zip",
             "spec": "",
             "handle": "whisper",
             "id": "whisper"
@@ -12110,6 +12405,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tastyyy-restaurant-website/",
+            "download": "public/download/tastyyy-restaurant-website.zip",
             "spec": "",
             "handle": "tastyyy-restaurant-website",
             "id": "tastyyy-restaurant-website"
@@ -12150,6 +12446,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-catppuccin-portfolio/",
+            "download": "public/download/minimalistic-catppuccin-portfolio.zip",
             "spec": "",
             "handle": "minimalistic-catppuccin-portfolio",
             "id": "minimalistic-catppuccin-portfolio"
@@ -12190,6 +12487,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/twilight/",
+            "download": "public/download/twilight.zip",
             "spec": "",
             "handle": "twilight",
             "id": "twilight"
@@ -12230,6 +12528,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/thoughtlite/",
+            "download": "public/download/thoughtlite.zip",
             "spec": "",
             "handle": "thoughtlite",
             "id": "thoughtlite"
@@ -12270,6 +12569,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-modular/",
+            "download": "public/download/astro-modular.zip",
             "spec": "",
             "handle": "astro-modular",
             "id": "astro-modular"
@@ -12310,6 +12610,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/monakit/",
+            "download": "public/download/monakit.zip",
             "spec": "",
             "handle": "monakit",
             "id": "monakit"
@@ -12350,6 +12651,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroplate/",
+            "download": "public/download/astroplate.zip",
             "spec": "",
             "handle": "astroplate",
             "id": "astroplate"
@@ -12390,6 +12692,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ai-chat-bot/",
+            "download": "public/download/ai-chat-bot.zip",
             "spec": "",
             "handle": "ai-chat-bot",
             "id": "ai-chat-bot"
@@ -12430,6 +12733,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chiri/",
+            "download": "public/download/chiri.zip",
             "spec": "",
             "handle": "chiri",
             "id": "chiri"
@@ -12470,6 +12774,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/angie-simple-portfolio-template/",
+            "download": "public/download/angie-simple-portfolio-template.zip",
             "spec": "",
             "handle": "angie-simple-portfolio-template",
             "id": "angie-simple-portfolio-template"
@@ -12510,6 +12815,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astropaper-i18n/",
+            "download": "public/download/astropaper-i18n.zip",
             "spec": "",
             "handle": "astropaper-i18n",
             "id": "astropaper-i18n"
@@ -12550,6 +12856,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/flavour-fushion-recipes-website/",
+            "download": "public/download/flavour-fushion-recipes-website.zip",
             "spec": "",
             "handle": "flavour-fushion-recipes-website",
             "id": "flavour-fushion-recipes-website"
@@ -12590,6 +12897,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/conference-website/",
+            "download": "public/download/conference-website.zip",
             "spec": "",
             "handle": "conference-website",
             "id": "conference-website"
@@ -12630,6 +12938,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-photo-grid/",
+            "download": "public/download/astro-photo-grid.zip",
             "spec": "",
             "handle": "astro-photo-grid",
             "id": "astro-photo-grid"
@@ -12670,6 +12979,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/multiterm/",
+            "download": "public/download/multiterm.zip",
             "spec": "",
             "handle": "multiterm",
             "id": "multiterm"
@@ -12710,6 +13020,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolaunch-ui/",
+            "download": "public/download/astrolaunch-ui.zip",
             "spec": "",
             "handle": "astrolaunch-ui",
             "id": "astrolaunch-ui"
@@ -12750,6 +13061,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/global-financial-starter-multilingual-template/",
+            "download": "public/download/global-financial-starter-multilingual-template.zip",
             "spec": "",
             "handle": "global-financial-starter-multilingual-template",
             "id": "global-financial-starter-multilingual-template"
@@ -12790,6 +13102,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aj/",
+            "download": "public/download/aj.zip",
             "spec": "",
             "handle": "aj",
             "id": "aj"
@@ -12830,6 +13143,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/plumbus/",
+            "download": "public/download/plumbus.zip",
             "spec": "",
             "handle": "plumbus",
             "id": "plumbus"
@@ -12870,6 +13184,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-persona-portfolio-blog/",
+            "download": "public/download/astro-persona-portfolio-blog.zip",
             "spec": "",
             "handle": "astro-persona-portfolio-blog",
             "id": "astro-persona-portfolio-blog"
@@ -12910,6 +13225,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/macos-portfolio-extended/",
+            "download": "public/download/macos-portfolio-extended.zip",
             "spec": "",
             "handle": "macos-portfolio-extended",
             "id": "macos-portfolio-extended"
@@ -12950,6 +13266,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/marketing-developers-personal-blog/",
+            "download": "public/download/marketing-developers-personal-blog.zip",
             "spec": "",
             "handle": "marketing-developers-personal-blog",
             "id": "marketing-developers-personal-blog"
@@ -12990,6 +13307,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/moda-e-commerce-website/",
+            "download": "public/download/moda-e-commerce-website.zip",
             "spec": "",
             "handle": "moda-e-commerce-website",
             "id": "moda-e-commerce-website"
@@ -13030,6 +13348,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/hospitale-job-board-website/",
+            "download": "public/download/hospitale-job-board-website.zip",
             "spec": "",
             "handle": "hospitale-job-board-website",
             "id": "hospitale-job-board-website"
@@ -13070,6 +13389,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/the-podium-podcast-website/",
+            "download": "public/download/the-podium-podcast-website.zip",
             "spec": "",
             "handle": "the-podium-podcast-website",
             "id": "the-podium-podcast-website"
@@ -13110,6 +13430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/codefolio/",
+            "download": "public/download/codefolio.zip",
             "spec": "",
             "handle": "codefolio",
             "id": "codefolio"
@@ -13150,6 +13471,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-sassify/",
+            "download": "public/download/astro-sassify.zip",
             "spec": "",
             "handle": "astro-sassify",
             "id": "astro-sassify"
@@ -13190,6 +13512,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/yukina/",
+            "download": "public/download/yukina.zip",
             "spec": "",
             "handle": "yukina",
             "id": "yukina"
@@ -13230,6 +13553,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-e-commerce/",
+            "download": "public/download/astro-e-commerce.zip",
             "spec": "",
             "handle": "astro-e-commerce",
             "id": "astro-e-commerce"
@@ -13270,6 +13594,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-citrus/",
+            "download": "public/download/astro-citrus.zip",
             "spec": "",
             "handle": "astro-citrus",
             "id": "astro-citrus"
@@ -13310,6 +13635,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/personal-hub-a-customizable-personal-link/",
+            "download": "public/download/personal-hub-a-customizable-personal-link.zip",
             "spec": "",
             "handle": "personal-hub-a-customizable-personal-link",
             "id": "personal-hub-a-customizable-personal-link"
@@ -13350,6 +13676,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/titan-core/",
+            "download": "public/download/titan-core.zip",
             "spec": "",
             "handle": "titan-core",
             "id": "titan-core"
@@ -13390,6 +13717,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/apollo/",
+            "download": "public/download/apollo.zip",
             "spec": "",
             "handle": "apollo",
             "id": "apollo"
@@ -13430,6 +13758,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-rapide/",
+            "download": "public/download/starlight-rapide.zip",
             "spec": "",
             "handle": "starlight-rapide",
             "id": "starlight-rapide"
@@ -13470,6 +13799,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/datanova/",
+            "download": "public/download/datanova.zip",
             "spec": "",
             "handle": "datanova",
             "id": "datanova"
@@ -13510,6 +13840,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-developer-portfolio-template/",
+            "download": "public/download/astro-developer-portfolio-template.zip",
             "spec": "",
             "handle": "astro-developer-portfolio-template",
             "id": "astro-developer-portfolio-template"
@@ -13550,6 +13881,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/glyptodon/",
+            "download": "public/download/glyptodon.zip",
             "spec": "",
             "handle": "glyptodon",
             "id": "glyptodon"
@@ -13590,6 +13922,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrogon/",
+            "download": "public/download/astrogon.zip",
             "spec": "",
             "handle": "astrogon",
             "id": "astrogon"
@@ -13630,6 +13963,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/retypeset/",
+            "download": "public/download/retypeset.zip",
             "spec": "",
             "handle": "retypeset",
             "id": "retypeset"
@@ -13670,6 +14004,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/players-club/",
+            "download": "public/download/players-club.zip",
             "spec": "",
             "handle": "players-club",
             "id": "players-club"
@@ -13710,6 +14045,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-flexoki/",
+            "download": "public/download/starlight-flexoki.zip",
             "spec": "",
             "handle": "starlight-flexoki",
             "id": "starlight-flexoki"
@@ -13750,6 +14086,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-academia/",
+            "download": "public/download/astro-academia.zip",
             "spec": "",
             "handle": "astro-academia",
             "id": "astro-academia"
@@ -13790,6 +14127,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sorollaportfolio/",
+            "download": "public/download/sorollaportfolio.zip",
             "spec": "",
             "handle": "sorollaportfolio",
             "id": "sorollaportfolio"
@@ -13830,6 +14168,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/modern-developer-portfolio-template/",
+            "download": "public/download/modern-developer-portfolio-template.zip",
             "spec": "",
             "handle": "modern-developer-portfolio-template",
             "id": "modern-developer-portfolio-template"
@@ -13870,6 +14209,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter/",
+            "download": "public/download/astro-starter.zip",
             "spec": "",
             "handle": "astro-starter",
             "id": "astro-starter"
@@ -13910,6 +14250,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-erudite/",
+            "download": "public/download/astro-erudite.zip",
             "spec": "",
             "handle": "astro-erudite",
             "id": "astro-erudite"
@@ -13950,6 +14291,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/screwfast/",
+            "download": "public/download/screwfast.zip",
             "spec": "",
             "handle": "screwfast",
             "id": "screwfast"
@@ -13990,6 +14332,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-yi/",
+            "download": "public/download/astro-yi.zip",
             "spec": "",
             "handle": "astro-yi",
             "id": "astro-yi"
@@ -14030,6 +14373,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/academic-project/",
+            "download": "public/download/academic-project.zip",
             "spec": "",
             "handle": "academic-project",
             "id": "academic-project"
@@ -14070,6 +14414,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shareyourlinks/",
+            "download": "public/download/shareyourlinks.zip",
             "spec": "",
             "handle": "shareyourlinks",
             "id": "shareyourlinks"
@@ -14110,6 +14455,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cassidys-blog-template/",
+            "download": "public/download/cassidys-blog-template.zip",
             "spec": "",
             "handle": "cassidys-blog-template",
             "id": "cassidys-blog-template"
@@ -14150,6 +14496,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/superweb-barebones/",
+            "download": "public/download/superweb-barebones.zip",
             "spec": "",
             "handle": "superweb-barebones",
             "id": "superweb-barebones"
@@ -14190,6 +14537,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/didmax-blog/",
+            "download": "public/download/didmax-blog.zip",
             "spec": "",
             "handle": "didmax-blog",
             "id": "didmax-blog"
@@ -14230,6 +14578,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dante/",
+            "download": "public/download/dante.zip",
             "spec": "",
             "handle": "dante",
             "id": "dante"
@@ -14270,6 +14619,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ovidius/",
+            "download": "public/download/ovidius.zip",
             "spec": "",
             "handle": "ovidius",
             "id": "ovidius"
@@ -14310,6 +14660,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/i18n-starter/",
+            "download": "public/download/i18n-starter.zip",
             "spec": "",
             "handle": "i18n-starter",
             "id": "i18n-starter"
@@ -14350,6 +14701,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/typography/",
+            "download": "public/download/typography.zip",
             "spec": "",
             "handle": "typography",
             "id": "typography"
@@ -14390,6 +14742,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/brutal/",
+            "download": "public/download/brutal.zip",
             "spec": "",
             "handle": "brutal",
             "id": "brutal"
@@ -14430,6 +14783,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/accessible-astro-starter/",
+            "download": "public/download/accessible-astro-starter.zip",
             "spec": "",
             "handle": "accessible-astro-starter",
             "id": "accessible-astro-starter"
@@ -14470,6 +14824,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroblog/",
+            "download": "public/download/astroblog.zip",
             "spec": "",
             "handle": "astroblog",
             "id": "astroblog"
@@ -14510,6 +14865,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pure/",
+            "download": "public/download/pure.zip",
             "spec": "",
             "handle": "pure",
             "id": "pure"
@@ -14550,6 +14906,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ion/",
+            "download": "public/download/ion.zip",
             "spec": "",
             "handle": "ion",
             "id": "ion"
@@ -14590,6 +14947,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrobrew/",
+            "download": "public/download/astrobrew.zip",
             "spec": "",
             "handle": "astrobrew",
             "id": "astrobrew"
@@ -14630,6 +14988,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlog/",
+            "download": "public/download/starlog.zip",
             "spec": "",
             "handle": "starlog",
             "id": "starlog"
@@ -14670,6 +15029,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-big-doc/",
+            "download": "public/download/astro-big-doc.zip",
             "spec": "",
             "handle": "astro-big-doc",
             "id": "astro-big-doc"
@@ -14710,6 +15070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/landing-page-book/",
+            "download": "public/download/landing-page-book.zip",
             "spec": "",
             "handle": "landing-page-book",
             "id": "landing-page-book"
@@ -14750,6 +15111,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-shopify/",
+            "download": "public/download/astro-shopify.zip",
             "spec": "",
             "handle": "astro-shopify",
             "id": "astro-shopify"
@@ -14790,6 +15152,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-blog/",
+            "download": "public/download/astro-starter-blog.zip",
             "spec": "",
             "handle": "astro-starter-blog",
             "id": "astro-starter-blog"
@@ -14830,6 +15193,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nice-tat/",
+            "download": "public/download/nice-tat.zip",
             "spec": "",
             "handle": "nice-tat",
             "id": "nice-tat"
@@ -14870,6 +15234,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight/",
+            "download": "public/download/starlight.zip",
             "spec": "",
             "handle": "starlight",
             "id": "starlight"
@@ -14910,6 +15275,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/agencex/",
+            "download": "public/download/agencex.zip",
             "spec": "",
             "handle": "agencex",
             "id": "agencex"
@@ -14950,6 +15316,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-status-page/",
+            "download": "public/download/astro-status-page.zip",
             "spec": "",
             "handle": "astro-status-page",
             "id": "astro-status-page"
@@ -14990,6 +15357,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/milky-way/",
+            "download": "public/download/milky-way.zip",
             "spec": "",
             "handle": "milky-way",
             "id": "milky-way"
@@ -15030,6 +15398,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-neumorphismt/",
+            "download": "public/download/astro-neumorphismt.zip",
             "spec": "",
             "handle": "astro-neumorphismt",
             "id": "astro-neumorphismt"
@@ -15070,6 +15439,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio/",
+            "download": "public/download/portfolio.zip",
             "spec": "",
             "handle": "portfolio",
             "id": "portfolio"
@@ -15110,6 +15480,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/hello-astro/",
+            "download": "public/download/hello-astro.zip",
             "spec": "",
             "handle": "hello-astro",
             "id": "hello-astro"
@@ -15150,6 +15521,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-resume/",
+            "download": "public/download/astro-resume.zip",
             "spec": "",
             "handle": "astro-resume",
             "id": "astro-resume"
@@ -15190,6 +15562,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-cactus/",
+            "download": "public/download/astro-cactus.zip",
             "spec": "",
             "handle": "astro-cactus",
             "id": "astro-cactus"
@@ -15230,6 +15603,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astropaper/",
+            "download": "public/download/astropaper.zip",
             "spec": "",
             "handle": "astropaper",
             "id": "astropaper"
@@ -15270,6 +15644,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/gate/",
+            "download": "public/download/gate.zip",
             "spec": "",
             "handle": "gate",
             "id": "gate"
@@ -15310,6 +15685,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shadowstack-portfolio/",
+            "download": "public/download/shadowstack-portfolio.zip",
             "spec": "",
             "handle": "shadowstack-portfolio",
             "id": "shadowstack-portfolio"
@@ -15350,6 +15726,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sendit/",
+            "download": "public/download/sendit.zip",
             "spec": "",
             "handle": "sendit",
             "id": "sendit"
@@ -15390,6 +15767,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webtrotion/",
+            "download": "public/download/webtrotion.zip",
             "spec": "",
             "handle": "webtrotion",
             "id": "webtrotion"
@@ -15430,6 +15808,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/energy-company-template/",
+            "download": "public/download/energy-company-template.zip",
             "spec": "",
             "handle": "energy-company-template",
             "id": "energy-company-template"
@@ -15470,6 +15849,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/esquelete-cv/",
+            "download": "public/download/esquelete-cv.zip",
             "spec": "",
             "handle": "esquelete-cv",
             "id": "esquelete-cv"
@@ -15510,6 +15890,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-simple-portfolio/",
+            "download": "public/download/astro-simple-portfolio.zip",
             "spec": "",
             "handle": "astro-simple-portfolio",
             "id": "astro-simple-portfolio"
@@ -15550,6 +15931,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrozen-personal-portfolio-website/",
+            "download": "public/download/astrozen-personal-portfolio-website.zip",
             "spec": "",
             "handle": "astrozen-personal-portfolio-website",
             "id": "astrozen-personal-portfolio-website"
@@ -15590,6 +15972,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-blog-template/",
+            "download": "public/download/minimalistic-blog-template.zip",
             "spec": "",
             "handle": "minimalistic-blog-template",
             "id": "minimalistic-blog-template"
@@ -15630,6 +16013,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minted-directory/",
+            "download": "public/download/minted-directory.zip",
             "spec": "",
             "handle": "minted-directory",
             "id": "minted-directory"
@@ -15670,6 +16054,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/broadcastchannel/",
+            "download": "public/download/broadcastchannel.zip",
             "spec": "",
             "handle": "broadcastchannel",
             "id": "broadcastchannel"
@@ -15710,6 +16095,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-shadcn-ui-template/",
+            "download": "public/download/astro-shadcn-ui-template.zip",
             "spec": "",
             "handle": "astro-shadcn-ui-template",
             "id": "astro-shadcn-ui-template"
@@ -15750,6 +16136,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolinkhub/",
+            "download": "public/download/astrolinkhub.zip",
             "spec": "",
             "handle": "astrolinkhub",
             "id": "astrolinkhub"
@@ -15790,6 +16177,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/biolinklinktree-clone/",
+            "download": "public/download/biolinklinktree-clone.zip",
             "spec": "",
             "handle": "biolinklinktree-clone",
             "id": "biolinklinktree-clone"
@@ -15830,6 +16218,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrodol/",
+            "download": "public/download/astrodol.zip",
             "spec": "",
             "handle": "astrodol",
             "id": "astrodol"
@@ -15870,6 +16259,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/supabase-serverside/",
+            "download": "public/download/supabase-serverside.zip",
             "spec": "",
             "handle": "supabase-serverside",
             "id": "supabase-serverside"
@@ -15910,6 +16300,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/slate/",
+            "download": "public/download/slate.zip",
             "spec": "",
             "handle": "slate",
             "id": "slate"
@@ -15950,6 +16341,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/antfustyle-theme/",
+            "download": "public/download/antfustyle-theme.zip",
             "spec": "",
             "handle": "antfustyle-theme",
             "id": "antfustyle-theme"
@@ -15990,6 +16382,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/free-astro-components/",
+            "download": "public/download/free-astro-components.zip",
             "spec": "",
             "handle": "free-astro-components",
             "id": "free-astro-components"
@@ -16030,6 +16423,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/macos-terminal-portfolio/",
+            "download": "public/download/macos-terminal-portfolio.zip",
             "spec": "",
             "handle": "macos-terminal-portfolio",
             "id": "macos-terminal-portfolio"
@@ -16070,6 +16464,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-tailwindcss-shadcnui-template/",
+            "download": "public/download/astro-tailwindcss-shadcnui-template.zip",
             "spec": "",
             "handle": "astro-tailwindcss-shadcnui-template",
             "id": "astro-tailwindcss-shadcnui-template"
@@ -16110,6 +16505,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrodev/",
+            "download": "public/download/astrodev.zip",
             "spec": "",
             "handle": "astrodev",
             "id": "astrodev"
@@ -16150,6 +16546,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/simple-portfolio-template/",
+            "download": "public/download/simple-portfolio-template.zip",
             "spec": "",
             "handle": "simple-portfolio-template",
             "id": "simple-portfolio-template"
@@ -16190,6 +16587,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webcore-portfolio/",
+            "download": "public/download/webcore-portfolio.zip",
             "spec": "",
             "handle": "webcore-portfolio",
             "id": "webcore-portfolio"
@@ -16230,6 +16628,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/plainpage/",
+            "download": "public/download/plainpage.zip",
             "spec": "",
             "handle": "plainpage",
             "id": "plainpage"
@@ -16270,6 +16669,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalist-printable-cv/",
+            "download": "public/download/minimalist-printable-cv.zip",
             "spec": "",
             "handle": "minimalist-printable-cv",
             "id": "minimalist-printable-cv"
@@ -16310,6 +16710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webcore-product-page/",
+            "download": "public/download/webcore-product-page.zip",
             "spec": "",
             "handle": "webcore-product-page",
             "id": "webcore-product-page"
@@ -16350,6 +16751,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cvpafe/",
+            "download": "public/download/cvpafe.zip",
             "spec": "",
             "handle": "cvpafe",
             "id": "cvpafe"
@@ -16390,6 +16792,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/multilaunch-multi-brand-website-template/",
+            "download": "public/download/multilaunch-multi-brand-website-template.zip",
             "spec": "",
             "handle": "multilaunch-multi-brand-website-template",
             "id": "multilaunch-multi-brand-website-template"
@@ -16430,6 +16833,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/token-template/",
+            "download": "public/download/token-template.zip",
             "spec": "",
             "handle": "token-template",
             "id": "token-template"
@@ -16470,6 +16874,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolio/",
+            "download": "public/download/astrolio.zip",
             "spec": "",
             "handle": "astrolio",
             "id": "astrolio"
@@ -16510,6 +16915,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/apple-inspired-portfolio/",
+            "download": "public/download/apple-inspired-portfolio.zip",
             "spec": "",
             "handle": "apple-inspired-portfolio",
             "id": "apple-inspired-portfolio"
@@ -16550,6 +16956,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ultimate-astro-theme-multiframework-heaven/",
+            "download": "public/download/ultimate-astro-theme-multiframework-heaven.zip",
             "spec": "",
             "handle": "ultimate-astro-theme-multiframework-heaven",
             "id": "ultimate-astro-theme-multiframework-heaven"
@@ -16590,6 +16997,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-dracula-blog/",
+            "download": "public/download/astro-dracula-blog.zip",
             "spec": "",
             "handle": "astro-dracula-blog",
             "id": "astro-dracula-blog"
@@ -16630,6 +17038,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/warp-portfolio/",
+            "download": "public/download/warp-portfolio.zip",
             "spec": "",
             "handle": "warp-portfolio",
             "id": "warp-portfolio"
@@ -16670,6 +17079,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/meo/",
+            "download": "public/download/meo.zip",
             "spec": "",
             "handle": "meo",
             "id": "meo"
@@ -16710,6 +17120,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-bash/",
+            "download": "public/download/astro-bash.zip",
             "spec": "",
             "handle": "astro-bash",
             "id": "astro-bash"
@@ -16750,6 +17161,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/track-shadcn-ui-changelog-landing-page-template-free/",
+            "download": "public/download/track-shadcn-ui-changelog-landing-page-template-free.zip",
             "spec": "",
             "handle": "track-shadcn-ui-changelog-landing-page-template-free",
             "id": "track-shadcn-ui-changelog-landing-page-template-free"
@@ -16790,6 +17202,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrodeck/",
+            "download": "public/download/astrodeck.zip",
             "spec": "",
             "handle": "astrodeck",
             "id": "astrodeck"
@@ -16830,6 +17243,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-full-starter/",
+            "download": "public/download/astro-full-starter.zip",
             "spec": "",
             "handle": "astro-full-starter",
             "id": "astro-full-starter"
@@ -16870,6 +17284,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/designphotographyportfolio/",
+            "download": "public/download/designphotographyportfolio.zip",
             "spec": "",
             "handle": "designphotographyportfolio",
             "id": "designphotographyportfolio"
@@ -16910,6 +17325,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webcoreui-astro-component-library/",
+            "download": "public/download/webcoreui-astro-component-library.zip",
             "spec": "",
             "handle": "webcoreui-astro-component-library",
             "id": "webcoreui-astro-component-library"
@@ -16950,6 +17366,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/openlinks/",
+            "download": "public/download/openlinks.zip",
             "spec": "",
             "handle": "openlinks",
             "id": "openlinks"
@@ -16990,6 +17407,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/elon-kernel/",
+            "download": "public/download/elon-kernel.zip",
             "spec": "",
             "handle": "elon-kernel",
             "id": "elon-kernel"
@@ -17030,6 +17448,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/innotech-template/",
+            "download": "public/download/innotech-template.zip",
             "spec": "",
             "handle": "innotech-template",
             "id": "innotech-template"
@@ -17070,6 +17489,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/big-city-life/",
+            "download": "public/download/big-city-life.zip",
             "spec": "",
             "handle": "big-city-life",
             "id": "big-city-life"
@@ -17110,6 +17530,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio-developers-astro/",
+            "download": "public/download/portfolio-developers-astro.zip",
             "spec": "",
             "handle": "portfolio-developers-astro",
             "id": "portfolio-developers-astro"
@@ -17150,6 +17571,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/so-basic-blog-template/",
+            "download": "public/download/so-basic-blog-template.zip",
             "spec": "",
             "handle": "so-basic-blog-template",
             "id": "so-basic-blog-template"
@@ -17190,6 +17612,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boilerplate-astro-svelte/",
+            "download": "public/download/boilerplate-astro-svelte.zip",
             "spec": "",
             "handle": "boilerplate-astro-svelte",
             "id": "boilerplate-astro-svelte"
@@ -17230,6 +17653,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boilerplate-astro-solidjs/",
+            "download": "public/download/boilerplate-astro-solidjs.zip",
             "spec": "",
             "handle": "boilerplate-astro-solidjs",
             "id": "boilerplate-astro-solidjs"
@@ -17270,6 +17694,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boilerplate-astro-react/",
+            "download": "public/download/boilerplate-astro-react.zip",
             "spec": "",
             "handle": "boilerplate-astro-react",
             "id": "boilerplate-astro-react"
@@ -17310,6 +17735,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-international-starter/",
+            "download": "public/download/astro-international-starter.zip",
             "spec": "",
             "handle": "astro-international-starter",
             "id": "astro-international-starter"
@@ -17350,6 +17776,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/litos/",
+            "download": "public/download/litos.zip",
             "spec": "",
             "handle": "litos",
             "id": "litos"
@@ -17390,6 +17817,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/miduwind/",
+            "download": "public/download/miduwind.zip",
             "spec": "",
             "handle": "miduwind",
             "id": "miduwind"
@@ -17430,6 +17858,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/airy-personal-page/",
+            "download": "public/download/airy-personal-page.zip",
             "spec": "",
             "handle": "airy-personal-page",
             "id": "airy-personal-page"
@@ -17470,6 +17899,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ink-personal-website/",
+            "download": "public/download/ink-personal-website.zip",
             "spec": "",
             "handle": "ink-personal-website",
             "id": "ink-personal-website"
@@ -17510,6 +17940,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cooper/",
+            "download": "public/download/cooper.zip",
             "spec": "",
             "handle": "cooper",
             "id": "cooper"
@@ -17550,6 +17981,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ctros/",
+            "download": "public/download/ctros.zip",
             "spec": "",
             "handle": "ctros",
             "id": "ctros"
@@ -17590,6 +18022,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/darkness/",
+            "download": "public/download/darkness.zip",
             "spec": "",
             "handle": "darkness",
             "id": "darkness"
@@ -17630,6 +18063,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/typewriter/",
+            "download": "public/download/typewriter.zip",
             "spec": "",
             "handle": "typewriter",
             "id": "typewriter"
@@ -17670,6 +18104,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shblog-next/",
+            "download": "public/download/shblog-next.zip",
             "spec": "",
             "handle": "shblog-next",
             "id": "shblog-next"
@@ -17710,6 +18145,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-multipage-portfolio/",
+            "download": "public/download/astro-multipage-portfolio.zip",
             "spec": "",
             "handle": "astro-multipage-portfolio",
             "id": "astro-multipage-portfolio"
@@ -17750,6 +18186,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/launchpad/",
+            "download": "public/download/launchpad.zip",
             "spec": "",
             "handle": "launchpad",
             "id": "launchpad"
@@ -17790,6 +18227,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-webstack/",
+            "download": "public/download/astro-webstack.zip",
             "spec": "",
             "handle": "astro-webstack",
             "id": "astro-webstack"
@@ -17830,6 +18268,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalist-litght-dark-theme-portfolio/",
+            "download": "public/download/minimalist-litght-dark-theme-portfolio.zip",
             "spec": "",
             "handle": "minimalist-litght-dark-theme-portfolio",
             "id": "minimalist-litght-dark-theme-portfolio"
@@ -17870,6 +18309,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/estrocom/",
+            "download": "public/download/estrocom.zip",
             "spec": "",
             "handle": "estrocom",
             "id": "estrocom"
@@ -17910,6 +18350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/devlinks/",
+            "download": "public/download/devlinks.zip",
             "spec": "",
             "handle": "devlinks",
             "id": "devlinks"
@@ -17950,6 +18391,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/simple-blog-codematrix44/",
+            "download": "public/download/simple-blog-codematrix44.zip",
             "spec": "",
             "handle": "simple-blog-codematrix44",
             "id": "simple-blog-codematrix44"
@@ -17990,6 +18432,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/linkytree/",
+            "download": "public/download/linkytree.zip",
             "spec": "",
             "handle": "linkytree",
             "id": "linkytree"
@@ -18030,6 +18473,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fintechpro/",
+            "download": "public/download/fintechpro.zip",
             "spec": "",
             "handle": "fintechpro",
             "id": "fintechpro"
@@ -18070,6 +18514,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/haiku-reels/",
+            "download": "public/download/haiku-reels.zip",
             "spec": "",
             "handle": "haiku-reels",
             "id": "haiku-reels"
@@ -18110,6 +18555,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/said-yes/",
+            "download": "public/download/said-yes.zip",
             "spec": "",
             "handle": "said-yes",
             "id": "said-yes"
@@ -18150,6 +18596,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/brandcrafters-agency-website/",
+            "download": "public/download/brandcrafters-agency-website.zip",
             "spec": "",
             "handle": "brandcrafters-agency-website",
             "id": "brandcrafters-agency-website"
@@ -18190,6 +18637,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astral-halo/",
+            "download": "public/download/astral-halo.zip",
             "spec": "",
             "handle": "astral-halo",
             "id": "astral-halo"
@@ -18230,6 +18678,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/momo/",
+            "download": "public/download/momo.zip",
             "spec": "",
             "handle": "momo",
             "id": "momo"
@@ -18270,6 +18719,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/medical-coverage-marketing/",
+            "download": "public/download/medical-coverage-marketing.zip",
             "spec": "",
             "handle": "medical-coverage-marketing",
             "id": "medical-coverage-marketing"
@@ -18310,6 +18760,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starcard/",
+            "download": "public/download/starcard.zip",
             "spec": "",
             "handle": "starcard",
             "id": "starcard"
@@ -18350,6 +18801,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-theme/",
+            "download": "public/download/astro-starter-theme.zip",
             "spec": "",
             "handle": "astro-starter-theme",
             "id": "astro-starter-theme"
@@ -18390,6 +18842,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/semantic-docs/",
+            "download": "public/download/semantic-docs.zip",
             "spec": "",
             "handle": "semantic-docs",
             "id": "semantic-docs"
@@ -18430,6 +18883,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-portfolio/",
+            "download": "public/download/minimalistic-portfolio.zip",
             "spec": "",
             "handle": "minimalistic-portfolio",
             "id": "minimalistic-portfolio"
@@ -18470,6 +18924,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fit-page/",
+            "download": "public/download/fit-page.zip",
             "spec": "",
             "handle": "fit-page",
             "id": "fit-page"
@@ -18510,6 +18965,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/momo-index/",
+            "download": "public/download/momo-index.zip",
             "spec": "",
             "handle": "momo-index",
             "id": "momo-index"
@@ -18550,6 +19006,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blog-theme/",
+            "download": "public/download/astro-blog-theme.zip",
             "spec": "",
             "handle": "astro-blog-theme",
             "id": "astro-blog-theme"
@@ -18590,6 +19047,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/insightfull-ink-blog-website/",
+            "download": "public/download/insightfull-ink-blog-website.zip",
             "spec": "",
             "handle": "insightfull-ink-blog-website",
             "id": "insightfull-ink-blog-website"
@@ -18630,6 +19088,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tailkits-astro/",
+            "download": "public/download/tailkits-astro.zip",
             "spec": "",
             "handle": "tailkits-astro",
             "id": "tailkits-astro"
@@ -18670,6 +19129,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/firefly/",
+            "download": "public/download/firefly.zip",
             "spec": "",
             "handle": "firefly",
             "id": "firefly"
@@ -18710,6 +19170,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/career-walking-site-bento-box-theme/",
+            "download": "public/download/career-walking-site-bento-box-theme.zip",
             "spec": "",
             "handle": "career-walking-site-bento-box-theme",
             "id": "career-walking-site-bento-box-theme"
@@ -18750,6 +19211,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrogent/",
+            "download": "public/download/astrogent.zip",
             "spec": "",
             "handle": "astrogent",
             "id": "astrogent"
@@ -18790,6 +19252,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/personal-portfolio-website/",
+            "download": "public/download/personal-portfolio-website.zip",
             "spec": "",
             "handle": "personal-portfolio-website",
             "id": "personal-portfolio-website"
@@ -18830,6 +19293,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/legal-staff/",
+            "download": "public/download/legal-staff.zip",
             "spec": "",
             "handle": "legal-staff",
             "id": "legal-staff"
@@ -18870,6 +19334,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-bento-like-portfolio/",
+            "download": "public/download/minimal-bento-like-portfolio.zip",
             "spec": "",
             "handle": "minimal-bento-like-portfolio",
             "id": "minimal-bento-like-portfolio"
@@ -18910,6 +19375,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/raccoon-links/",
+            "download": "public/download/raccoon-links.zip",
             "spec": "",
             "handle": "raccoon-links",
             "id": "raccoon-links"
@@ -18950,6 +19416,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/artistree-link-in-bio-page/",
+            "download": "public/download/artistree-link-in-bio-page.zip",
             "spec": "",
             "handle": "artistree-link-in-bio-page",
             "id": "artistree-link-in-bio-page"
@@ -18990,6 +19457,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/photography-portfolio-template/",
+            "download": "public/download/photography-portfolio-template.zip",
             "spec": "",
             "handle": "photography-portfolio-template",
             "id": "photography-portfolio-template"
@@ -19030,6 +19498,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cvfolio/",
+            "download": "public/download/cvfolio.zip",
             "spec": "",
             "handle": "cvfolio",
             "id": "cvfolio"
@@ -19070,6 +19539,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrorise-open/",
+            "download": "public/download/astrorise-open.zip",
             "spec": "",
             "handle": "astrorise-open",
             "id": "astrorise-open"
@@ -19110,6 +19580,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimaldev-astro-theme/",
+            "download": "public/download/minimaldev-astro-theme.zip",
             "spec": "",
             "handle": "minimaldev-astro-theme",
             "id": "minimaldev-astro-theme"
@@ -19150,6 +19621,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-blog/",
+            "download": "public/download/minimal-blog.zip",
             "spec": "",
             "handle": "minimal-blog",
             "id": "minimal-blog"
@@ -19190,6 +19662,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/star-read/",
+            "download": "public/download/star-read.zip",
             "spec": "",
             "handle": "star-read",
             "id": "star-read"
@@ -19230,6 +19703,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-flexoki/",
+            "download": "public/download/astro-flexoki.zip",
             "spec": "",
             "handle": "astro-flexoki",
             "id": "astro-flexoki"
@@ -19270,6 +19744,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-i18n-starter/",
+            "download": "public/download/astro-i18n-starter.zip",
             "spec": "",
             "handle": "astro-i18n-starter",
             "id": "astro-i18n-starter"
@@ -19310,6 +19785,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-shopify-sanity/",
+            "download": "public/download/astro-shopify-sanity.zip",
             "spec": "",
             "handle": "astro-shopify-sanity",
             "id": "astro-shopify-sanity"
@@ -19350,6 +19826,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nagare/",
+            "download": "public/download/nagare.zip",
             "spec": "",
             "handle": "nagare",
             "id": "nagare"
@@ -19390,6 +19867,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mizuki/",
+            "download": "public/download/mizuki.zip",
             "spec": "",
             "handle": "mizuki",
             "id": "mizuki"
@@ -19430,6 +19908,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/alkaline/",
+            "download": "public/download/alkaline.zip",
             "spec": "",
             "handle": "alkaline",
             "id": "alkaline"
@@ -19470,6 +19949,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sanity-astro-club/",
+            "download": "public/download/sanity-astro-club.zip",
             "spec": "",
             "handle": "sanity-astro-club",
             "id": "sanity-astro-club"
@@ -19510,6 +19990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-flow-simple-blog/",
+            "download": "public/download/astro-flow-simple-blog.zip",
             "spec": "",
             "handle": "astro-flow-simple-blog",
             "id": "astro-flow-simple-blog"
@@ -19550,6 +20031,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stalux/",
+            "download": "public/download/stalux.zip",
             "spec": "",
             "handle": "stalux",
             "id": "stalux"
@@ -19590,6 +20072,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-air-bento/",
+            "download": "public/download/astro-air-bento.zip",
             "spec": "",
             "handle": "astro-air-bento",
             "id": "astro-air-bento"
@@ -19630,6 +20113,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-news/",
+            "download": "public/download/astro-news.zip",
             "spec": "",
             "handle": "astro-news",
             "id": "astro-news"
@@ -19670,6 +20154,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-portfolio-template/",
+            "download": "public/download/minimal-portfolio-template.zip",
             "spec": "",
             "handle": "minimal-portfolio-template",
             "id": "minimal-portfolio-template"
@@ -19710,6 +20195,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/frieren-blog-kit/",
+            "download": "public/download/frieren-blog-kit.zip",
             "spec": "",
             "handle": "frieren-blog-kit",
             "id": "frieren-blog-kit"
@@ -19750,6 +20236,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blur/",
+            "download": "public/download/astro-blur.zip",
             "spec": "",
             "handle": "astro-blur",
             "id": "astro-blur"
@@ -19790,6 +20277,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/a-simple-dynamic-theme/",
+            "download": "public/download/a-simple-dynamic-theme.zip",
             "spec": "",
             "handle": "a-simple-dynamic-theme",
             "id": "a-simple-dynamic-theme"
@@ -19830,6 +20318,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/matix-template/",
+            "download": "public/download/matix-template.zip",
             "spec": "",
             "handle": "matix-template",
             "id": "matix-template"
@@ -19870,6 +20359,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nordlys/",
+            "download": "public/download/nordlys.zip",
             "spec": "",
             "handle": "nordlys",
             "id": "nordlys"
@@ -19910,6 +20400,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-spaceship/",
+            "download": "public/download/astro-spaceship.zip",
             "spec": "",
             "handle": "astro-spaceship",
             "id": "astro-spaceship"
@@ -19950,6 +20441,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/it-audit-pro-business-website/",
+            "download": "public/download/it-audit-pro-business-website.zip",
             "spec": "",
             "handle": "it-audit-pro-business-website",
             "id": "it-audit-pro-business-website"
@@ -19990,6 +20482,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrorante/",
+            "download": "public/download/astrorante.zip",
             "spec": "",
             "handle": "astrorante",
             "id": "astrorante"
@@ -20030,6 +20523,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/directory/",
+            "download": "public/download/directory.zip",
             "spec": "",
             "handle": "directory",
             "id": "directory"
@@ -20070,6 +20564,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/newechoes/",
+            "download": "public/download/newechoes.zip",
             "spec": "",
             "handle": "newechoes",
             "id": "newechoes"
@@ -20110,6 +20605,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-micro/",
+            "download": "public/download/astro-micro.zip",
             "spec": "",
             "handle": "astro-micro",
             "id": "astro-micro"
@@ -20150,6 +20646,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mobile-app-landing-page/",
+            "download": "public/download/mobile-app-landing-page.zip",
             "spec": "",
             "handle": "mobile-app-landing-page",
             "id": "mobile-app-landing-page"
@@ -20190,6 +20687,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sleek-minimal-developer-portfolio-website/",
+            "download": "public/download/sleek-minimal-developer-portfolio-website.zip",
             "spec": "",
             "handle": "sleek-minimal-developer-portfolio-website",
             "id": "sleek-minimal-developer-portfolio-website"
@@ -20230,6 +20728,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-style-modern-blog-system-nano-blog/",
+            "download": "public/download/minimal-style-modern-blog-system-nano-blog.zip",
             "spec": "",
             "handle": "minimal-style-modern-blog-system-nano-blog",
             "id": "minimal-style-modern-blog-system-nano-blog"
@@ -20270,6 +20769,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/celestialdocs/",
+            "download": "public/download/celestialdocs.zip",
             "spec": "",
             "handle": "celestialdocs",
             "id": "celestialdocs"
@@ -20310,6 +20810,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/vitesse-theme-for-astro/",
+            "download": "public/download/vitesse-theme-for-astro.zip",
             "spec": "",
             "handle": "vitesse-theme-for-astro",
             "id": "vitesse-theme-for-astro"
@@ -20350,6 +20851,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/spark/",
+            "download": "public/download/spark.zip",
             "spec": "",
             "handle": "spark",
             "id": "spark"
@@ -20390,6 +20892,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blog/",
+            "download": "public/download/blog.zip",
             "spec": "",
             "handle": "blog",
             "id": "blog"
@@ -20430,6 +20933,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroship/",
+            "download": "public/download/astroship.zip",
             "spec": "",
             "handle": "astroship",
             "id": "astroship"
@@ -20470,6 +20974,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starpod/",
+            "download": "public/download/starpod.zip",
             "spec": "",
             "handle": "starpod",
             "id": "starpod"
@@ -20510,6 +21015,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/small-business-template/",
+            "download": "public/download/small-business-template.zip",
             "spec": "",
             "handle": "small-business-template",
             "id": "small-business-template"
@@ -20550,6 +21056,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fuwari/",
+            "download": "public/download/fuwari.zip",
             "spec": "",
             "handle": "fuwari",
             "id": "fuwari"
@@ -20590,6 +21097,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/welcome-to-astro/",
+            "download": "public/download/welcome-to-astro.zip",
             "spec": "",
             "handle": "welcome-to-astro",
             "id": "welcome-to-astro"
@@ -20630,6 +21138,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/litefolio/",
+            "download": "public/download/litefolio.zip",
             "spec": "",
             "handle": "litefolio",
             "id": "litefolio"
@@ -20670,6 +21179,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolus/",
+            "download": "public/download/astrolus.zip",
             "spec": "",
             "handle": "astrolus",
             "id": "astrolus"
@@ -20710,6 +21220,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-multiverse/",
+            "download": "public/download/astro-multiverse.zip",
             "spec": "",
             "handle": "astro-multiverse",
             "id": "astro-multiverse"
@@ -20750,6 +21261,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/frosti/",
+            "download": "public/download/frosti.zip",
             "spec": "",
             "handle": "frosti",
             "id": "frosti"
@@ -20790,6 +21302,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quick-astro/",
+            "download": "public/download/quick-astro.zip",
             "spec": "",
             "handle": "quick-astro",
             "id": "quick-astro"
@@ -20830,6 +21343,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astronaut/",
+            "download": "public/download/astronaut.zip",
             "spec": "",
             "handle": "astronaut",
             "id": "astronaut"
@@ -20870,6 +21384,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-login-template/",
+            "download": "public/download/astro-login-template.zip",
             "spec": "",
             "handle": "astro-login-template",
             "id": "astro-login-template"
@@ -20910,6 +21425,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-vim/",
+            "download": "public/download/astro-vim.zip",
             "spec": "",
             "handle": "astro-vim",
             "id": "astro-vim"
@@ -20950,6 +21466,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/photography-theme/",
+            "download": "public/download/photography-theme.zip",
             "spec": "",
             "handle": "photography-theme",
             "id": "photography-theme"
@@ -20990,6 +21507,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/positivus/",
+            "download": "public/download/positivus.zip",
             "spec": "",
             "handle": "positivus",
             "id": "positivus"
@@ -21030,6 +21548,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mintaka/",
+            "download": "public/download/mintaka.zip",
             "spec": "",
             "handle": "mintaka",
             "id": "mintaka"
@@ -21070,6 +21589,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofolio/",
+            "download": "public/download/astrofolio.zip",
             "spec": "",
             "handle": "astrofolio",
             "id": "astrofolio"
@@ -21110,6 +21630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/low-power-blog/",
+            "download": "public/download/low-power-blog.zip",
             "spec": "",
             "handle": "low-power-blog",
             "id": "low-power-blog"
@@ -21150,6 +21671,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nikola-tesla/",
+            "download": "public/download/nikola-tesla.zip",
             "spec": "",
             "handle": "nikola-tesla",
             "id": "nikola-tesla"
@@ -21190,6 +21712,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/storyteller/",
+            "download": "public/download/storyteller.zip",
             "spec": "",
             "handle": "storyteller",
             "id": "storyteller"
@@ -21230,6 +21753,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/maucariapacom-church-starter/",
+            "download": "public/download/maucariapacom-church-starter.zip",
             "spec": "",
             "handle": "maucariapacom-church-starter",
             "id": "maucariapacom-church-starter"
@@ -21270,6 +21794,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/melody/",
+            "download": "public/download/melody.zip",
             "spec": "",
             "handle": "melody",
             "id": "melody"
@@ -21310,6 +21835,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-milidev/",
+            "download": "public/download/astro-milidev.zip",
             "spec": "",
             "handle": "astro-milidev",
             "id": "astro-milidev"
@@ -21350,6 +21876,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/slate-blog/",
+            "download": "public/download/slate-blog.zip",
             "spec": "",
             "handle": "slate-blog",
             "id": "slate-blog"
@@ -21390,6 +21917,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/simple-portfolio/",
+            "download": "public/download/simple-portfolio.zip",
             "spec": "",
             "handle": "simple-portfolio",
             "id": "simple-portfolio"
@@ -21430,6 +21958,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/t3ma-blog/",
+            "download": "public/download/t3ma-blog.zip",
             "spec": "",
             "handle": "t3ma-blog",
             "id": "t3ma-blog"
@@ -21470,6 +21999,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-astro-blog/",
+            "download": "public/download/minimalistic-astro-blog.zip",
             "spec": "",
             "handle": "minimalistic-astro-blog",
             "id": "minimalistic-astro-blog"
@@ -21510,6 +22040,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrogency/",
+            "download": "public/download/astrogency.zip",
             "spec": "",
             "handle": "astrogency",
             "id": "astrogency"
@@ -21550,6 +22081,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/volks-typo/",
+            "download": "public/download/volks-typo.zip",
             "spec": "",
             "handle": "volks-typo",
             "id": "volks-typo"
@@ -21590,6 +22122,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-zen-blog/",
+            "download": "public/download/astro-zen-blog.zip",
             "spec": "",
             "handle": "astro-zen-blog",
             "id": "astro-zen-blog"
@@ -21630,6 +22163,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/payflo-fintech-saas-payroll-theme/",
+            "download": "public/download/payflo-fintech-saas-payroll-theme.zip",
             "spec": "",
             "handle": "payflo-fintech-saas-payroll-theme",
             "id": "payflo-fintech-saas-payroll-theme"
@@ -21670,6 +22204,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bitdoze-astro-theme/",
+            "download": "public/download/bitdoze-astro-theme.zip",
             "spec": "",
             "handle": "bitdoze-astro-theme",
             "id": "bitdoze-astro-theme"
@@ -21710,6 +22245,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fomalhaut/",
+            "download": "public/download/fomalhaut.zip",
             "spec": "",
             "handle": "fomalhaut",
             "id": "fomalhaut"
@@ -21750,6 +22286,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/asterris/",
+            "download": "public/download/asterris.zip",
             "spec": "",
             "handle": "asterris",
             "id": "asterris"
@@ -21790,6 +22327,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/antares/",
+            "download": "public/download/antares.zip",
             "spec": "",
             "handle": "antares",
             "id": "antares"
@@ -21830,6 +22368,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kiri/",
+            "download": "public/download/kiri.zip",
             "spec": "",
             "handle": "kiri",
             "id": "kiri"
@@ -21870,6 +22409,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blog-starter/",
+            "download": "public/download/astro-blog-starter.zip",
             "spec": "",
             "handle": "astro-blog-starter",
             "id": "astro-blog-starter"
@@ -21910,6 +22450,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/modern-company-landing-page/",
+            "download": "public/download/modern-company-landing-page.zip",
             "spec": "",
             "handle": "modern-company-landing-page",
             "id": "modern-company-landing-page"
@@ -21950,6 +22491,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stargarden/",
+            "download": "public/download/stargarden.zip",
             "spec": "",
             "handle": "stargarden",
             "id": "stargarden"
@@ -21990,6 +22532,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/charm/",
+            "download": "public/download/charm.zip",
             "spec": "",
             "handle": "charm",
             "id": "charm"
@@ -22030,6 +22573,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-terminal/",
+            "download": "public/download/astro-terminal.zip",
             "spec": "",
             "handle": "astro-terminal",
             "id": "astro-terminal"
@@ -22070,6 +22614,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-5-shadcn-ui-started-template/",
+            "download": "public/download/astro-5-shadcn-ui-started-template.zip",
             "spec": "",
             "handle": "astro-5-shadcn-ui-started-template",
             "id": "astro-5-shadcn-ui-started-template"
@@ -22110,6 +22655,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/morethan-log-for-astro/",
+            "download": "public/download/morethan-log-for-astro.zip",
             "spec": "",
             "handle": "morethan-log-for-astro",
             "id": "morethan-log-for-astro"
@@ -22150,6 +22696,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/servland-landing-page/",
+            "download": "public/download/servland-landing-page.zip",
             "spec": "",
             "handle": "servland-landing-page",
             "id": "servland-landing-page"
@@ -22190,6 +22737,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolingo/",
+            "download": "public/download/astrolingo.zip",
             "spec": "",
             "handle": "astrolingo",
             "id": "astrolingo"
@@ -22230,6 +22778,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/miniblog/",
+            "download": "public/download/miniblog.zip",
             "spec": "",
             "handle": "miniblog",
             "id": "miniblog"
@@ -22270,6 +22819,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kaizen-minimal-portfolio/",
+            "download": "public/download/kaizen-minimal-portfolio.zip",
             "spec": "",
             "handle": "kaizen-minimal-portfolio",
             "id": "kaizen-minimal-portfolio"
@@ -22310,6 +22860,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-theme-isolatedland/",
+            "download": "public/download/astro-theme-isolatedland.zip",
             "spec": "",
             "handle": "astro-theme-isolatedland",
             "id": "astro-theme-isolatedland"
@@ -22350,6 +22901,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aether-astro-theme/",
+            "download": "public/download/aether-astro-theme.zip",
             "spec": "",
             "handle": "aether-astro-theme",
             "id": "aether-astro-theme"
@@ -22390,6 +22942,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-fox/",
+            "download": "public/download/astro-fox.zip",
             "spec": "",
             "handle": "astro-fox",
             "id": "astro-fox"
@@ -22430,6 +22983,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/saral/",
+            "download": "public/download/saral.zip",
             "spec": "",
             "handle": "saral",
             "id": "saral"
@@ -22470,6 +23024,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/agency-theme/",
+            "download": "public/download/agency-theme.zip",
             "spec": "",
             "handle": "agency-theme",
             "id": "agency-theme"
@@ -22510,6 +23065,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dounut/",
+            "download": "public/download/dounut.zip",
             "spec": "",
             "handle": "dounut",
             "id": "dounut"
@@ -22550,6 +23106,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blog-markdown/",
+            "download": "public/download/astro-blog-markdown.zip",
             "spec": "",
             "handle": "astro-blog-markdown",
             "id": "astro-blog-markdown"
@@ -22590,6 +23147,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/naid/",
+            "download": "public/download/naid.zip",
             "spec": "",
             "handle": "naid",
             "id": "naid"
@@ -22630,6 +23188,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tiny-rocket/",
+            "download": "public/download/tiny-rocket.zip",
             "spec": "",
             "handle": "tiny-rocket",
             "id": "tiny-rocket"
@@ -22670,6 +23229,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/contour/",
+            "download": "public/download/contour.zip",
             "spec": "",
             "handle": "contour",
             "id": "contour"
@@ -22710,6 +23270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-resume-theme/",
+            "download": "public/download/astro-resume-theme.zip",
             "spec": "",
             "handle": "astro-resume-theme",
             "id": "astro-resume-theme"
@@ -22750,6 +23311,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kiss-keep-it-simple-stupid-minimal-portfolio-template/",
+            "download": "public/download/kiss-keep-it-simple-stupid-minimal-portfolio-template.zip",
             "spec": "",
             "handle": "kiss-keep-it-simple-stupid-minimal-portfolio-template",
             "id": "kiss-keep-it-simple-stupid-minimal-portfolio-template"
@@ -22790,6 +23352,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astronano/",
+            "download": "public/download/astronano.zip",
             "spec": "",
             "handle": "astronano",
             "id": "astronano"
@@ -22830,6 +23393,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofy-personal-porfolio-website-template/",
+            "download": "public/download/astrofy-personal-porfolio-website-template.zip",
             "spec": "",
             "handle": "astrofy-personal-porfolio-website-template",
             "id": "astrofy-personal-porfolio-website-template"
@@ -22870,6 +23434,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aria/",
+            "download": "public/download/aria.zip",
             "spec": "",
             "handle": "aria",
             "id": "aria"
@@ -22910,6 +23475,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/luna-landing/",
+            "download": "public/download/luna-landing.zip",
             "spec": "",
             "handle": "luna-landing",
             "id": "luna-landing"
@@ -22950,6 +23516,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/northlight/",
+            "download": "public/download/northlight.zip",
             "spec": "",
             "handle": "northlight",
             "id": "northlight"
@@ -22990,6 +23557,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/print-friendly-portfolio-cv/",
+            "download": "public/download/print-friendly-portfolio-cv.zip",
             "spec": "",
             "handle": "print-friendly-portfolio-cv",
             "id": "print-friendly-portfolio-cv"
@@ -23030,6 +23598,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/koibumi-astro-blog/",
+            "download": "public/download/koibumi-astro-blog.zip",
             "spec": "",
             "handle": "koibumi-astro-blog",
             "id": "koibumi-astro-blog"
@@ -23070,6 +23639,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-template/",
+            "download": "public/download/astro-portfolio-template.zip",
             "spec": "",
             "handle": "astro-portfolio-template",
             "id": "astro-portfolio-template"
@@ -23110,6 +23680,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-boilerplate/",
+            "download": "public/download/astro-boilerplate.zip",
             "spec": "",
             "handle": "astro-boilerplate",
             "id": "astro-boilerplate"
@@ -23150,6 +23721,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/developer-blog/",
+            "download": "public/download/developer-blog.zip",
             "spec": "",
             "handle": "developer-blog",
             "id": "developer-blog"
@@ -23190,6 +23762,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/openblog/",
+            "download": "public/download/openblog.zip",
             "spec": "",
             "handle": "openblog",
             "id": "openblog"
@@ -23230,6 +23803,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/atom/",
+            "download": "public/download/atom.zip",
             "spec": "",
             "handle": "atom",
             "id": "atom"
@@ -23270,6 +23844,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stablo-blog-template/",
+            "download": "public/download/stablo-blog-template.zip",
             "spec": "",
             "handle": "stablo-blog-template",
             "id": "stablo-blog-template"
@@ -23310,6 +23885,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/skncre-a-hygraph-cosmetics-brand-e-commerce/",
+            "download": "public/download/skncre-a-hygraph-cosmetics-brand-e-commerce.zip",
             "spec": "",
             "handle": "skncre-a-hygraph-cosmetics-brand-e-commerce",
             "id": "skncre-a-hygraph-cosmetics-brand-e-commerce"
@@ -23350,6 +23926,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stone/",
+            "download": "public/download/stone.zip",
             "spec": "",
             "handle": "stone",
             "id": "stone"
@@ -23390,6 +23967,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-design-system-docs/",
+            "download": "public/download/astro-design-system-docs.zip",
             "spec": "",
             "handle": "astro-design-system-docs",
             "id": "astro-design-system-docs"

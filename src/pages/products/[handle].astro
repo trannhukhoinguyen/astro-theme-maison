@@ -41,6 +41,7 @@ const specs: [string, string][] = [
   ['Source', p.get_started_url],
   ['Demo', p.live_demo_url],
   ['Specification', p.spec],
+  ['Download', p.download],
 ];
 ---
 
@@ -68,6 +69,7 @@ const specs: [string, string][] = [
             // Chuyển v thành string để kiểm tra an toàn (tránh lỗi nếu v là số hoặc null/undefined)
                   const stringValue = String(v || '');
             const isUrl = stringValue.includes('http');
+            const isDownload = stringValue.includes('public/download');
 
             return (
                 <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
@@ -77,6 +79,10 @@ const specs: [string, string][] = [
                   {isUrl ? (
                       <a href={stringValue} target="_blank" class="min-w-0 flex-1 text-[13.5px] text-ink underline">
                         {stringValue}
+                      </a>
+                  ) : isDownload ? (
+                      <a href={stringValue} target="_blank" class="min-w-0 flex-1 text-[13.5px] text-ink underline">
+                        <span class="text-[16px]">📥</span>
                       </a>
                   ) : (
                       <span class="min-w-0 flex-1 text-[13.5px] text-ink">{stringValue}</span>
