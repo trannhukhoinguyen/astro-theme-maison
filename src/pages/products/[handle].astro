@@ -69,7 +69,7 @@ const specs: [string, string][] = [
             // Chuyển v thành string để kiểm tra an toàn (tránh lỗi nếu v là số hoặc null/undefined)
                   const stringValue = String(v || '');
             const isUrl = stringValue.includes('http');
-            const isDownload = stringValue.includes('public/download');
+            const isDownload = stringValue.includes('/download');
 
             return (
                 <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
