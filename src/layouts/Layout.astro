@@ -399,17 +399,36 @@ const clientData = JSON.stringify({
               <p class="m-0 mt-1.5 text-[14.5px] leading-[1.75] text-soft">${p.note}</p>
             </div>
             <div class="flex flex-col">
-              ${[['Detail page', p.detail_page_url], ['Source', p.get_started_url], ['Era', p.epoch], ['Demo', p.live_demo_url], ['Specification', p.spec], ['Availability', avail], ['Patron rating', p.rating.toFixed(1) + '★']].map(([k, v]) => `
-                <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
-                  <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">${k}</span>
-                  {
-                      ${v}.includes('http') 
-                        ? <a href={${v}} target={"_blank"}>
-                            <span class="min-w-0 flex-1 text-[13.5px] text-ink">${v}</span>
-                          </a> 
-                        : <span className="min-w-0 flex-1 text-[13.5px] text-ink">${v}</span>
-                  }
-                </div>`).join('')}
+              {
+                [
+                  ['Detail page', p.detail_page_url], 
+                  ['Source', p.get_started_url], 
+                  ['Era', p.epoch], 
+                  ['Demo', p.live_demo_url], 
+                  ['Specification', p.spec], 
+                  ['Availability', avail], 
+                  ['Patron rating', p.rating.toFixed(1) + '★']
+                ].map(([k, v]) => {
+                  // Chuyển v thành string để kiểm tra an toàn (tránh lỗi nếu v là số hoặc null/undefined)
+                  const stringValue = String(v || '');
+                  const isUrl = stringValue.includes('http');
+            
+                  return (
+                    <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
+                      <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">{k}</span>
+                      
+                      {/* Chỉ render 1 trong 2: Thẻ <a> nếu chứa link, hoặc <span> nếu là text thường */}
+                      {isUrl ? (
+                        <a href={stringValue} target="_blank" class="min-w-0 flex-1 text-[13.5px] text-ink underline">
+                          {stringValue}
+                        </a>
+                      ) : (
+                        <span class="min-w-0 flex-1 text-[13.5px] text-ink">{stringValue}</span>
+                      )}
+                    </div>
+                  );
+                })
+              }
             </div>
             <a href="/products/${p.handle}" class="eti text-acc" style="font-size:10.5px">Open the full record →</a>
             <div class="flex flex-wrap items-center gap-x-[14px] gap-y-3.5 border-t border-rule pt-5">
