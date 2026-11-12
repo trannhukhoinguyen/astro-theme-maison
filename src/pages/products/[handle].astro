@@ -36,6 +36,11 @@ const productLd = JSON.stringify({
   aggregateRating: { '@type': 'AggregateRating', ratingValue: meta.rating, reviewCount: 24 },
 });
 
+const download = p.get_started_url?.includes('github.com') 
+  ? p.get_started_url + "/archive/refs/heads/main.zip" 
+  : p.get_started_url?.includes('gitlab.com') 
+    ? p.get_started_url + "/-/archive/main/" + p.get_started_url.slice(p.get_started_url.lastIndexOf('/')+1) + "-main.zip?ref_type=heads" 
+    : p.get_started_url;
 const specs: [string, string][] = [
   ['Detail page', p.detail_page_url],
   ['Source', p.get_started_url],
@@ -45,7 +50,7 @@ const specs: [string, string][] = [
 ];
 ---
 
-<Layout title={`${product.title} · ${meta.ref} — ${house?.name}`} description={`${p.vendor} — ${product.description} ${meta.spec}`} ogImage={img?.src}>
+<Layout title={`${product.title} · ${house?.name}`} description={`${p.vendor} — ${product.description} ${meta.spec}`} ogImage={img?.src}>
   <main class="mx-auto max-w-[1100px] px-6">
     <nav class="eti flex flex-wrap gap-x-2.5 gap-y-1 pt-10 text-faint" style="font-size:10.5px">
       <a href="/" class="text-faint transition hover:text-acc">{house?.short}</a>
@@ -67,9 +72,9 @@ const specs: [string, string][] = [
         <div class="flex flex-col">
           {specs.map(([k, v]) => {
             // Chuyển v thành string để kiểm tra an toàn (tránh lỗi nếu v là số hoặc null/undefined)
-                  const stringValue = String(v || '');
+            const stringValue = String(v || '');
             const isUrl = stringValue.includes('http');
-            const isGithubOrGitlabDownload = p.get_started_url?.includes('https://github.com') || p.get_started_url?.includes('https://gitlab.com');
+            const isGithubOrGitlabDownload = stringValue?.includes('/archive/refs/heads/') || stringValue?.includes('/-/archive/main/');
 
             return (
                 <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
@@ -78,11 +83,7 @@ const specs: [string, string][] = [
                   {/* Chỉ render 1 trong 2: Thẻ <a> nếu chứa link, hoặc <span> nếu là text thường */}
                   {isUrl ? (
                       <a href={stringValue} target="_blank" class="min-w-0 flex-1 text-[13.5px] text-ink underline">
-                        {stringValue}
-                      </a>
-                  ) : isGithubOrGitlabDownload ? (
-                      <a href={stringValue} target="_blank" class="min-w-0 flex-1 text-[13.5px] text-ink no-underline">
-                        <span class="text-[16px]">📥</span>
+                        { isGithubOrGitlabDownload ? <span class="text-[16px]">📥</span> : stringValue }
                       </a>
                   ) : (
                       <span class="min-w-0 flex-1 text-[13.5px] text-ink">{stringValue}</span>
