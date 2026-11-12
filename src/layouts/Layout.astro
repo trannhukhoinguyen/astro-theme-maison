@@ -399,10 +399,10 @@ const clientData = JSON.stringify({
               <p class="m-0 mt-1.5 text-[14.5px] leading-[1.75] text-soft">${p.note}</p>
             </div>
             <div class="flex flex-col">
-              ${[['Reference', p.ref], ['Material', p.material], ['Era', p.epoch], ['Origin', p.origin], ['Specification', p.spec], ['Availability', avail], ['Patron rating', p.rating.toFixed(1) + '★']].map(([k, v]) => `
+              ${[['Detail page', p.detail_page_url], ['Source', p.get_started_url], ['Demo', p.live_demo_url], ['Specification', p.spec]].map(([k, v]) => `
                 <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
                   <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">${k}</span>
-                  <a class="min-w-0 flex-1 text-[13.5px] text-ink" href={${v}} target={"_blank"}>${v}</a>
+                  <span class="min-w-0 flex-1 text-[13.5px] text-ink">${v}</span>
                 </div>`).join('')}
             </div>
             <a href="/products/${p.handle}" class="eti text-acc" style="font-size:10.5px">Open the full record →</a>
