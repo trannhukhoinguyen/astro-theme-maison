@@ -309,6 +309,7 @@
                 "Portfolio"
             ],
             "detail_page_url": "https://astro.build/themes/details/astara/",
+            "spec": "React - Tailwind",
             "handle": "astara",
             "id": "astara"
         },
@@ -348,6 +349,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/gloss/",
+            "spec": "",
             "handle": "gloss",
             "id": "gloss"
         },
@@ -387,6 +389,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blog-hishaku/",
+            "spec": "",
             "handle": "blog-hishaku",
             "id": "blog-hishaku"
         },
@@ -426,6 +429,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/towardslight/",
+            "spec": "",
             "handle": "towardslight",
             "id": "towardslight"
         },
@@ -465,6 +469,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/payday/",
+            "spec": "",
             "handle": "payday",
             "id": "payday"
         },
@@ -504,6 +509,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stratus/",
+            "spec": "",
             "handle": "stratus",
             "id": "stratus"
         },
@@ -543,6 +549,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bloggpt/",
+            "spec": "",
             "handle": "bloggpt",
             "id": "bloggpt"
         },
@@ -582,6 +589,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrowebtheme-free/",
+            "spec": "",
             "handle": "astrowebtheme-free",
             "id": "astrowebtheme-free"
         },
@@ -621,6 +629,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tearsheet/",
+            "spec": "",
             "handle": "tearsheet",
             "id": "tearsheet"
         },
@@ -660,6 +669,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrosage/",
+            "spec": "",
             "handle": "astrosage",
             "id": "astrosage"
         },
@@ -699,6 +709,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/seasons/",
+            "spec": "",
             "handle": "seasons",
             "id": "seasons"
         },
@@ -738,6 +749,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/inkline/",
+            "spec": "",
             "handle": "inkline",
             "id": "inkline"
         },
@@ -777,6 +789,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/terminal-noir/",
+            "spec": "",
             "handle": "terminal-noir",
             "id": "terminal-noir"
         },
@@ -816,6 +829,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kavelle/",
+            "spec": "",
             "handle": "kavelle",
             "id": "kavelle"
         },
@@ -855,6 +869,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/forma-construction-and-renovation/",
+            "spec": "",
             "handle": "forma-construction-and-renovation",
             "id": "forma-construction-and-renovation"
         },
@@ -894,6 +909,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/daybook/",
+            "spec": "",
             "handle": "daybook",
             "id": "daybook"
         },
@@ -934,6 +950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/the-navigator/",
+            "spec": "",
             "handle": "the-navigator",
             "id": "the-navigator"
         },
@@ -973,6 +990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/riviera-villa-lite/",
+            "spec": "",
             "handle": "riviera-villa-lite",
             "id": "riviera-villa-lite"
         },
@@ -1012,6 +1030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shoal/",
+            "spec": "",
             "handle": "shoal",
             "id": "shoal"
         },
@@ -1051,6 +1070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boutique/",
+            "spec": "",
             "handle": "boutique",
             "id": "boutique"
         },
@@ -1090,6 +1110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kairo-saas-landing-page-theme/",
+            "spec": "",
             "handle": "kairo-saas-landing-page-theme",
             "id": "kairo-saas-landing-page-theme"
         },
@@ -1129,6 +1150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-wellness/",
+            "spec": "",
             "handle": "astro-wellness",
             "id": "astro-wellness"
         },
@@ -1168,6 +1190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/print/",
+            "spec": "",
             "handle": "print",
             "id": "print"
         },
@@ -1207,6 +1230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blogcordv2/",
+            "spec": "",
             "handle": "blogcordv2",
             "id": "blogcordv2"
         },
@@ -1246,6 +1270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-awesome-cv/",
+            "spec": "",
             "handle": "astro-awesome-cv",
             "id": "astro-awesome-cv"
         },
@@ -1285,6 +1310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/growing-galaxy/",
+            "spec": "",
             "handle": "growing-galaxy",
             "id": "growing-galaxy"
         },
@@ -1324,6 +1350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/craftline/",
+            "spec": "",
             "handle": "craftline",
             "id": "craftline"
         },
@@ -1363,6 +1390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quell/",
+            "spec": "",
             "handle": "quell",
             "id": "quell"
         },
@@ -1402,6 +1430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/grimorio/",
+            "spec": "",
             "handle": "grimorio",
             "id": "grimorio"
         },
@@ -1441,6 +1470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tomoshibi/",
+            "spec": "",
             "handle": "tomoshibi",
             "id": "tomoshibi"
         },
@@ -1480,6 +1510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/runlog-lite-free-ai-agent-landing-page-theme/",
+            "spec": "",
             "handle": "runlog-lite-free-ai-agent-landing-page-theme",
             "id": "runlog-lite-free-ai-agent-landing-page-theme"
         },
@@ -1519,6 +1550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/memory-atlas/",
+            "spec": "",
             "handle": "memory-atlas",
             "id": "memory-atlas"
         },
@@ -1558,6 +1590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/st-ai-agency/",
+            "spec": "",
             "handle": "st-ai-agency",
             "id": "st-ai-agency"
         },
@@ -1597,6 +1630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lattice/",
+            "spec": "",
             "handle": "lattice",
             "id": "lattice"
         },
@@ -1636,6 +1670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/larkin/",
+            "spec": "",
             "handle": "larkin",
             "id": "larkin"
         },
@@ -1675,6 +1710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/orrery/",
+            "spec": "",
             "handle": "orrery",
             "id": "orrery"
         },
@@ -1714,6 +1750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/solenne/",
+            "spec": "",
             "handle": "solenne",
             "id": "solenne"
         },
@@ -1753,6 +1790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-seo/",
+            "spec": "",
             "handle": "astro-seo",
             "id": "astro-seo"
         },
@@ -1792,6 +1830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/maison-classic-luxury-storefront/",
+            "spec": "",
             "handle": "maison-classic-luxury-storefront",
             "id": "maison-classic-luxury-storefront"
         },
@@ -1831,6 +1870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-jing/",
+            "spec": "",
             "handle": "astro-jing",
             "id": "astro-jing"
         },
@@ -1870,6 +1910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/leader/",
+            "spec": "",
             "handle": "leader",
             "id": "leader"
         },
@@ -1909,6 +1950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/marby-real-estate-template/",
+            "spec": "",
             "handle": "marby-real-estate-template",
             "id": "marby-real-estate-template"
         },
@@ -1948,6 +1990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lapse-ai-saas-template/",
+            "spec": "",
             "handle": "lapse-ai-saas-template",
             "id": "lapse-ai-saas-template"
         },
@@ -1987,6 +2030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/plainblog/",
+            "spec": "",
             "handle": "plainblog",
             "id": "plainblog"
         },
@@ -2026,6 +2070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/amazing-mare-blog/",
+            "spec": "",
             "handle": "amazing-mare-blog",
             "id": "amazing-mare-blog"
         },
@@ -2065,6 +2110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minrock/",
+            "spec": "",
             "handle": "minrock",
             "id": "minrock"
         },
@@ -2104,6 +2150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-monorepo-starter-landing-page-blog/",
+            "spec": "",
             "handle": "astro-monorepo-starter-landing-page-blog",
             "id": "astro-monorepo-starter-landing-page-blog"
         },
@@ -2143,6 +2190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/elias-vent-portfolio-template/",
+            "spec": "",
             "handle": "elias-vent-portfolio-template",
             "id": "elias-vent-portfolio-template"
         },
@@ -2182,6 +2230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/yoga-fitness/",
+            "spec": "",
             "handle": "yoga-fitness",
             "id": "yoga-fitness"
         },
@@ -2221,6 +2270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/handspark/",
+            "spec": "",
             "handle": "handspark",
             "id": "handspark"
         },
@@ -2260,6 +2310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ink/",
+            "spec": "",
             "handle": "ink",
             "id": "ink"
         },
@@ -2299,6 +2350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/noble-muse-editorial-fashion-storefront/",
+            "spec": "",
             "handle": "noble-muse-editorial-fashion-storefront",
             "id": "noble-muse-editorial-fashion-storefront"
         },
@@ -2338,6 +2390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pudding/",
+            "spec": "",
             "handle": "pudding",
             "id": "pudding"
         },
@@ -2377,6 +2430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/varsha/",
+            "spec": "",
             "handle": "varsha",
             "id": "varsha"
         },
@@ -2416,6 +2470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-plain/",
+            "spec": "",
             "handle": "astro-plain",
             "id": "astro-plain"
         },
@@ -2455,6 +2510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/swp-freelancer-portfolio/",
+            "spec": "",
             "handle": "swp-freelancer-portfolio",
             "id": "swp-freelancer-portfolio"
         },
@@ -2494,6 +2550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/halftone/",
+            "spec": "",
             "handle": "halftone",
             "id": "halftone"
         },
@@ -2533,6 +2590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mailer/",
+            "spec": "",
             "handle": "mailer",
             "id": "mailer"
         },
@@ -2572,6 +2630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/domuspicturae/",
+            "spec": "",
             "handle": "domuspicturae",
             "id": "domuspicturae"
         },
@@ -2611,6 +2670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/masthead/",
+            "spec": "",
             "handle": "masthead",
             "id": "masthead"
         },
@@ -2650,6 +2710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-blog-wiki-template-editorial-website-starter/",
+            "spec": "",
             "handle": "astro-portfolio-blog-wiki-template-editorial-website-starter",
             "id": "astro-portfolio-blog-wiki-template-editorial-website-starter"
         },
@@ -2689,6 +2750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/parley-ai-agent-saas-template/",
+            "spec": "",
             "handle": "parley-ai-agent-saas-template",
             "id": "parley-ai-agent-saas-template"
         },
@@ -2728,6 +2790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/gazette/",
+            "spec": "",
             "handle": "gazette",
             "id": "gazette"
         },
@@ -2767,6 +2830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/landpack/",
+            "spec": "",
             "handle": "landpack",
             "id": "landpack"
         },
@@ -2806,6 +2870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dong/",
+            "spec": "",
             "handle": "dong",
             "id": "dong"
         },
@@ -2845,6 +2910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quarry/",
+            "spec": "",
             "handle": "quarry",
             "id": "quarry"
         },
@@ -2884,6 +2950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-njx-store/",
+            "spec": "",
             "handle": "astro-njx-store",
             "id": "astro-njx-store"
         },
@@ -2923,6 +2990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/operstack-astro-starter/",
+            "spec": "",
             "handle": "operstack-astro-starter",
             "id": "operstack-astro-starter"
         },
@@ -2962,6 +3030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/vitrine/",
+            "spec": "",
             "handle": "vitrine",
             "id": "vitrine"
         },
@@ -3001,6 +3070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/wqqzdev/",
+            "spec": "",
             "handle": "wqqzdev",
             "id": "wqqzdev"
         },
@@ -3040,6 +3110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fumika/",
+            "spec": "",
             "handle": "fumika",
             "id": "fumika"
         },
@@ -3079,6 +3150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kanade/",
+            "spec": "",
             "handle": "kanade",
             "id": "kanade"
         },
@@ -3118,6 +3190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sumi/",
+            "spec": "",
             "handle": "sumi",
             "id": "sumi"
         },
@@ -3157,6 +3230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zolt-shadcn-ui-portfolio-landing-page-template/",
+            "spec": "",
             "handle": "zolt-shadcn-ui-portfolio-landing-page-template",
             "id": "zolt-shadcn-ui-portfolio-landing-page-template"
         },
@@ -3196,6 +3270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/latentfolio/",
+            "spec": "",
             "handle": "latentfolio",
             "id": "latentfolio"
         },
@@ -3235,6 +3310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/small-business-starter-version-2/",
+            "spec": "",
             "handle": "small-business-starter-version-2",
             "id": "small-business-starter-version-2"
         },
@@ -3274,6 +3350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cloomba-conference/",
+            "spec": "",
             "handle": "cloomba-conference",
             "id": "cloomba-conference"
         },
@@ -3313,6 +3390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shirone/",
+            "spec": "",
             "handle": "shirone",
             "id": "shirone"
         },
@@ -3352,6 +3430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/liquid-glass-blog/",
+            "spec": "",
             "handle": "liquid-glass-blog",
             "id": "liquid-glass-blog"
         },
@@ -3391,6 +3470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ai-ready-premium-creative-agency-template/",
+            "spec": "",
             "handle": "ai-ready-premium-creative-agency-template",
             "id": "ai-ready-premium-creative-agency-template"
         },
@@ -3430,6 +3510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pilcrow/",
+            "spec": "",
             "handle": "pilcrow",
             "id": "pilcrow"
         },
@@ -3469,6 +3550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ermaozi/",
+            "spec": "",
             "handle": "ermaozi",
             "id": "ermaozi"
         },
@@ -3508,6 +3590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/studio-pulse/",
+            "spec": "",
             "handle": "studio-pulse",
             "id": "studio-pulse"
         },
@@ -3547,6 +3630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-art-portfolio/",
+            "spec": "",
             "handle": "astro-art-portfolio",
             "id": "astro-art-portfolio"
         },
@@ -3586,6 +3670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroarabia/",
+            "spec": "",
             "handle": "astroarabia",
             "id": "astroarabia"
         },
@@ -3625,6 +3710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/space/",
+            "spec": "",
             "handle": "space",
             "id": "space"
         },
@@ -3664,6 +3750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/citrusgrid/",
+            "spec": "",
             "handle": "citrusgrid",
             "id": "citrusgrid"
         },
@@ -3703,6 +3790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-frame-shift/",
+            "spec": "",
             "handle": "astro-frame-shift",
             "id": "astro-frame-shift"
         },
@@ -3742,6 +3830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/darkminimal/",
+            "spec": "",
             "handle": "darkminimal",
             "id": "darkminimal"
         },
@@ -3781,6 +3870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/solitude/",
+            "spec": "",
             "handle": "solitude",
             "id": "solitude"
         },
@@ -3820,6 +3910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/8-bitquest/",
+            "spec": "",
             "handle": "8-bitquest",
             "id": "8-bitquest"
         },
@@ -3859,6 +3950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/scholarly/",
+            "spec": "",
             "handle": "scholarly",
             "id": "scholarly"
         },
@@ -3898,6 +3990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/notion-like-bento-blog/",
+            "spec": "",
             "handle": "notion-like-bento-blog",
             "id": "notion-like-bento-blog"
         },
@@ -3937,6 +4030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/retro-tui-portfolio/",
+            "spec": "",
             "handle": "retro-tui-portfolio",
             "id": "retro-tui-portfolio"
         },
@@ -3976,6 +4070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-resume-minimal-template/",
+            "spec": "",
             "handle": "astro-resume-minimal-template",
             "id": "astro-resume-minimal-template"
         },
@@ -4015,6 +4110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dotcv/",
+            "spec": "",
             "handle": "dotcv",
             "id": "dotcv"
         },
@@ -4054,6 +4150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/good-looking-basics-blog/",
+            "spec": "",
             "handle": "good-looking-basics-blog",
             "id": "good-looking-basics-blog"
         },
@@ -4093,6 +4190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/monograph/",
+            "spec": "",
             "handle": "monograph",
             "id": "monograph"
         },
@@ -4132,6 +4230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-distro/",
+            "spec": "",
             "handle": "astro-distro",
             "id": "astro-distro"
         },
@@ -4171,6 +4270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-wanderer/",
+            "spec": "",
             "handle": "astro-wanderer",
             "id": "astro-wanderer"
         },
@@ -4210,6 +4310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/popular/",
+            "spec": "",
             "handle": "popular",
             "id": "popular"
         },
@@ -4249,6 +4350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/misthaven/",
+            "spec": "",
             "handle": "misthaven",
             "id": "misthaven"
         },
@@ -4288,6 +4390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/healthcore-medical-healthcare-template/",
+            "spec": "",
             "handle": "healthcore-medical-healthcare-template",
             "id": "healthcore-medical-healthcare-template"
         },
@@ -4327,6 +4430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/biluo/",
+            "spec": "",
             "handle": "biluo",
             "id": "biluo"
         },
@@ -4366,6 +4470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/reef/",
+            "spec": "",
             "handle": "reef",
             "id": "reef"
         },
@@ -4405,6 +4510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lotus/",
+            "spec": "",
             "handle": "lotus",
             "id": "lotus"
         },
@@ -4444,6 +4550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/a-quiet-publication/",
+            "spec": "",
             "handle": "a-quiet-publication",
             "id": "a-quiet-publication"
         },
@@ -4483,6 +4590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/logflow/",
+            "spec": "",
             "handle": "logflow",
             "id": "logflow"
         },
@@ -4522,6 +4630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-theme-black/",
+            "spec": "",
             "handle": "starlight-theme-black",
             "id": "starlight-theme-black"
         },
@@ -4561,6 +4670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/viva-medical-healthcare-astro-theme/",
+            "spec": "",
             "handle": "viva-medical-healthcare-astro-theme",
             "id": "viva-medical-healthcare-astro-theme"
         },
@@ -4600,6 +4710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-palette/",
+            "spec": "",
             "handle": "astro-palette",
             "id": "astro-palette"
         },
@@ -4639,6 +4750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-by-siteplayai/",
+            "spec": "",
             "handle": "minimal-by-siteplayai",
             "id": "minimal-by-siteplayai"
         },
@@ -4678,6 +4790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/c00d-astro-directory/",
+            "spec": "",
             "handle": "c00d-astro-directory",
             "id": "c00d-astro-directory"
         },
@@ -4717,6 +4830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-star-scholar/",
+            "spec": "",
             "handle": "astro-star-scholar",
             "id": "astro-star-scholar"
         },
@@ -4756,6 +4870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/recruit/",
+            "spec": "",
             "handle": "recruit",
             "id": "recruit"
         },
@@ -4795,6 +4910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/refined-x/",
+            "spec": "",
             "handle": "refined-x",
             "id": "refined-x"
         },
@@ -4834,6 +4950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/exquisitus-for-starlight/",
+            "spec": "",
             "handle": "exquisitus-for-starlight",
             "id": "exquisitus-for-starlight"
         },
@@ -4873,6 +4990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chalet/",
+            "spec": "",
             "handle": "chalet",
             "id": "chalet"
         },
@@ -4912,6 +5030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/3dinterior/",
+            "spec": "",
             "handle": "3dinterior",
             "id": "3dinterior"
         },
@@ -4951,6 +5070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ulbo/",
+            "spec": "",
             "handle": "ulbo",
             "id": "ulbo"
         },
@@ -4990,6 +5110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stardrive/",
+            "spec": "",
             "handle": "stardrive",
             "id": "stardrive"
         },
@@ -5029,6 +5150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/terminal-astro/",
+            "spec": "",
             "handle": "terminal-astro",
             "id": "terminal-astro"
         },
@@ -5068,6 +5190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kepler/",
+            "spec": "",
             "handle": "kepler",
             "id": "kepler"
         },
@@ -5107,6 +5230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-starter/",
+            "spec": "",
             "handle": "ricoui-starter",
             "id": "ricoui-starter"
         },
@@ -5146,6 +5270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/patrika/",
+            "spec": "",
             "handle": "patrika",
             "id": "patrika"
         },
@@ -5185,6 +5310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/intermediate-astro-decap-cms/",
+            "spec": "",
             "handle": "intermediate-astro-decap-cms",
             "id": "intermediate-astro-decap-cms"
         },
@@ -5224,6 +5350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/atelier-k/",
+            "spec": "",
             "handle": "atelier-k",
             "id": "atelier-k"
         },
@@ -5263,6 +5390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-narrow/",
+            "spec": "",
             "handle": "astro-narrow",
             "id": "astro-narrow"
         },
@@ -5302,6 +5430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-cloudflare-starter/",
+            "spec": "",
             "handle": "astro-cloudflare-starter",
             "id": "astro-cloudflare-starter"
         },
@@ -5341,6 +5470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/capsulex/",
+            "spec": "",
             "handle": "capsulex",
             "id": "capsulex"
         },
@@ -5380,6 +5510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/techlo-lite-it-software-agencies-astro-theme/",
+            "spec": "",
             "handle": "techlo-lite-it-software-agencies-astro-theme",
             "id": "techlo-lite-it-software-agencies-astro-theme"
         },
@@ -5419,6 +5550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-portfolio/",
+            "spec": "",
             "handle": "astro-starter-portfolio",
             "id": "astro-starter-portfolio"
         },
@@ -5458,6 +5590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/healnet/",
+            "spec": "",
             "handle": "healnet",
             "id": "healnet"
         },
@@ -5497,6 +5630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-photo-folio/",
+            "spec": "",
             "handle": "astro-photo-folio",
             "id": "astro-photo-folio"
         },
@@ -5536,6 +5670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lipi/",
+            "spec": "",
             "handle": "lipi",
             "id": "lipi"
         },
@@ -5575,6 +5710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/travellian-travel-agency-landing-page/",
+            "spec": "",
             "handle": "travellian-travel-agency-landing-page",
             "id": "travellian-travel-agency-landing-page"
         },
@@ -5614,6 +5750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/veka/",
+            "spec": "",
             "handle": "veka",
             "id": "veka"
         },
@@ -5653,6 +5790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-keel/",
+            "spec": "",
             "handle": "astro-keel",
             "id": "astro-keel"
         },
@@ -5692,6 +5830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-emdash-starter/",
+            "spec": "",
             "handle": "astro-emdash-starter",
             "id": "astro-emdash-starter"
         },
@@ -5731,6 +5870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quietpages/",
+            "spec": "",
             "handle": "quietpages",
             "id": "quietpages"
         },
@@ -5770,6 +5910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blast-blue-astro-theme/",
+            "spec": "",
             "handle": "blast-blue-astro-theme",
             "id": "blast-blue-astro-theme"
         },
@@ -5809,6 +5950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-haze/",
+            "spec": "",
             "handle": "astro-haze",
             "id": "astro-haze"
         },
@@ -5848,6 +5990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ombra/",
+            "spec": "",
             "handle": "ombra",
             "id": "ombra"
         },
@@ -5887,6 +6030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-sidey/",
+            "spec": "",
             "handle": "astro-sidey",
             "id": "astro-sidey"
         },
@@ -5926,6 +6070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-blog/",
+            "spec": "",
             "handle": "ricoui-blog",
             "id": "ricoui-blog"
         },
@@ -5965,6 +6110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-saas-template/",
+            "spec": "",
             "handle": "ricoui-saas-template",
             "id": "ricoui-saas-template"
         },
@@ -6004,6 +6150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sify/",
+            "spec": "",
             "handle": "sify",
             "id": "sify"
         },
@@ -6043,6 +6190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/compass/",
+            "spec": "",
             "handle": "compass",
             "id": "compass"
         },
@@ -6082,6 +6230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/casper/",
+            "spec": "",
             "handle": "casper",
             "id": "casper"
         },
@@ -6121,6 +6270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/alba/",
+            "spec": "",
             "handle": "alba",
             "id": "alba"
         },
@@ -6160,6 +6310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/manduca/",
+            "spec": "",
             "handle": "manduca",
             "id": "manduca"
         },
@@ -6199,6 +6350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tone/",
+            "spec": "",
             "handle": "tone",
             "id": "tone"
         },
@@ -6238,6 +6390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aonote/",
+            "spec": "",
             "handle": "aonote",
             "id": "aonote"
         },
@@ -6277,6 +6430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pulsar-lite/",
+            "spec": "",
             "handle": "pulsar-lite",
             "id": "pulsar-lite"
         },
@@ -6316,6 +6470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/procleaning/",
+            "spec": "",
             "handle": "procleaning",
             "id": "procleaning"
         },
@@ -6355,6 +6510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-i18n/",
+            "spec": "",
             "handle": "astro-i18n",
             "id": "astro-i18n"
         },
@@ -6394,6 +6550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/catppuccin-for-starlight/",
+            "spec": "",
             "handle": "catppuccin-for-starlight",
             "id": "catppuccin-for-starlight"
         },
@@ -6433,6 +6590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/entropic/",
+            "spec": "",
             "handle": "entropic",
             "id": "entropic"
         },
@@ -6472,6 +6630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pulsar/",
+            "spec": "",
             "handle": "pulsar",
             "id": "pulsar"
         },
@@ -6511,6 +6670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fyrre/",
+            "spec": "",
             "handle": "fyrre",
             "id": "fyrre"
         },
@@ -6550,6 +6710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lonetrail/",
+            "spec": "",
             "handle": "lonetrail",
             "id": "lonetrail"
         },
@@ -6589,6 +6750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zenix/",
+            "spec": "",
             "handle": "zenix",
             "id": "zenix"
         },
@@ -6628,6 +6790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/navfolio/",
+            "spec": "",
             "handle": "navfolio",
             "id": "navfolio"
         },
@@ -6667,6 +6830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-services-marketing-sidebar-apex-theme/",
+            "spec": "",
             "handle": "astro-services-marketing-sidebar-apex-theme",
             "id": "astro-services-marketing-sidebar-apex-theme"
         },
@@ -6706,6 +6870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aeon-space/",
+            "spec": "",
             "handle": "aeon-space",
             "id": "aeon-space"
         },
@@ -6745,6 +6910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/academic-portfolio-astro/",
+            "spec": "",
             "handle": "academic-portfolio-astro",
             "id": "academic-portfolio-astro"
         },
@@ -6784,6 +6950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lucode-starlight-theme/",
+            "spec": "",
             "handle": "lucode-starlight-theme",
             "id": "lucode-starlight-theme"
         },
@@ -6823,6 +6990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zen/",
+            "spec": "",
             "handle": "zen",
             "id": "zen"
         },
@@ -6862,6 +7030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/powerai-astro/",
+            "spec": "",
             "handle": "powerai-astro",
             "id": "powerai-astro"
         },
@@ -6901,6 +7070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/as-folio/",
+            "spec": "",
             "handle": "as-folio",
             "id": "as-folio"
         },
@@ -6940,6 +7110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/projects-portfolio/",
+            "spec": "",
             "handle": "projects-portfolio",
             "id": "projects-portfolio"
         },
@@ -6979,6 +7150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-sienna/",
+            "spec": "",
             "handle": "astro-sienna",
             "id": "astro-sienna"
         },
@@ -7018,6 +7190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zeepay/",
+            "spec": "",
             "handle": "zeepay",
             "id": "zeepay"
         },
@@ -7057,6 +7230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zahit/",
+            "spec": "",
             "handle": "zahit",
             "id": "zahit"
         },
@@ -7096,6 +7270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/jetstream/",
+            "spec": "",
             "handle": "jetstream",
             "id": "jetstream"
         },
@@ -7135,6 +7310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sr-stodio-movie-theme/",
+            "spec": "",
             "handle": "sr-stodio-movie-theme",
             "id": "sr-stodio-movie-theme"
         },
@@ -7174,6 +7350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chirping-astro/",
+            "spec": "",
             "handle": "chirping-astro",
             "id": "chirping-astro"
         },
@@ -7213,6 +7390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/self-esteem/",
+            "spec": "",
             "handle": "self-esteem",
             "id": "self-esteem"
         },
@@ -7252,6 +7430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofly/",
+            "spec": "",
             "handle": "astrofly",
             "id": "astrofly"
         },
@@ -7291,6 +7470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/lumio-lite-free-astro-theme-for-agencies-startups-it-services/",
+            "spec": "",
             "handle": "lumio-lite-free-astro-theme-for-agencies-startups-it-services",
             "id": "lumio-lite-free-astro-theme-for-agencies-startups-it-services"
         },
@@ -7330,6 +7510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/horizon/",
+            "spec": "",
             "handle": "horizon",
             "id": "horizon"
         },
@@ -7369,6 +7550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/polyglow/",
+            "spec": "",
             "handle": "polyglow",
             "id": "polyglow"
         },
@@ -7408,6 +7590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/us-government-uswds-starter-template/",
+            "spec": "",
             "handle": "us-government-uswds-starter-template",
             "id": "us-government-uswds-starter-template"
         },
@@ -7447,6 +7630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroflareog-clean-starter-for-cloudflare-workers/",
+            "spec": "",
             "handle": "astroflareog-clean-starter-for-cloudflare-workers",
             "id": "astroflareog-clean-starter-for-cloudflare-workers"
         },
@@ -7486,6 +7670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/y-astro-scholar/",
+            "spec": "",
             "handle": "y-astro-scholar",
             "id": "y-astro-scholar"
         },
@@ -7525,6 +7710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/basic-blog/",
+            "spec": "",
             "handle": "basic-blog",
             "id": "basic-blog"
         },
@@ -7564,6 +7750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-landing-page-theme/",
+            "spec": "",
             "handle": "astro-portfolio-landing-page-theme",
             "id": "astro-portfolio-landing-page-theme"
         },
@@ -7603,6 +7790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolify-premium-saas-landing-page-template/",
+            "spec": "",
             "handle": "astrolify-premium-saas-landing-page-template",
             "id": "astrolify-premium-saas-landing-page-template"
         },
@@ -7642,6 +7830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/automark-astro/",
+            "spec": "",
             "handle": "automark-astro",
             "id": "automark-astro"
         },
@@ -7681,6 +7870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio-letter/",
+            "spec": "",
             "handle": "portfolio-letter",
             "id": "portfolio-letter"
         },
@@ -7720,6 +7910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-scifi-ui/",
+            "spec": "",
             "handle": "astro-scifi-ui",
             "id": "astro-scifi-ui"
         },
@@ -7759,6 +7950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/alexanders-astro-tailwind-daisyui-starter/",
+            "spec": "",
             "handle": "alexanders-astro-tailwind-daisyui-starter",
             "id": "alexanders-astro-tailwind-daisyui-starter"
         },
@@ -7798,6 +7990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-astro-v6/",
+            "spec": "",
             "handle": "astro-astro-v6",
             "id": "astro-astro-v6"
         },
@@ -7837,6 +8030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-validation-landing/",
+            "spec": "",
             "handle": "astro-validation-landing",
             "id": "astro-validation-landing"
         },
@@ -7876,6 +8070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starfolio/",
+            "spec": "",
             "handle": "starfolio",
             "id": "starfolio"
         },
@@ -7915,6 +8110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/elementary/",
+            "spec": "",
             "handle": "elementary",
             "id": "elementary"
         },
@@ -7954,6 +8150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/serene-ink/",
+            "spec": "",
             "handle": "serene-ink",
             "id": "serene-ink"
         },
@@ -7993,6 +8190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-medusa-storefront/",
+            "spec": "",
             "handle": "astro-medusa-storefront",
             "id": "astro-medusa-storefront"
         },
@@ -8032,6 +8230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/anglefeint/",
+            "spec": "",
             "handle": "anglefeint",
             "id": "anglefeint"
         },
@@ -8071,6 +8270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/polaris/",
+            "spec": "",
             "handle": "polaris",
             "id": "polaris"
         },
@@ -8110,6 +8310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/brook-2-minimal-astro-6-blog-template/",
+            "spec": "",
             "handle": "brook-2-minimal-astro-6-blog-template",
             "id": "brook-2-minimal-astro-6-blog-template"
         },
@@ -8149,6 +8350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chapterlog/",
+            "spec": "",
             "handle": "chapterlog",
             "id": "chapterlog"
         },
@@ -8188,6 +8390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/crypgo-shadcn-ui-crypto-landing-page-template-free/",
+            "spec": "",
             "handle": "crypgo-shadcn-ui-crypto-landing-page-template-free",
             "id": "crypgo-shadcn-ui-crypto-landing-page-template-free"
         },
@@ -8227,6 +8430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+            "spec": "",
             "handle": "career-portfolio-data-driven-astro-ssg",
             "id": "career-portfolio-data-driven-astro-ssg"
         },
@@ -8266,6 +8470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/the-artham-summit/",
+            "spec": "",
             "handle": "the-artham-summit",
             "id": "the-artham-summit"
         },
@@ -8305,6 +8510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-rocket/",
+            "spec": "",
             "handle": "astro-rocket",
             "id": "astro-rocket"
         },
@@ -8344,6 +8550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fm-solo-starter/",
+            "spec": "",
             "handle": "fm-solo-starter",
             "id": "fm-solo-starter"
         },
@@ -8383,6 +8590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-component-starter/",
+            "spec": "",
             "handle": "astro-component-starter",
             "id": "astro-component-starter"
         },
@@ -8422,6 +8630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/decker/",
+            "spec": "",
             "handle": "decker",
             "id": "decker"
         },
@@ -8461,6 +8670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-fleet/",
+            "spec": "",
             "handle": "astro-fleet",
             "id": "astro-fleet"
         },
@@ -8500,6 +8710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mainline/",
+            "spec": "",
             "handle": "mainline",
             "id": "mainline"
         },
@@ -8539,6 +8750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/one-space-away/",
+            "spec": "",
             "handle": "one-space-away",
             "id": "one-space-away"
         },
@@ -8578,6 +8790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-scholar/",
+            "spec": "",
             "handle": "astro-scholar",
             "id": "astro-scholar"
         },
@@ -8617,6 +8830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/free-small-business-starter/",
+            "spec": "",
             "handle": "free-small-business-starter",
             "id": "free-small-business-starter"
         },
@@ -8656,6 +8870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ataraxia-astro-theme/",
+            "spec": "",
             "handle": "ataraxia-astro-theme",
             "id": "ataraxia-astro-theme"
         },
@@ -8695,6 +8910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/zaggonaut/",
+            "spec": "",
             "handle": "zaggonaut",
             "id": "zaggonaut"
         },
@@ -8734,6 +8950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blackspike-astro-landing-page/",
+            "spec": "",
             "handle": "blackspike-astro-landing-page",
             "id": "blackspike-astro-landing-page"
         },
@@ -8773,6 +8990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/monolume/",
+            "spec": "",
             "handle": "monolume",
             "id": "monolume"
         },
@@ -8812,6 +9030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astropie/",
+            "spec": "",
             "handle": "astropie",
             "id": "astropie"
         },
@@ -8851,6 +9070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/foxi/",
+            "spec": "",
             "handle": "foxi",
             "id": "foxi"
         },
@@ -8890,6 +9110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/grunge/",
+            "spec": "",
             "handle": "grunge",
             "id": "grunge"
         },
@@ -8929,6 +9150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/space-ahead/",
+            "spec": "",
             "handle": "space-ahead",
             "id": "space-ahead"
         },
@@ -8968,6 +9190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dyson-inspired/",
+            "spec": "",
             "handle": "dyson-inspired",
             "id": "dyson-inspired"
         },
@@ -9007,6 +9230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/hyperdrive/",
+            "spec": "",
             "handle": "hyperdrive",
             "id": "hyperdrive"
         },
@@ -9046,6 +9270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starwind-ui/",
+            "spec": "",
             "handle": "starwind-ui",
             "id": "starwind-ui"
         },
@@ -9085,6 +9310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mizu-light/",
+            "spec": "",
             "handle": "mizu-light",
             "id": "mizu-light"
         },
@@ -9124,6 +9350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/smallworld/",
+            "spec": "",
             "handle": "smallworld",
             "id": "smallworld"
         },
@@ -9163,6 +9390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/project-board/",
+            "spec": "",
             "handle": "project-board",
             "id": "project-board"
         },
@@ -9202,6 +9430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/folex-lite-digital-agency-theme/",
+            "spec": "",
             "handle": "folex-lite-digital-agency-theme",
             "id": "folex-lite-digital-agency-theme"
         },
@@ -9241,6 +9470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pawstronaut/",
+            "spec": "",
             "handle": "pawstronaut",
             "id": "pawstronaut"
         },
@@ -9280,6 +9510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-stron/",
+            "spec": "",
             "handle": "astro-portfolio-stron",
             "id": "astro-portfolio-stron"
         },
@@ -9319,6 +9550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mindful-auth-cloudflare-d1-astro-authentication-starter/",
+            "spec": "",
             "handle": "mindful-auth-cloudflare-d1-astro-authentication-starter",
             "id": "mindful-auth-cloudflare-d1-astro-authentication-starter"
         },
@@ -9358,6 +9590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astromax/",
+            "spec": "",
             "handle": "astromax",
             "id": "astromax"
         },
@@ -9397,6 +9630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/microblog/",
+            "spec": "",
             "handle": "microblog",
             "id": "microblog"
         },
@@ -9436,6 +9670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/northendlab-light-astro/",
+            "spec": "",
             "handle": "northendlab-light-astro",
             "id": "northendlab-light-astro"
         },
@@ -9475,6 +9710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dockit-astro/",
+            "spec": "",
             "handle": "dockit-astro",
             "id": "dockit-astro"
         },
@@ -9514,6 +9750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrosaas/",
+            "spec": "",
             "handle": "astrosaas",
             "id": "astrosaas"
         },
@@ -9553,6 +9790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bearnie/",
+            "spec": "",
             "handle": "bearnie",
             "id": "bearnie"
         },
@@ -9592,6 +9830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pinwheel/",
+            "spec": "",
             "handle": "pinwheel",
             "id": "pinwheel"
         },
@@ -9631,6 +9870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/prima-persona/",
+            "spec": "",
             "handle": "prima-persona",
             "id": "prima-persona"
         },
@@ -9670,6 +9910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quick-store/",
+            "spec": "",
             "handle": "quick-store",
             "id": "quick-store"
         },
@@ -9709,6 +9950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofront/",
+            "spec": "",
             "handle": "astrofront",
             "id": "astrofront"
         },
@@ -9748,6 +9990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/spectre/",
+            "spec": "",
             "handle": "spectre",
             "id": "spectre"
         },
@@ -9787,6 +10030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bigspring-light-astro/",
+            "spec": "",
             "handle": "bigspring-light-astro",
             "id": "bigspring-light-astro"
         },
@@ -9826,6 +10070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-vintage/",
+            "spec": "",
             "handle": "starlight-vintage",
             "id": "starlight-vintage"
         },
@@ -9865,6 +10110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bookworm-light-astro/",
+            "spec": "",
             "handle": "bookworm-light-astro",
             "id": "bookworm-light-astro"
         },
@@ -9904,6 +10150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal/",
+            "spec": "",
             "handle": "minimal",
             "id": "minimal"
         },
@@ -9943,6 +10190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/swissfolio/",
+            "spec": "",
             "handle": "swissfolio",
             "id": "swissfolio"
         },
@@ -9982,6 +10230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blogsmith-free/",
+            "spec": "",
             "handle": "blogsmith-free",
             "id": "blogsmith-free"
         },
@@ -10021,6 +10270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/landing-pad/",
+            "spec": "",
             "handle": "landing-pad",
             "id": "landing-pad"
         },
@@ -10060,6 +10310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/velocity/",
+            "spec": "",
             "handle": "velocity",
             "id": "velocity"
         },
@@ -10099,6 +10350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/generative-ai-company-theme/",
+            "spec": "",
             "handle": "generative-ai-company-theme",
             "id": "generative-ai-company-theme"
         },
@@ -10138,6 +10390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/uinux-blog/",
+            "spec": "",
             "handle": "uinux-blog",
             "id": "uinux-blog"
         },
@@ -10177,6 +10430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/buildmart-building-materials-e-commerce-theme/",
+            "spec": "",
             "handle": "buildmart-building-materials-e-commerce-theme",
             "id": "buildmart-building-materials-e-commerce-theme"
         },
@@ -10216,6 +10470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-whono/",
+            "spec": "",
             "handle": "astro-whono",
             "id": "astro-whono"
         },
@@ -10255,6 +10510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-i18n-starter-pro/",
+            "spec": "",
             "handle": "astro-i18n-starter-pro",
             "id": "astro-i18n-starter-pro"
         },
@@ -10294,6 +10550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/devosfera/",
+            "spec": "",
             "handle": "devosfera",
             "id": "devosfera"
         },
@@ -10333,6 +10590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/techstore-ecommers/",
+            "spec": "",
             "handle": "techstore-ecommers",
             "id": "techstore-ecommers"
         },
@@ -10372,6 +10630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bistro-shadcn-ui-restaurant-landing-page-template-free/",
+            "spec": "",
             "handle": "bistro-shadcn-ui-restaurant-landing-page-template-free",
             "id": "bistro-shadcn-ui-restaurant-landing-page-template-free"
         },
@@ -10411,6 +10670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/jd-blog-astro/",
+            "spec": "",
             "handle": "jd-blog-astro",
             "id": "jd-blog-astro"
         },
@@ -10450,6 +10710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ink-shadcn-ui-blog-landing-page-template-free/",
+            "spec": "",
             "handle": "ink-shadcn-ui-blog-landing-page-template-free",
             "id": "ink-shadcn-ui-blog-landing-page-template-free"
         },
@@ -10489,6 +10750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-pro/",
+            "spec": "",
             "handle": "astro-starter-pro",
             "id": "astro-starter-pro"
         },
@@ -10528,6 +10790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/vanguard-zen-military-security-template/",
+            "spec": "",
             "handle": "vanguard-zen-military-security-template",
             "id": "vanguard-zen-military-security-template"
         },
@@ -10567,6 +10830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/paperastro/",
+            "spec": "",
             "handle": "paperastro",
             "id": "paperastro"
         },
@@ -10606,6 +10870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/breeze/",
+            "spec": "",
             "handle": "breeze",
             "id": "breeze"
         },
@@ -10645,6 +10910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/spaceship/",
+            "spec": "",
             "handle": "spaceship",
             "id": "spaceship"
         },
@@ -10684,6 +10950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/void/",
+            "spec": "",
             "handle": "void",
             "id": "void"
         },
@@ -10723,6 +10990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shokax/",
+            "spec": "",
             "handle": "shokax",
             "id": "shokax"
         },
@@ -10762,6 +11030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/clay/",
+            "spec": "",
             "handle": "clay",
             "id": "clay"
         },
@@ -10801,6 +11070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-base/",
+            "spec": "",
             "handle": "astro-base",
             "id": "astro-base"
         },
@@ -10840,6 +11110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-cartoon-portfolio/",
+            "spec": "",
             "handle": "astro-cartoon-portfolio",
             "id": "astro-cartoon-portfolio"
         },
@@ -10879,6 +11150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-baseline/",
+            "spec": "",
             "handle": "astro-baseline",
             "id": "astro-baseline"
         },
@@ -10918,6 +11190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dasein/",
+            "spec": "",
             "handle": "dasein",
             "id": "dasein"
         },
@@ -10957,6 +11230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-church/",
+            "spec": "",
             "handle": "astro-church",
             "id": "astro-church"
         },
@@ -10996,6 +11270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/viio/",
+            "spec": "",
             "handle": "viio",
             "id": "viio"
         },
@@ -11035,6 +11310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/koharu/",
+            "spec": "",
             "handle": "koharu",
             "id": "koharu"
         },
@@ -11074,6 +11350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/skyscript/",
+            "spec": "",
             "handle": "skyscript",
             "id": "skyscript"
         },
@@ -11113,6 +11390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroplate-multilingual-astro-boilerplate/",
+            "spec": "",
             "handle": "astroplate-multilingual-astro-boilerplate",
             "id": "astroplate-multilingual-astro-boilerplate"
         },
@@ -11152,6 +11430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/virex-saas-landing-page-theme/",
+            "spec": "",
             "handle": "virex-saas-landing-page-theme",
             "id": "virex-saas-landing-page-theme"
         },
@@ -11191,6 +11470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/a-static-photo-gallery-template-built-with-astro/",
+            "spec": "",
             "handle": "a-static-photo-gallery-template-built-with-astro",
             "id": "a-static-photo-gallery-template-built-with-astro"
         },
@@ -11230,6 +11510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ryze/",
+            "spec": "",
             "handle": "ryze",
             "id": "ryze"
         },
@@ -11269,6 +11550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-theme-switcher/",
+            "spec": "",
             "handle": "astro-theme-switcher",
             "id": "astro-theme-switcher"
         },
@@ -11308,6 +11590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/reimu/",
+            "spec": "",
             "handle": "reimu",
             "id": "reimu"
         },
@@ -11347,6 +11630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/case-portfolio-theme-for-astro/",
+            "spec": "",
             "handle": "case-portfolio-theme-for-astro",
             "id": "case-portfolio-theme-for-astro"
         },
@@ -11386,6 +11670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/merox-erudite/",
+            "spec": "",
             "handle": "merox-erudite",
             "id": "merox-erudite"
         },
@@ -11425,6 +11710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/purfectly-zen/",
+            "spec": "",
             "handle": "purfectly-zen",
             "id": "purfectly-zen"
         },
@@ -11464,6 +11750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/storeplate-astro/",
+            "spec": "",
             "handle": "storeplate-astro",
             "id": "storeplate-astro"
         },
@@ -11503,6 +11790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ricoui-portfilio/",
+            "spec": "",
             "handle": "ricoui-portfilio",
             "id": "ricoui-portfilio"
         },
@@ -11542,6 +11830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quiet-bar/",
+            "spec": "",
             "handle": "quiet-bar",
             "id": "quiet-bar"
         },
@@ -11581,6 +11870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/directus-cms-template/",
+            "spec": "",
             "handle": "directus-cms-template",
             "id": "directus-cms-template"
         },
@@ -11620,6 +11910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio-dev/",
+            "spec": "",
             "handle": "portfolio-dev",
             "id": "portfolio-dev"
         },
@@ -11659,6 +11950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/scholar-lite/",
+            "spec": "",
             "handle": "scholar-lite",
             "id": "scholar-lite"
         },
@@ -11698,6 +11990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroflow-astrojs-logistics-manufacturing-website-template/",
+            "spec": "",
             "handle": "astroflow-astrojs-logistics-manufacturing-website-template",
             "id": "astroflow-astrojs-logistics-manufacturing-website-template"
         },
@@ -11737,6 +12030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bloomfolio/",
+            "spec": "",
             "handle": "bloomfolio",
             "id": "bloomfolio"
         },
@@ -11776,6 +12070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/whisper/",
+            "spec": "",
             "handle": "whisper",
             "id": "whisper"
         },
@@ -11815,6 +12110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tastyyy-restaurant-website/",
+            "spec": "",
             "handle": "tastyyy-restaurant-website",
             "id": "tastyyy-restaurant-website"
         },
@@ -11854,6 +12150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-catppuccin-portfolio/",
+            "spec": "",
             "handle": "minimalistic-catppuccin-portfolio",
             "id": "minimalistic-catppuccin-portfolio"
         },
@@ -11893,6 +12190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/twilight/",
+            "spec": "",
             "handle": "twilight",
             "id": "twilight"
         },
@@ -11932,6 +12230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/thoughtlite/",
+            "spec": "",
             "handle": "thoughtlite",
             "id": "thoughtlite"
         },
@@ -11971,6 +12270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-modular/",
+            "spec": "",
             "handle": "astro-modular",
             "id": "astro-modular"
         },
@@ -12010,6 +12310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/monakit/",
+            "spec": "",
             "handle": "monakit",
             "id": "monakit"
         },
@@ -12049,6 +12350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroplate/",
+            "spec": "",
             "handle": "astroplate",
             "id": "astroplate"
         },
@@ -12088,6 +12390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ai-chat-bot/",
+            "spec": "",
             "handle": "ai-chat-bot",
             "id": "ai-chat-bot"
         },
@@ -12127,6 +12430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/chiri/",
+            "spec": "",
             "handle": "chiri",
             "id": "chiri"
         },
@@ -12166,6 +12470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/angie-simple-portfolio-template/",
+            "spec": "",
             "handle": "angie-simple-portfolio-template",
             "id": "angie-simple-portfolio-template"
         },
@@ -12205,6 +12510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astropaper-i18n/",
+            "spec": "",
             "handle": "astropaper-i18n",
             "id": "astropaper-i18n"
         },
@@ -12244,6 +12550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/flavour-fushion-recipes-website/",
+            "spec": "",
             "handle": "flavour-fushion-recipes-website",
             "id": "flavour-fushion-recipes-website"
         },
@@ -12283,6 +12590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/conference-website/",
+            "spec": "",
             "handle": "conference-website",
             "id": "conference-website"
         },
@@ -12322,6 +12630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-photo-grid/",
+            "spec": "",
             "handle": "astro-photo-grid",
             "id": "astro-photo-grid"
         },
@@ -12361,6 +12670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/multiterm/",
+            "spec": "",
             "handle": "multiterm",
             "id": "multiterm"
         },
@@ -12400,6 +12710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolaunch-ui/",
+            "spec": "",
             "handle": "astrolaunch-ui",
             "id": "astrolaunch-ui"
         },
@@ -12439,6 +12750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/global-financial-starter-multilingual-template/",
+            "spec": "",
             "handle": "global-financial-starter-multilingual-template",
             "id": "global-financial-starter-multilingual-template"
         },
@@ -12478,6 +12790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aj/",
+            "spec": "",
             "handle": "aj",
             "id": "aj"
         },
@@ -12517,6 +12830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/plumbus/",
+            "spec": "",
             "handle": "plumbus",
             "id": "plumbus"
         },
@@ -12556,6 +12870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-persona-portfolio-blog/",
+            "spec": "",
             "handle": "astro-persona-portfolio-blog",
             "id": "astro-persona-portfolio-blog"
         },
@@ -12595,6 +12910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/macos-portfolio-extended/",
+            "spec": "",
             "handle": "macos-portfolio-extended",
             "id": "macos-portfolio-extended"
         },
@@ -12634,6 +12950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/marketing-developers-personal-blog/",
+            "spec": "",
             "handle": "marketing-developers-personal-blog",
             "id": "marketing-developers-personal-blog"
         },
@@ -12673,6 +12990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/moda-e-commerce-website/",
+            "spec": "",
             "handle": "moda-e-commerce-website",
             "id": "moda-e-commerce-website"
         },
@@ -12712,6 +13030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/hospitale-job-board-website/",
+            "spec": "",
             "handle": "hospitale-job-board-website",
             "id": "hospitale-job-board-website"
         },
@@ -12751,6 +13070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/the-podium-podcast-website/",
+            "spec": "",
             "handle": "the-podium-podcast-website",
             "id": "the-podium-podcast-website"
         },
@@ -12790,6 +13110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/codefolio/",
+            "spec": "",
             "handle": "codefolio",
             "id": "codefolio"
         },
@@ -12829,6 +13150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-sassify/",
+            "spec": "",
             "handle": "astro-sassify",
             "id": "astro-sassify"
         },
@@ -12868,6 +13190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/yukina/",
+            "spec": "",
             "handle": "yukina",
             "id": "yukina"
         },
@@ -12907,6 +13230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-e-commerce/",
+            "spec": "",
             "handle": "astro-e-commerce",
             "id": "astro-e-commerce"
         },
@@ -12946,6 +13270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-citrus/",
+            "spec": "",
             "handle": "astro-citrus",
             "id": "astro-citrus"
         },
@@ -12985,6 +13310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/personal-hub-a-customizable-personal-link/",
+            "spec": "",
             "handle": "personal-hub-a-customizable-personal-link",
             "id": "personal-hub-a-customizable-personal-link"
         },
@@ -13024,6 +13350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/titan-core/",
+            "spec": "",
             "handle": "titan-core",
             "id": "titan-core"
         },
@@ -13063,6 +13390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/apollo/",
+            "spec": "",
             "handle": "apollo",
             "id": "apollo"
         },
@@ -13102,6 +13430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-rapide/",
+            "spec": "",
             "handle": "starlight-rapide",
             "id": "starlight-rapide"
         },
@@ -13141,6 +13470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/datanova/",
+            "spec": "",
             "handle": "datanova",
             "id": "datanova"
         },
@@ -13180,6 +13510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-developer-portfolio-template/",
+            "spec": "",
             "handle": "astro-developer-portfolio-template",
             "id": "astro-developer-portfolio-template"
         },
@@ -13219,6 +13550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/glyptodon/",
+            "spec": "",
             "handle": "glyptodon",
             "id": "glyptodon"
         },
@@ -13258,6 +13590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrogon/",
+            "spec": "",
             "handle": "astrogon",
             "id": "astrogon"
         },
@@ -13297,6 +13630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/retypeset/",
+            "spec": "",
             "handle": "retypeset",
             "id": "retypeset"
         },
@@ -13336,6 +13670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/players-club/",
+            "spec": "",
             "handle": "players-club",
             "id": "players-club"
         },
@@ -13375,6 +13710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight-flexoki/",
+            "spec": "",
             "handle": "starlight-flexoki",
             "id": "starlight-flexoki"
         },
@@ -13414,6 +13750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-academia/",
+            "spec": "",
             "handle": "astro-academia",
             "id": "astro-academia"
         },
@@ -13453,6 +13790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sorollaportfolio/",
+            "spec": "",
             "handle": "sorollaportfolio",
             "id": "sorollaportfolio"
         },
@@ -13492,6 +13830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/modern-developer-portfolio-template/",
+            "spec": "",
             "handle": "modern-developer-portfolio-template",
             "id": "modern-developer-portfolio-template"
         },
@@ -13531,6 +13870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter/",
+            "spec": "",
             "handle": "astro-starter",
             "id": "astro-starter"
         },
@@ -13570,6 +13910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-erudite/",
+            "spec": "",
             "handle": "astro-erudite",
             "id": "astro-erudite"
         },
@@ -13609,6 +13950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/screwfast/",
+            "spec": "",
             "handle": "screwfast",
             "id": "screwfast"
         },
@@ -13648,6 +13990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-yi/",
+            "spec": "",
             "handle": "astro-yi",
             "id": "astro-yi"
         },
@@ -13687,6 +14030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/academic-project/",
+            "spec": "",
             "handle": "academic-project",
             "id": "academic-project"
         },
@@ -13726,6 +14070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shareyourlinks/",
+            "spec": "",
             "handle": "shareyourlinks",
             "id": "shareyourlinks"
         },
@@ -13765,6 +14110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cassidys-blog-template/",
+            "spec": "",
             "handle": "cassidys-blog-template",
             "id": "cassidys-blog-template"
         },
@@ -13804,6 +14150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/superweb-barebones/",
+            "spec": "",
             "handle": "superweb-barebones",
             "id": "superweb-barebones"
         },
@@ -13843,6 +14190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/didmax-blog/",
+            "spec": "",
             "handle": "didmax-blog",
             "id": "didmax-blog"
         },
@@ -13882,6 +14230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dante/",
+            "spec": "",
             "handle": "dante",
             "id": "dante"
         },
@@ -13921,6 +14270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ovidius/",
+            "spec": "",
             "handle": "ovidius",
             "id": "ovidius"
         },
@@ -13960,6 +14310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/i18n-starter/",
+            "spec": "",
             "handle": "i18n-starter",
             "id": "i18n-starter"
         },
@@ -13999,6 +14350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/typography/",
+            "spec": "",
             "handle": "typography",
             "id": "typography"
         },
@@ -14038,6 +14390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/brutal/",
+            "spec": "",
             "handle": "brutal",
             "id": "brutal"
         },
@@ -14077,6 +14430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/accessible-astro-starter/",
+            "spec": "",
             "handle": "accessible-astro-starter",
             "id": "accessible-astro-starter"
         },
@@ -14116,6 +14470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroblog/",
+            "spec": "",
             "handle": "astroblog",
             "id": "astroblog"
         },
@@ -14155,6 +14510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/pure/",
+            "spec": "",
             "handle": "pure",
             "id": "pure"
         },
@@ -14194,6 +14550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ion/",
+            "spec": "",
             "handle": "ion",
             "id": "ion"
         },
@@ -14233,6 +14590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrobrew/",
+            "spec": "",
             "handle": "astrobrew",
             "id": "astrobrew"
         },
@@ -14272,6 +14630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlog/",
+            "spec": "",
             "handle": "starlog",
             "id": "starlog"
         },
@@ -14311,6 +14670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-big-doc/",
+            "spec": "",
             "handle": "astro-big-doc",
             "id": "astro-big-doc"
         },
@@ -14350,6 +14710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/landing-page-book/",
+            "spec": "",
             "handle": "landing-page-book",
             "id": "landing-page-book"
         },
@@ -14389,6 +14750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-shopify/",
+            "spec": "",
             "handle": "astro-shopify",
             "id": "astro-shopify"
         },
@@ -14428,6 +14790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-blog/",
+            "spec": "",
             "handle": "astro-starter-blog",
             "id": "astro-starter-blog"
         },
@@ -14467,6 +14830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nice-tat/",
+            "spec": "",
             "handle": "nice-tat",
             "id": "nice-tat"
         },
@@ -14506,6 +14870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starlight/",
+            "spec": "",
             "handle": "starlight",
             "id": "starlight"
         },
@@ -14545,6 +14910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/agencex/",
+            "spec": "",
             "handle": "agencex",
             "id": "agencex"
         },
@@ -14584,6 +14950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-status-page/",
+            "spec": "",
             "handle": "astro-status-page",
             "id": "astro-status-page"
         },
@@ -14623,6 +14990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/milky-way/",
+            "spec": "",
             "handle": "milky-way",
             "id": "milky-way"
         },
@@ -14662,6 +15030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-neumorphismt/",
+            "spec": "",
             "handle": "astro-neumorphismt",
             "id": "astro-neumorphismt"
         },
@@ -14701,6 +15070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio/",
+            "spec": "",
             "handle": "portfolio",
             "id": "portfolio"
         },
@@ -14740,6 +15110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/hello-astro/",
+            "spec": "",
             "handle": "hello-astro",
             "id": "hello-astro"
         },
@@ -14779,6 +15150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-resume/",
+            "spec": "",
             "handle": "astro-resume",
             "id": "astro-resume"
         },
@@ -14818,6 +15190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-cactus/",
+            "spec": "",
             "handle": "astro-cactus",
             "id": "astro-cactus"
         },
@@ -14857,6 +15230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astropaper/",
+            "spec": "",
             "handle": "astropaper",
             "id": "astropaper"
         },
@@ -14896,6 +15270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/gate/",
+            "spec": "",
             "handle": "gate",
             "id": "gate"
         },
@@ -14935,6 +15310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shadowstack-portfolio/",
+            "spec": "",
             "handle": "shadowstack-portfolio",
             "id": "shadowstack-portfolio"
         },
@@ -14974,6 +15350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sendit/",
+            "spec": "",
             "handle": "sendit",
             "id": "sendit"
         },
@@ -15013,6 +15390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webtrotion/",
+            "spec": "",
             "handle": "webtrotion",
             "id": "webtrotion"
         },
@@ -15052,6 +15430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/energy-company-template/",
+            "spec": "",
             "handle": "energy-company-template",
             "id": "energy-company-template"
         },
@@ -15091,6 +15470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/esquelete-cv/",
+            "spec": "",
             "handle": "esquelete-cv",
             "id": "esquelete-cv"
         },
@@ -15130,6 +15510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-simple-portfolio/",
+            "spec": "",
             "handle": "astro-simple-portfolio",
             "id": "astro-simple-portfolio"
         },
@@ -15169,6 +15550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrozen-personal-portfolio-website/",
+            "spec": "",
             "handle": "astrozen-personal-portfolio-website",
             "id": "astrozen-personal-portfolio-website"
         },
@@ -15208,6 +15590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-blog-template/",
+            "spec": "",
             "handle": "minimalistic-blog-template",
             "id": "minimalistic-blog-template"
         },
@@ -15247,6 +15630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minted-directory/",
+            "spec": "",
             "handle": "minted-directory",
             "id": "minted-directory"
         },
@@ -15286,6 +15670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/broadcastchannel/",
+            "spec": "",
             "handle": "broadcastchannel",
             "id": "broadcastchannel"
         },
@@ -15325,6 +15710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-shadcn-ui-template/",
+            "spec": "",
             "handle": "astro-shadcn-ui-template",
             "id": "astro-shadcn-ui-template"
         },
@@ -15364,6 +15750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolinkhub/",
+            "spec": "",
             "handle": "astrolinkhub",
             "id": "astrolinkhub"
         },
@@ -15403,6 +15790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/biolinklinktree-clone/",
+            "spec": "",
             "handle": "biolinklinktree-clone",
             "id": "biolinklinktree-clone"
         },
@@ -15442,6 +15830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrodol/",
+            "spec": "",
             "handle": "astrodol",
             "id": "astrodol"
         },
@@ -15481,6 +15870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/supabase-serverside/",
+            "spec": "",
             "handle": "supabase-serverside",
             "id": "supabase-serverside"
         },
@@ -15520,6 +15910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/slate/",
+            "spec": "",
             "handle": "slate",
             "id": "slate"
         },
@@ -15559,6 +15950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/antfustyle-theme/",
+            "spec": "",
             "handle": "antfustyle-theme",
             "id": "antfustyle-theme"
         },
@@ -15598,6 +15990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/free-astro-components/",
+            "spec": "",
             "handle": "free-astro-components",
             "id": "free-astro-components"
         },
@@ -15637,6 +16030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/macos-terminal-portfolio/",
+            "spec": "",
             "handle": "macos-terminal-portfolio",
             "id": "macos-terminal-portfolio"
         },
@@ -15676,6 +16070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-tailwindcss-shadcnui-template/",
+            "spec": "",
             "handle": "astro-tailwindcss-shadcnui-template",
             "id": "astro-tailwindcss-shadcnui-template"
         },
@@ -15715,6 +16110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrodev/",
+            "spec": "",
             "handle": "astrodev",
             "id": "astrodev"
         },
@@ -15754,6 +16150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/simple-portfolio-template/",
+            "spec": "",
             "handle": "simple-portfolio-template",
             "id": "simple-portfolio-template"
         },
@@ -15793,6 +16190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webcore-portfolio/",
+            "spec": "",
             "handle": "webcore-portfolio",
             "id": "webcore-portfolio"
         },
@@ -15832,6 +16230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/plainpage/",
+            "spec": "",
             "handle": "plainpage",
             "id": "plainpage"
         },
@@ -15871,6 +16270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalist-printable-cv/",
+            "spec": "",
             "handle": "minimalist-printable-cv",
             "id": "minimalist-printable-cv"
         },
@@ -15910,6 +16310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webcore-product-page/",
+            "spec": "",
             "handle": "webcore-product-page",
             "id": "webcore-product-page"
         },
@@ -15949,6 +16350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cvpafe/",
+            "spec": "",
             "handle": "cvpafe",
             "id": "cvpafe"
         },
@@ -15988,6 +16390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/multilaunch-multi-brand-website-template/",
+            "spec": "",
             "handle": "multilaunch-multi-brand-website-template",
             "id": "multilaunch-multi-brand-website-template"
         },
@@ -16027,6 +16430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/token-template/",
+            "spec": "",
             "handle": "token-template",
             "id": "token-template"
         },
@@ -16066,6 +16470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolio/",
+            "spec": "",
             "handle": "astrolio",
             "id": "astrolio"
         },
@@ -16105,6 +16510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/apple-inspired-portfolio/",
+            "spec": "",
             "handle": "apple-inspired-portfolio",
             "id": "apple-inspired-portfolio"
         },
@@ -16144,6 +16550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ultimate-astro-theme-multiframework-heaven/",
+            "spec": "",
             "handle": "ultimate-astro-theme-multiframework-heaven",
             "id": "ultimate-astro-theme-multiframework-heaven"
         },
@@ -16183,6 +16590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-dracula-blog/",
+            "spec": "",
             "handle": "astro-dracula-blog",
             "id": "astro-dracula-blog"
         },
@@ -16222,6 +16630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/warp-portfolio/",
+            "spec": "",
             "handle": "warp-portfolio",
             "id": "warp-portfolio"
         },
@@ -16261,6 +16670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/meo/",
+            "spec": "",
             "handle": "meo",
             "id": "meo"
         },
@@ -16300,6 +16710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-bash/",
+            "spec": "",
             "handle": "astro-bash",
             "id": "astro-bash"
         },
@@ -16339,6 +16750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/track-shadcn-ui-changelog-landing-page-template-free/",
+            "spec": "",
             "handle": "track-shadcn-ui-changelog-landing-page-template-free",
             "id": "track-shadcn-ui-changelog-landing-page-template-free"
         },
@@ -16378,6 +16790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrodeck/",
+            "spec": "",
             "handle": "astrodeck",
             "id": "astrodeck"
         },
@@ -16417,6 +16830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-full-starter/",
+            "spec": "",
             "handle": "astro-full-starter",
             "id": "astro-full-starter"
         },
@@ -16456,6 +16870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/designphotographyportfolio/",
+            "spec": "",
             "handle": "designphotographyportfolio",
             "id": "designphotographyportfolio"
         },
@@ -16495,6 +16910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/webcoreui-astro-component-library/",
+            "spec": "",
             "handle": "webcoreui-astro-component-library",
             "id": "webcoreui-astro-component-library"
         },
@@ -16534,6 +16950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/openlinks/",
+            "spec": "",
             "handle": "openlinks",
             "id": "openlinks"
         },
@@ -16573,6 +16990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/elon-kernel/",
+            "spec": "",
             "handle": "elon-kernel",
             "id": "elon-kernel"
         },
@@ -16612,6 +17030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/innotech-template/",
+            "spec": "",
             "handle": "innotech-template",
             "id": "innotech-template"
         },
@@ -16651,6 +17070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/big-city-life/",
+            "spec": "",
             "handle": "big-city-life",
             "id": "big-city-life"
         },
@@ -16690,6 +17110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/portfolio-developers-astro/",
+            "spec": "",
             "handle": "portfolio-developers-astro",
             "id": "portfolio-developers-astro"
         },
@@ -16729,6 +17150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/so-basic-blog-template/",
+            "spec": "",
             "handle": "so-basic-blog-template",
             "id": "so-basic-blog-template"
         },
@@ -16768,6 +17190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boilerplate-astro-svelte/",
+            "spec": "",
             "handle": "boilerplate-astro-svelte",
             "id": "boilerplate-astro-svelte"
         },
@@ -16807,6 +17230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boilerplate-astro-solidjs/",
+            "spec": "",
             "handle": "boilerplate-astro-solidjs",
             "id": "boilerplate-astro-solidjs"
         },
@@ -16846,6 +17270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/boilerplate-astro-react/",
+            "spec": "",
             "handle": "boilerplate-astro-react",
             "id": "boilerplate-astro-react"
         },
@@ -16885,6 +17310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-international-starter/",
+            "spec": "",
             "handle": "astro-international-starter",
             "id": "astro-international-starter"
         },
@@ -16924,6 +17350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/litos/",
+            "spec": "",
             "handle": "litos",
             "id": "litos"
         },
@@ -16963,6 +17390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/miduwind/",
+            "spec": "",
             "handle": "miduwind",
             "id": "miduwind"
         },
@@ -17002,6 +17430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/airy-personal-page/",
+            "spec": "",
             "handle": "airy-personal-page",
             "id": "airy-personal-page"
         },
@@ -17041,6 +17470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ink-personal-website/",
+            "spec": "",
             "handle": "ink-personal-website",
             "id": "ink-personal-website"
         },
@@ -17080,6 +17510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cooper/",
+            "spec": "",
             "handle": "cooper",
             "id": "cooper"
         },
@@ -17119,6 +17550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/ctros/",
+            "spec": "",
             "handle": "ctros",
             "id": "ctros"
         },
@@ -17158,6 +17590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/darkness/",
+            "spec": "",
             "handle": "darkness",
             "id": "darkness"
         },
@@ -17197,6 +17630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/typewriter/",
+            "spec": "",
             "handle": "typewriter",
             "id": "typewriter"
         },
@@ -17236,6 +17670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/shblog-next/",
+            "spec": "",
             "handle": "shblog-next",
             "id": "shblog-next"
         },
@@ -17275,6 +17710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-multipage-portfolio/",
+            "spec": "",
             "handle": "astro-multipage-portfolio",
             "id": "astro-multipage-portfolio"
         },
@@ -17314,6 +17750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/launchpad/",
+            "spec": "",
             "handle": "launchpad",
             "id": "launchpad"
         },
@@ -17353,6 +17790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-webstack/",
+            "spec": "",
             "handle": "astro-webstack",
             "id": "astro-webstack"
         },
@@ -17392,6 +17830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalist-litght-dark-theme-portfolio/",
+            "spec": "",
             "handle": "minimalist-litght-dark-theme-portfolio",
             "id": "minimalist-litght-dark-theme-portfolio"
         },
@@ -17431,6 +17870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/estrocom/",
+            "spec": "",
             "handle": "estrocom",
             "id": "estrocom"
         },
@@ -17470,6 +17910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/devlinks/",
+            "spec": "",
             "handle": "devlinks",
             "id": "devlinks"
         },
@@ -17509,6 +17950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/simple-blog-codematrix44/",
+            "spec": "",
             "handle": "simple-blog-codematrix44",
             "id": "simple-blog-codematrix44"
         },
@@ -17548,6 +17990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/linkytree/",
+            "spec": "",
             "handle": "linkytree",
             "id": "linkytree"
         },
@@ -17587,6 +18030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fintechpro/",
+            "spec": "",
             "handle": "fintechpro",
             "id": "fintechpro"
         },
@@ -17626,6 +18070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/haiku-reels/",
+            "spec": "",
             "handle": "haiku-reels",
             "id": "haiku-reels"
         },
@@ -17665,6 +18110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/said-yes/",
+            "spec": "",
             "handle": "said-yes",
             "id": "said-yes"
         },
@@ -17704,6 +18150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/brandcrafters-agency-website/",
+            "spec": "",
             "handle": "brandcrafters-agency-website",
             "id": "brandcrafters-agency-website"
         },
@@ -17743,6 +18190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astral-halo/",
+            "spec": "",
             "handle": "astral-halo",
             "id": "astral-halo"
         },
@@ -17782,6 +18230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/momo/",
+            "spec": "",
             "handle": "momo",
             "id": "momo"
         },
@@ -17821,6 +18270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/medical-coverage-marketing/",
+            "spec": "",
             "handle": "medical-coverage-marketing",
             "id": "medical-coverage-marketing"
         },
@@ -17860,6 +18310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starcard/",
+            "spec": "",
             "handle": "starcard",
             "id": "starcard"
         },
@@ -17899,6 +18350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-starter-theme/",
+            "spec": "",
             "handle": "astro-starter-theme",
             "id": "astro-starter-theme"
         },
@@ -17938,6 +18390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/semantic-docs/",
+            "spec": "",
             "handle": "semantic-docs",
             "id": "semantic-docs"
         },
@@ -17977,6 +18430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-portfolio/",
+            "spec": "",
             "handle": "minimalistic-portfolio",
             "id": "minimalistic-portfolio"
         },
@@ -18016,6 +18470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fit-page/",
+            "spec": "",
             "handle": "fit-page",
             "id": "fit-page"
         },
@@ -18055,6 +18510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/momo-index/",
+            "spec": "",
             "handle": "momo-index",
             "id": "momo-index"
         },
@@ -18094,6 +18550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blog-theme/",
+            "spec": "",
             "handle": "astro-blog-theme",
             "id": "astro-blog-theme"
         },
@@ -18133,6 +18590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/insightfull-ink-blog-website/",
+            "spec": "",
             "handle": "insightfull-ink-blog-website",
             "id": "insightfull-ink-blog-website"
         },
@@ -18172,6 +18630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tailkits-astro/",
+            "spec": "",
             "handle": "tailkits-astro",
             "id": "tailkits-astro"
         },
@@ -18211,6 +18670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/firefly/",
+            "spec": "",
             "handle": "firefly",
             "id": "firefly"
         },
@@ -18250,6 +18710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/career-walking-site-bento-box-theme/",
+            "spec": "",
             "handle": "career-walking-site-bento-box-theme",
             "id": "career-walking-site-bento-box-theme"
         },
@@ -18289,6 +18750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrogent/",
+            "spec": "",
             "handle": "astrogent",
             "id": "astrogent"
         },
@@ -18328,6 +18790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/personal-portfolio-website/",
+            "spec": "",
             "handle": "personal-portfolio-website",
             "id": "personal-portfolio-website"
         },
@@ -18367,6 +18830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/legal-staff/",
+            "spec": "",
             "handle": "legal-staff",
             "id": "legal-staff"
         },
@@ -18406,6 +18870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-bento-like-portfolio/",
+            "spec": "",
             "handle": "minimal-bento-like-portfolio",
             "id": "minimal-bento-like-portfolio"
         },
@@ -18445,6 +18910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/raccoon-links/",
+            "spec": "",
             "handle": "raccoon-links",
             "id": "raccoon-links"
         },
@@ -18484,6 +18950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/artistree-link-in-bio-page/",
+            "spec": "",
             "handle": "artistree-link-in-bio-page",
             "id": "artistree-link-in-bio-page"
         },
@@ -18523,6 +18990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/photography-portfolio-template/",
+            "spec": "",
             "handle": "photography-portfolio-template",
             "id": "photography-portfolio-template"
         },
@@ -18562,6 +19030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/cvfolio/",
+            "spec": "",
             "handle": "cvfolio",
             "id": "cvfolio"
         },
@@ -18601,6 +19070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrorise-open/",
+            "spec": "",
             "handle": "astrorise-open",
             "id": "astrorise-open"
         },
@@ -18640,6 +19110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimaldev-astro-theme/",
+            "spec": "",
             "handle": "minimaldev-astro-theme",
             "id": "minimaldev-astro-theme"
         },
@@ -18679,6 +19150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-blog/",
+            "spec": "",
             "handle": "minimal-blog",
             "id": "minimal-blog"
         },
@@ -18718,6 +19190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/star-read/",
+            "spec": "",
             "handle": "star-read",
             "id": "star-read"
         },
@@ -18757,6 +19230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-flexoki/",
+            "spec": "",
             "handle": "astro-flexoki",
             "id": "astro-flexoki"
         },
@@ -18796,6 +19270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-i18n-starter/",
+            "spec": "",
             "handle": "astro-i18n-starter",
             "id": "astro-i18n-starter"
         },
@@ -18835,6 +19310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-shopify-sanity/",
+            "spec": "",
             "handle": "astro-shopify-sanity",
             "id": "astro-shopify-sanity"
         },
@@ -18874,6 +19350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nagare/",
+            "spec": "",
             "handle": "nagare",
             "id": "nagare"
         },
@@ -18913,6 +19390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mizuki/",
+            "spec": "",
             "handle": "mizuki",
             "id": "mizuki"
         },
@@ -18952,6 +19430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/alkaline/",
+            "spec": "",
             "handle": "alkaline",
             "id": "alkaline"
         },
@@ -18991,6 +19470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sanity-astro-club/",
+            "spec": "",
             "handle": "sanity-astro-club",
             "id": "sanity-astro-club"
         },
@@ -19030,6 +19510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-flow-simple-blog/",
+            "spec": "",
             "handle": "astro-flow-simple-blog",
             "id": "astro-flow-simple-blog"
         },
@@ -19069,6 +19550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stalux/",
+            "spec": "",
             "handle": "stalux",
             "id": "stalux"
         },
@@ -19108,6 +19590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-air-bento/",
+            "spec": "",
             "handle": "astro-air-bento",
             "id": "astro-air-bento"
         },
@@ -19147,6 +19630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-news/",
+            "spec": "",
             "handle": "astro-news",
             "id": "astro-news"
         },
@@ -19186,6 +19670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-portfolio-template/",
+            "spec": "",
             "handle": "minimal-portfolio-template",
             "id": "minimal-portfolio-template"
         },
@@ -19225,6 +19710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/frieren-blog-kit/",
+            "spec": "",
             "handle": "frieren-blog-kit",
             "id": "frieren-blog-kit"
         },
@@ -19264,6 +19750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blur/",
+            "spec": "",
             "handle": "astro-blur",
             "id": "astro-blur"
         },
@@ -19303,6 +19790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/a-simple-dynamic-theme/",
+            "spec": "",
             "handle": "a-simple-dynamic-theme",
             "id": "a-simple-dynamic-theme"
         },
@@ -19342,6 +19830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/matix-template/",
+            "spec": "",
             "handle": "matix-template",
             "id": "matix-template"
         },
@@ -19381,6 +19870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nordlys/",
+            "spec": "",
             "handle": "nordlys",
             "id": "nordlys"
         },
@@ -19420,6 +19910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-spaceship/",
+            "spec": "",
             "handle": "astro-spaceship",
             "id": "astro-spaceship"
         },
@@ -19459,6 +19950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/it-audit-pro-business-website/",
+            "spec": "",
             "handle": "it-audit-pro-business-website",
             "id": "it-audit-pro-business-website"
         },
@@ -19498,6 +19990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrorante/",
+            "spec": "",
             "handle": "astrorante",
             "id": "astrorante"
         },
@@ -19537,6 +20030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/directory/",
+            "spec": "",
             "handle": "directory",
             "id": "directory"
         },
@@ -19576,6 +20070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/newechoes/",
+            "spec": "",
             "handle": "newechoes",
             "id": "newechoes"
         },
@@ -19615,6 +20110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-micro/",
+            "spec": "",
             "handle": "astro-micro",
             "id": "astro-micro"
         },
@@ -19654,6 +20150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mobile-app-landing-page/",
+            "spec": "",
             "handle": "mobile-app-landing-page",
             "id": "mobile-app-landing-page"
         },
@@ -19693,6 +20190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/sleek-minimal-developer-portfolio-website/",
+            "spec": "",
             "handle": "sleek-minimal-developer-portfolio-website",
             "id": "sleek-minimal-developer-portfolio-website"
         },
@@ -19732,6 +20230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimal-style-modern-blog-system-nano-blog/",
+            "spec": "",
             "handle": "minimal-style-modern-blog-system-nano-blog",
             "id": "minimal-style-modern-blog-system-nano-blog"
         },
@@ -19771,6 +20270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/celestialdocs/",
+            "spec": "",
             "handle": "celestialdocs",
             "id": "celestialdocs"
         },
@@ -19810,6 +20310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/vitesse-theme-for-astro/",
+            "spec": "",
             "handle": "vitesse-theme-for-astro",
             "id": "vitesse-theme-for-astro"
         },
@@ -19849,6 +20350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/spark/",
+            "spec": "",
             "handle": "spark",
             "id": "spark"
         },
@@ -19888,6 +20390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/blog/",
+            "spec": "",
             "handle": "blog",
             "id": "blog"
         },
@@ -19927,6 +20430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astroship/",
+            "spec": "",
             "handle": "astroship",
             "id": "astroship"
         },
@@ -19966,6 +20470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/starpod/",
+            "spec": "",
             "handle": "starpod",
             "id": "starpod"
         },
@@ -20005,6 +20510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/small-business-template/",
+            "spec": "",
             "handle": "small-business-template",
             "id": "small-business-template"
         },
@@ -20044,6 +20550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fuwari/",
+            "spec": "",
             "handle": "fuwari",
             "id": "fuwari"
         },
@@ -20083,6 +20590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/welcome-to-astro/",
+            "spec": "",
             "handle": "welcome-to-astro",
             "id": "welcome-to-astro"
         },
@@ -20122,6 +20630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/litefolio/",
+            "spec": "",
             "handle": "litefolio",
             "id": "litefolio"
         },
@@ -20161,6 +20670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolus/",
+            "spec": "",
             "handle": "astrolus",
             "id": "astrolus"
         },
@@ -20200,6 +20710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-multiverse/",
+            "spec": "",
             "handle": "astro-multiverse",
             "id": "astro-multiverse"
         },
@@ -20239,6 +20750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/frosti/",
+            "spec": "",
             "handle": "frosti",
             "id": "frosti"
         },
@@ -20278,6 +20790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/quick-astro/",
+            "spec": "",
             "handle": "quick-astro",
             "id": "quick-astro"
         },
@@ -20317,6 +20830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astronaut/",
+            "spec": "",
             "handle": "astronaut",
             "id": "astronaut"
         },
@@ -20356,6 +20870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-login-template/",
+            "spec": "",
             "handle": "astro-login-template",
             "id": "astro-login-template"
         },
@@ -20395,6 +20910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-vim/",
+            "spec": "",
             "handle": "astro-vim",
             "id": "astro-vim"
         },
@@ -20434,6 +20950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/photography-theme/",
+            "spec": "",
             "handle": "photography-theme",
             "id": "photography-theme"
         },
@@ -20473,6 +20990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/positivus/",
+            "spec": "",
             "handle": "positivus",
             "id": "positivus"
         },
@@ -20512,6 +21030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/mintaka/",
+            "spec": "",
             "handle": "mintaka",
             "id": "mintaka"
         },
@@ -20551,6 +21070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofolio/",
+            "spec": "",
             "handle": "astrofolio",
             "id": "astrofolio"
         },
@@ -20590,6 +21110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/low-power-blog/",
+            "spec": "",
             "handle": "low-power-blog",
             "id": "low-power-blog"
         },
@@ -20629,6 +21150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/nikola-tesla/",
+            "spec": "",
             "handle": "nikola-tesla",
             "id": "nikola-tesla"
         },
@@ -20668,6 +21190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/storyteller/",
+            "spec": "",
             "handle": "storyteller",
             "id": "storyteller"
         },
@@ -20707,6 +21230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/maucariapacom-church-starter/",
+            "spec": "",
             "handle": "maucariapacom-church-starter",
             "id": "maucariapacom-church-starter"
         },
@@ -20746,6 +21270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/melody/",
+            "spec": "",
             "handle": "melody",
             "id": "melody"
         },
@@ -20785,6 +21310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-milidev/",
+            "spec": "",
             "handle": "astro-milidev",
             "id": "astro-milidev"
         },
@@ -20824,6 +21350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/slate-blog/",
+            "spec": "",
             "handle": "slate-blog",
             "id": "slate-blog"
         },
@@ -20863,6 +21390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/simple-portfolio/",
+            "spec": "",
             "handle": "simple-portfolio",
             "id": "simple-portfolio"
         },
@@ -20902,6 +21430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/t3ma-blog/",
+            "spec": "",
             "handle": "t3ma-blog",
             "id": "t3ma-blog"
         },
@@ -20941,6 +21470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/minimalistic-astro-blog/",
+            "spec": "",
             "handle": "minimalistic-astro-blog",
             "id": "minimalistic-astro-blog"
         },
@@ -20980,6 +21510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrogency/",
+            "spec": "",
             "handle": "astrogency",
             "id": "astrogency"
         },
@@ -21019,6 +21550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/volks-typo/",
+            "spec": "",
             "handle": "volks-typo",
             "id": "volks-typo"
         },
@@ -21058,6 +21590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-zen-blog/",
+            "spec": "",
             "handle": "astro-zen-blog",
             "id": "astro-zen-blog"
         },
@@ -21097,6 +21630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/payflo-fintech-saas-payroll-theme/",
+            "spec": "",
             "handle": "payflo-fintech-saas-payroll-theme",
             "id": "payflo-fintech-saas-payroll-theme"
         },
@@ -21136,6 +21670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/bitdoze-astro-theme/",
+            "spec": "",
             "handle": "bitdoze-astro-theme",
             "id": "bitdoze-astro-theme"
         },
@@ -21175,6 +21710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/fomalhaut/",
+            "spec": "",
             "handle": "fomalhaut",
             "id": "fomalhaut"
         },
@@ -21214,6 +21750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/asterris/",
+            "spec": "",
             "handle": "asterris",
             "id": "asterris"
         },
@@ -21253,6 +21790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/antares/",
+            "spec": "",
             "handle": "antares",
             "id": "antares"
         },
@@ -21292,6 +21830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kiri/",
+            "spec": "",
             "handle": "kiri",
             "id": "kiri"
         },
@@ -21331,6 +21870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blog-starter/",
+            "spec": "",
             "handle": "astro-blog-starter",
             "id": "astro-blog-starter"
         },
@@ -21370,6 +21910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/modern-company-landing-page/",
+            "spec": "",
             "handle": "modern-company-landing-page",
             "id": "modern-company-landing-page"
         },
@@ -21409,6 +21950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stargarden/",
+            "spec": "",
             "handle": "stargarden",
             "id": "stargarden"
         },
@@ -21448,6 +21990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/charm/",
+            "spec": "",
             "handle": "charm",
             "id": "charm"
         },
@@ -21487,6 +22030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-terminal/",
+            "spec": "",
             "handle": "astro-terminal",
             "id": "astro-terminal"
         },
@@ -21526,6 +22070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-5-shadcn-ui-started-template/",
+            "spec": "",
             "handle": "astro-5-shadcn-ui-started-template",
             "id": "astro-5-shadcn-ui-started-template"
         },
@@ -21565,6 +22110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/morethan-log-for-astro/",
+            "spec": "",
             "handle": "morethan-log-for-astro",
             "id": "morethan-log-for-astro"
         },
@@ -21604,6 +22150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/servland-landing-page/",
+            "spec": "",
             "handle": "servland-landing-page",
             "id": "servland-landing-page"
         },
@@ -21643,6 +22190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrolingo/",
+            "spec": "",
             "handle": "astrolingo",
             "id": "astrolingo"
         },
@@ -21682,6 +22230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/miniblog/",
+            "spec": "",
             "handle": "miniblog",
             "id": "miniblog"
         },
@@ -21721,6 +22270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kaizen-minimal-portfolio/",
+            "spec": "",
             "handle": "kaizen-minimal-portfolio",
             "id": "kaizen-minimal-portfolio"
         },
@@ -21760,6 +22310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-theme-isolatedland/",
+            "spec": "",
             "handle": "astro-theme-isolatedland",
             "id": "astro-theme-isolatedland"
         },
@@ -21799,6 +22350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aether-astro-theme/",
+            "spec": "",
             "handle": "aether-astro-theme",
             "id": "aether-astro-theme"
         },
@@ -21838,6 +22390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-fox/",
+            "spec": "",
             "handle": "astro-fox",
             "id": "astro-fox"
         },
@@ -21877,6 +22430,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/saral/",
+            "spec": "",
             "handle": "saral",
             "id": "saral"
         },
@@ -21916,6 +22470,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/agency-theme/",
+            "spec": "",
             "handle": "agency-theme",
             "id": "agency-theme"
         },
@@ -21955,6 +22510,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/dounut/",
+            "spec": "",
             "handle": "dounut",
             "id": "dounut"
         },
@@ -21994,6 +22550,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-blog-markdown/",
+            "spec": "",
             "handle": "astro-blog-markdown",
             "id": "astro-blog-markdown"
         },
@@ -22033,6 +22590,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/naid/",
+            "spec": "",
             "handle": "naid",
             "id": "naid"
         },
@@ -22072,6 +22630,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/tiny-rocket/",
+            "spec": "",
             "handle": "tiny-rocket",
             "id": "tiny-rocket"
         },
@@ -22111,6 +22670,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/contour/",
+            "spec": "",
             "handle": "contour",
             "id": "contour"
         },
@@ -22150,6 +22710,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-resume-theme/",
+            "spec": "",
             "handle": "astro-resume-theme",
             "id": "astro-resume-theme"
         },
@@ -22189,6 +22750,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/kiss-keep-it-simple-stupid-minimal-portfolio-template/",
+            "spec": "",
             "handle": "kiss-keep-it-simple-stupid-minimal-portfolio-template",
             "id": "kiss-keep-it-simple-stupid-minimal-portfolio-template"
         },
@@ -22228,6 +22790,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astronano/",
+            "spec": "",
             "handle": "astronano",
             "id": "astronano"
         },
@@ -22267,6 +22830,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astrofy-personal-porfolio-website-template/",
+            "spec": "",
             "handle": "astrofy-personal-porfolio-website-template",
             "id": "astrofy-personal-porfolio-website-template"
         },
@@ -22306,6 +22870,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/aria/",
+            "spec": "",
             "handle": "aria",
             "id": "aria"
         },
@@ -22345,6 +22910,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/luna-landing/",
+            "spec": "",
             "handle": "luna-landing",
             "id": "luna-landing"
         },
@@ -22384,6 +22950,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/northlight/",
+            "spec": "",
             "handle": "northlight",
             "id": "northlight"
         },
@@ -22423,6 +22990,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/print-friendly-portfolio-cv/",
+            "spec": "",
             "handle": "print-friendly-portfolio-cv",
             "id": "print-friendly-portfolio-cv"
         },
@@ -22462,6 +23030,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/koibumi-astro-blog/",
+            "spec": "",
             "handle": "koibumi-astro-blog",
             "id": "koibumi-astro-blog"
         },
@@ -22501,6 +23070,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-portfolio-template/",
+            "spec": "",
             "handle": "astro-portfolio-template",
             "id": "astro-portfolio-template"
         },
@@ -22540,6 +23110,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-boilerplate/",
+            "spec": "",
             "handle": "astro-boilerplate",
             "id": "astro-boilerplate"
         },
@@ -22579,6 +23150,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/developer-blog/",
+            "spec": "",
             "handle": "developer-blog",
             "id": "developer-blog"
         },
@@ -22618,6 +23190,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/openblog/",
+            "spec": "",
             "handle": "openblog",
             "id": "openblog"
         },
@@ -22657,6 +23230,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/atom/",
+            "spec": "",
             "handle": "atom",
             "id": "atom"
         },
@@ -22696,6 +23270,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stablo-blog-template/",
+            "spec": "",
             "handle": "stablo-blog-template",
             "id": "stablo-blog-template"
         },
@@ -22735,6 +23310,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/skncre-a-hygraph-cosmetics-brand-e-commerce/",
+            "spec": "",
             "handle": "skncre-a-hygraph-cosmetics-brand-e-commerce",
             "id": "skncre-a-hygraph-cosmetics-brand-e-commerce"
         },
@@ -22774,6 +23350,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/stone/",
+            "spec": "",
             "handle": "stone",
             "id": "stone"
         },
@@ -22813,6 +23390,7 @@
                 "Blog"
             ],
             "detail_page_url": "https://astro.build/themes/details/astro-design-system-docs/",
+            "spec": "",
             "handle": "astro-design-system-docs",
             "id": "astro-design-system-docs"
         }

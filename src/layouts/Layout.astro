@@ -40,16 +40,16 @@ const clientData = JSON.stringify({
     house: p.collectionHandles[0],
     price: p.price.amount,
     image: p.images[0]?.src ?? '',
-    ref: (p as any).meta?.ref ?? '',
-    material: (p as any).meta?.material ?? '',
+    detail_page_url: (p as any).detail_page_url ?? '',
+    get_started_url: (p as any).get_started_url ?? '',
     epoch: (p as any).meta?.epoch ?? '',
-    origin: (p as any).meta?.origin ?? '',
+    live_demo_url: (p as any).live_demo_url ?? '',
     rating: (p as any).meta?.rating ?? 0,
     stock: (p as any).meta?.stock ?? false,
     bespoke: (p as any).meta?.bespoke ?? false,
     kind: (p as any).meta?.kind ?? '',
     note: (p as any).meta?.note ?? '',
-    spec: (p as any).meta?.spec ?? '',
+    spec: (p as any).spec ?? '',
   })),
 });
 ---
@@ -371,7 +371,7 @@ const clientData = JSON.stringify({
             <button data-open-piece="${p.handle}" class="hatch aspect-[4/5] w-[58px] flex-none cursor-pointer border border-line bg-cover bg-center" style="background-image:url('${p.image}')"></button>
             <div class="flex min-w-0 flex-[1_1_180px] flex-col gap-1.5">
               <button data-open-piece="${p.handle}" class="font-sf cursor-pointer text-left text-[17px] leading-[1.3]">${p.name}</button>
-              <span class="font-mono text-[11px] text-faint">${p.ref} · <span data-usd="${p.price}">${money(p.price)}</span></span>
+              <span class="font-mono text-[11px] text-faint">${p.detail_page_url} · <span data-usd="${p.price}">${money(p.price)}</span></span>
               <div class="eti flex gap-4" style="font-size:10.5px">${extra}</div>
             </div>
           </div>`;
@@ -386,7 +386,7 @@ const clientData = JSON.stringify({
         $('[data-piece-box]').innerHTML = `
           <div class="flex flex-col gap-6">
             <div class="flex items-baseline gap-4">
-              <span class="eti text-faint">${p.ref}</span>
+              <span class="eti text-faint">${p.detail_page_url}</span>
               <span class="flex-1"></span>
               <button data-piece-close class="cursor-pointer font-mono text-[12px] text-soft">Close ✕</button>
             </div>
@@ -399,7 +399,7 @@ const clientData = JSON.stringify({
               <p class="m-0 mt-1.5 text-[14.5px] leading-[1.75] text-soft">${p.note}</p>
             </div>
             <div class="flex flex-col">
-              ${[['Reference', p.ref], ['Material', p.material], ['Era', p.epoch], ['Origin', p.origin], ['Specification', p.spec], ['Availability', avail], ['Patron rating', p.rating.toFixed(1) + '★']].map(([k, v]) => `
+              ${[['Detail page', p.detail_page_url], ['Source', p.get_started_url], ['Era', p.epoch], ['Demo', p.live_demo_url], ['Specification', p.spec], ['Availability', avail], ['Patron rating', p.rating.toFixed(1) + '★']].map(([k, v]) => `
                 <div class="flex flex-wrap gap-x-[18px] gap-y-1 border-t border-line py-3">
                   <span class="eti w-[140px] flex-none text-faint" style="font-size:10.5px">${k}</span>
                   <span class="min-w-0 flex-1 text-[13.5px] text-ink">${v}</span>
@@ -511,7 +511,7 @@ const clientData = JSON.stringify({
           <button data-sq="${esc(s)}" class="flex-none whitespace-nowrap cursor-pointer rounded-[2px] border border-rule px-3 py-[7px] text-[12.5px] text-soft transition hover:border-acc hover:text-acc">${s}</button>`).join('');
         const q = sInput.value.trim().toLowerCase();
         const results = q
-          ? D.pieces.filter((p: any) => (p.name + ' ' + p.ref + ' ' + p.brand + ' ' + p.material + ' ' + p.spec + ' ' + p.note).toLowerCase().includes(q)).slice(0, 7)
+          ? D.pieces.filter((p: any) => (p.name + ' ' + p.detail_page_url + ' ' + p.brand + ' ' + p.get_started_url + ' ' + p.spec + ' ' + p.note).toLowerCase().includes(q)).slice(0, 7)
           : [];
         $('[data-search-results]').innerHTML = q
           ? results.length

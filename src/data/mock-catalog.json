@@ -306,12 +306,12 @@
     "material": "Platinum 950",
     "epoch": "Belle Époque",
     "origin": "Geneva",
-    "rating": 4.9,
+    "spec": "Calibre 2260 · 44 mm · platinum 950",
     "stock": true,
+    "rating": 4.9,
     "bespoke": false,
     "kind": "watch, three-quarter",
-    "note": "One-minute tourbillon with a hand-engraved bridge and 72-hour reserve.",
-    "spec": "Calibre 2260 · 44 mm · platinum 950"
+    "note": "One-minute tourbillon with a hand-engraved bridge and 72-hour reserve."
    }
   },
   {

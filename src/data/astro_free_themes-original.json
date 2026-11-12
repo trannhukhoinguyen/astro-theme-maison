@@ -23,6 +23,7 @@
             "Other",
             "Portfolio"
         ],
+        "spec": "React - Tailwind",
         "detail_page_url": "https://astro.build/themes/details/astara/"
     },
     {
