@@ -18,7 +18,7 @@ const {
   ogImage,
 } = Astro.props;
 
-const siteOrigin = (Astro.site ?? new URL('https://astro-njx-maison.pages.dev')).origin;
+const siteOrigin = (Astro.site ?? new URL('https://astro-theme-maison.vercel.app')).origin;
 const canonicalURL = new URL(Astro.url.pathname, siteOrigin).href;
 const ogImageURL = new URL(ogImage ?? '/logo/maison-og.png', siteOrigin).href;
 const ga4Id = import.meta.env.PUBLIC_GA4_ID;
