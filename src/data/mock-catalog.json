@@ -2,7 +2,7 @@
  "collections": [
   {
    "handle": "Blog",
-   "name": "Maison de Haute Horlogerie",
+   "name": "Astro Blog",
    "short": "Haute Horlogerie",
    "meta": "Est. 1888 · Genève",
    "brandLabel": "House",
@@ -90,7 +90,7 @@
   },
   {
    "handle": "Docs",
-   "name": "Kingsman & Sterling Bespoke",
+   "name": "Astro Docs",
    "short": "Kingsman & Sterling",
    "meta": "Est. 1904 · Savile Row",
    "brandLabel": "Atelier",
@@ -178,7 +178,7 @@
   },
   {
    "handle": "E-commerce",
-   "name": "L'Atelier des Bibliophiles",
+   "name": "Astro E-commerce",
    "short": "Bibliophiles",
    "meta": "Est. 1792 · Paris",
    "brandLabel": "Imprint",
